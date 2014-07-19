@@ -1,0 +1,1 @@
+18731   ReDate ReTime bastion apmd[**] Version (** 3.0.2=1 **) (** (APM=1 **) BIOS 1.2 Linux driver 1.1**)

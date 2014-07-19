@@ -1,0 +1,1 @@
+18697   ReDate ReTime bastion kernel Calibrating delay loop... 169**.3** BogoMIPS

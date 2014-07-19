@@ -1,0 +1,400 @@
+Oct  4 17:11:33  authmgr[1453]: <522035> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 Station UP: BSSID=00:24:6c:ff:a0:e3 ESSID=MFIVAN VLAN=2 AP-name=00:24:6c:c7:fa:0e
+Oct  4 17:11:33  mobileip[1459]: <500010> <NOTI> |mobileip|  Station 00:23:68:ac:b8:b7, 0.0.0.0: Mobility trail, on switch 192.168.100.241, VLAN 2, AP 00:24:6c:c7:fa:0e, MFIVAN/00:24:6c:ff:a0:e3/g
+Oct  4 17:11:33  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 ingress 0x112e (tunnel 174), u_encr 1, m_encr 1, slotport 0x1040 , type: local, FW mode: 0, AP IP: 0.0.0.0
+Oct  4 17:11:33  authmgr[1453]: <522004> <DBUG> |authmgr|  station add: Created station with bssid=00:24:6c:ff:a0:e3, valid=1, @=0x107aa0e4
+Oct  4 17:11:33  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 def_vlan 2 derive vlan: 0 auth_type 0 auth_subtype 0
+Oct  4 17:11:35  authmgr[1453]: <522026> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 IP=192.168.2.243 User miss: ingress=0x112e, VLAN=2
+Oct  4 17:11:35  authmgr[1453]: <522006> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 IP=192.168.2.243 User entry added: reason=Sibtye
+Oct  4 17:11:35  authmgr[1453]: <522004> <DBUG> |authmgr|  Station inherit: IP=192.168.2.243 start bssid:00:00:00:00:00:00 essid:  port:0x112e (0x112e)
+Oct  4 17:11:35  authmgr[1453]: <522004> <DBUG> |authmgr|  Update role from logon to authenticated for IP=192.168.2.243
+Oct  4 17:11:35  authmgr[1453]: <522004> <DBUG> |authmgr|  Reset BWM contract: IP=192.168.2.243 role=authenticated, contract= (0), type=Per role
+Oct  4 17:11:35  authmgr[1453]: <522004> <DBUG> |authmgr|  station inherit IP=192.168.2.243 bssid:00:24:6c:ff:a0:e3 essid: MFIVAN auth:0 type: role:authenticated port:0x112e
+Oct  4 17:11:35  authmgr[1453]: <522004> <DBUG> |authmgr|  {192.168.2.243} autTable (" Unauthenticated  authenticated   ")
+Oct  4 17:11:35  authmgr[1453]: <522004> <DBUG> |authmgr|  download: ip=192.168.2.243 acl=48/0 role=authenticated, Ubwm=0, Dbwm=0 tunl=0x112e, PA=0, HA=1, RO=0, VPN=0
+Oct  4 17:20:11  stm[1454]: <501065> <DBUG> |stm|  Sending STA 00:23:68:ac:b8:b7 message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN 0x2, wmm:1, rsn_cap:0
+Oct  4 17:20:11  authmgr[1453]: <522036> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 Station DN: BSSID=00:24:6c:ff:a0:e3 ESSID=MFIVAN VLAN=2 AP-name=00:24:6c:c7:fa:0e
+Oct  4 17:20:11  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 ingress 0x112e (tunnel 174), u_encr 1, m_encr 1, slotport 0x1040 , type: local, FW mode: 0, AP IP: 0.0.0.0
+Oct  4 17:20:11  authmgr[1453]: <522004> <DBUG> |authmgr|  station free: bssid=00:24:6c:ff:a0:e3, valid=1, @=0x107aa0e4
+Oct  4 17:20:11  mobileip[1459]: <500511> <DBUG> |mobileip|  Station 00:23:68:ac:b8:b7, 0.0.0.0: Received disassociation on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name 00:24:6c:c7:fa:0e Group Mazin-Vancouver BSSID 00:24:6c:ff:a0:e3, phy g, VLAN 2
+Oct  4 17:20:11  stm[1454]: <501000> <DBUG> |stm|  Station 00:23:68:ac:b8:b7: Clearing state
+Oct  4 17:20:11  stm[1454]: <501065> <DBUG> |stm|  Sending STA 00:23:68:ac:b7:64 message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN 0x2, wmm:1, rsn_cap:0
+Oct  4 17:20:11  authmgr[1453]: <522036> <INFO> |authmgr|  MAC=00:23:68:ac:b7:64 Station DN: BSSID=00:24:6c:ff:a0:e3 ESSID=MFIVAN VLAN=2 AP-name=00:24:6c:c7:fa:0e
+Oct  4 17:20:11  mobileip[1459]: <500511> <DBUG> |mobileip|  Station 00:23:68:ac:b7:64, 0.0.0.0: Received disassociation on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name 00:24:6c:c7:fa:0e Group Mazin-Vancouver BSSID 00:24:6c:ff:a0:e3, phy g, VLAN 2
+Oct  4 17:20:11  mobileip[1459]: <500010> <NOTI> |mobileip|  Station 00:23:68:ac:b7:64, 0.0.0.0: Mobility trail, on switch 192.168.100.241, VLAN 2, AP 00:24:6c:c7:fa:0e, MFIVAN/00:24:6c:ff:a0:e3/g
+Oct  4 17:20:11  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b7:64 ingress 0x112e (tunnel 174), u_encr 1, m_encr 1, slotport 0x1040 , type: local, FW mode: 0, AP IP: 0.0.0.0
+Oct  4 17:20:11  authmgr[1453]: <522004> <DBUG> |authmgr|  station free: bssid=00:24:6c:ff:a0:e3, valid=1, @=0x107af57c
+Oct  4 17:20:11  stm[1454]: <501000> <DBUG> |stm|  Station 00:23:68:ac:b7:64: Clearing state
+Oct  4 17:23:29  stm[1454]: <501095> <NOTI> |stm|  Assoc request @ 17:23:29.508112: 00:23:68:ac:b8:b7 (SN 117): AP 192.168.1.62-00:24:6c:ff:a2:92-00:24:6c:c7:fa:29
+Oct  4 17:23:29  stm[1454]: <501100> <NOTI> |stm|  Assoc success @ 17:23:29.511136: 00:23:68:ac:b8:b7: AP 192.168.1.62-00:24:6c:ff:a2:92-00:24:6c:c7:fa:29
+Oct  4 17:23:29  stm[806]: <501095> <NOTI> |AP 00:24:6c:c7:fa:29@192.168.1.62 stm|  Assoc request @ 17:23:29.224949: 00:23:68:ac:b8:b7 (SN 117): AP 192.168.1.62-00:24:6c:ff:a2:92-00:24:6c:c7:fa:29
+Oct  4 17:23:29  stm[1454]: <501065> <DBUG> |stm|  Sending STA 00:23:68:ac:b8:b7 message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN 0x2, wmm:1, rsn_cap:0
+Oct  4 17:23:29  stm[806]: <501100> <NOTI> |AP 00:24:6c:c7:fa:29@192.168.1.62 stm|  Assoc success @ 17:23:29.227520: 00:23:68:ac:b8:b7: AP 192.168.1.62-00:24:6c:ff:a2:92-00:24:6c:c7:fa:29
+Oct  4 17:23:29  mobileip[1459]: <500511> <DBUG> |mobileip|  Station 00:23:68:ac:b8:b7, 0.0.0.0: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name 00:24:6c:c7:fa:29 Group Mazin-Vancouver BSSID 00:24:6c:ff:a2:92, phy g, VLAN 2
+Oct  4 17:23:29  authmgr[1453]: <522035> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 Station UP: BSSID=00:24:6c:ff:a2:92 ESSID=MFIVAN VLAN=2 AP-name=00:24:6c:c7:fa:29
+Oct  4 17:23:29  mobileip[1459]: <500010> <NOTI> |mobileip|  Station 00:23:68:ac:b8:b7, 0.0.0.0: Mobility trail, on switch 192.168.100.241, VLAN 2, AP 00:24:6c:c7:fa:29, MFIVAN/00:24:6c:ff:a2:92/g
+Oct  4 17:23:29  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 ingress 0x10cf (tunnel 79), u_encr 1, m_encr 1, slotport 0x1040 , type: local, FW mode: 0, AP IP: 0.0.0.0
+Oct  4 17:23:29  authmgr[1453]: <522004> <DBUG> |authmgr|  station add: Created station with bssid=00:24:6c:ff:a2:92, valid=1, @=0x107965f4
+Oct  4 17:23:29  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 def_vlan 2 derive vlan: 0 auth_type 0 auth_subtype 0
+Oct  4 17:23:34  stm[1454]: <501095> <NOTI> |stm|  Assoc request @ 17:23:34.355841: 00:23:68:ac:b7:64 (SN 2633): AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:23:34  stm[1454]: <501100> <NOTI> |stm|  Assoc success @ 17:23:34.358841: 00:23:68:ac:b7:64: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:23:34  stm[806]: <501095> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Assoc request @ 17:23:34.071352: 00:23:68:ac:b7:64 (SN 2633): AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:23:34  stm[1454]: <501065> <DBUG> |stm|  Sending STA 00:23:68:ac:b7:64 message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN 0x2, wmm:1, rsn_cap:0
+Oct  4 17:23:34  stm[806]: <501100> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Assoc success @ 17:23:34.072965: 00:23:68:ac:b7:64: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:23:34  authmgr[1453]: <522035> <INFO> |authmgr|  MAC=00:23:68:ac:b7:64 Station UP: BSSID=00:24:6c:ff:a0:e2 ESSID=MFIVAN VLAN=2 AP-name=00:24:6c:c7:fa:0e
+Oct  4 17:23:34  mobileip[1459]: <500511> <DBUG> |mobileip|  Station 00:23:68:ac:b7:64, 0.0.0.0: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name 00:24:6c:c7:fa:0e Group Mazin-Vancouver BSSID 00:24:6c:ff:a0:e2, phy g, VLAN 2
+Oct  4 17:23:34  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b7:64 ingress 0x111f (tunnel 159), u_encr 1, m_encr 1, slotport 0x1040 , type: local, FW mode: 0, AP IP: 0.0.0.0
+Oct  4 17:23:34  authmgr[1453]: <522004> <DBUG> |authmgr|  station add: Created station with bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107ab5b4
+Oct  4 17:23:34  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b7:64 def_vlan 2 derive vlan: 0 auth_type 0 auth_subtype 0
+Oct  4 17:23:35  stm[1454]: <501095> <NOTI> |stm|  Assoc request @ 17:23:35.479531: 00:23:68:ac:b8:b7 (SN 143): AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:23:35  stm[1454]: <501065> <DBUG> |stm|  Client 00:23:68:ac:b8:b7 moved from AP 00:24:6c:c7:fa:29 to AP 00:24:6c:c7:fa:0e
+Oct  4 17:23:35  stm[1454]: <501065> <DBUG> |stm|  Sending STA 00:23:68:ac:b8:b7 message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN 0x2, wmm:1, rsn_cap:0
+Oct  4 17:23:35  mobileip[1459]: <500511> <DBUG> |mobileip|  Station 00:23:68:ac:b8:b7, 0.0.0.0: Received disassociation on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name 00:24:6c:c7:fa:29 Group Mazin-Vancouver BSSID 00:24:6c:ff:a2:92, phy g, VLAN 2
+Oct  4 17:23:35  authmgr[1453]: <522036> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 Station DN: BSSID=00:24:6c:ff:a2:92 ESSID=MFIVAN VLAN=2 AP-name=00:24:6c:c7:fa:29
+Oct  4 17:23:35  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 ingress 0x10cf (tunnel 79), u_encr 1, m_encr 1, slotport 0x1040 , type: local, FW mode: 0, AP IP: 0.0.0.0
+Oct  4 17:23:35  authmgr[1453]: <522004> <DBUG> |authmgr|  station free: bssid=00:24:6c:ff:a2:92, valid=1, @=0x107965f4
+Oct  4 17:23:35  stm[1454]: <501080> <NOTI> |stm|  Deauth to sta: 00:23:68:ac:b8:b7: Ageout AP 192.168.1.62-00:24:6c:ff:a2:92-00:24:6c:c7:fa:29 STA has left and is deauthenticated
+Oct  4 17:23:35  stm[1454]: <501100> <NOTI> |stm|  Assoc success @ 17:23:35.487046: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:23:35  stm[806]: <501095> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Assoc request @ 17:23:35.197427: 00:23:68:ac:b8:b7 (SN 143): AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:23:35  stm[1454]: <501065> <DBUG> |stm|  Sending STA 00:23:68:ac:b8:b7 message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN 0x2, wmm:1, rsn_cap:0
+Oct  4 17:23:35  stm[806]: <501100> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Assoc success @ 17:23:35.199017: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:23:35  authmgr[1453]: <522035> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 Station UP: BSSID=00:24:6c:ff:a0:e2 ESSID=MFIVAN VLAN=2 AP-name=00:24:6c:c7:fa:0e
+Oct  4 17:23:35  mobileip[1459]: <500511> <DBUG> |mobileip|  Station 00:23:68:ac:b8:b7, 0.0.0.0: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name 00:24:6c:c7:fa:0e Group Mazin-Vancouver BSSID 00:24:6c:ff:a0:e2, phy g, VLAN 2
+Oct  4 17:23:35  mobileip[1459]: <500010> <NOTI> |mobileip|  Station 00:23:68:ac:b8:b7, 0.0.0.0: Mobility trail, on switch 192.168.100.241, VLAN 2, AP 00:24:6c:c7:fa:0e, MFIVAN/00:24:6c:ff:a0:e2/g
+Oct  4 17:23:35  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 ingress 0x111f (tunnel 159), u_encr 1, m_encr 1, slotport 0x1040 , type: local, FW mode: 0, AP IP: 0.0.0.0
+Oct  4 17:23:35  authmgr[1453]: <522004> <DBUG> |authmgr|  station add: Created station with bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107965f4
+Oct  4 17:23:35  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 def_vlan 2 derive vlan: 0 auth_type 0 auth_subtype 0
+Oct  4 17:23:35  stm[806]: <501105> <NOTI> |AP 00:24:6c:c7:fa:29@192.168.1.62 stm|  Deauth from sta: 00:23:68:ac:b8:b7: AP 192.168.1.62-00:24:6c:ff:a2:92-00:24:6c:c7:fa:29 Reason STA has left and is deauthenticated
+Oct  4 17:23:35  stm[806]: <501000> <DBUG> |AP 00:24:6c:c7:fa:29@192.168.1.62 stm|  Station 00:23:68:ac:b8:b7: Clearing state
+Oct  4 17:23:37  stm[806]: <501095> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Assoc request @ 17:23:36.882983: 00:23:68:ac:b8:b7 (SN 156): AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:23:37  stm[806]: <501100> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Assoc success @ 17:23:36.884374: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:23:37  stm[1454]: <501095> <NOTI> |stm|  Assoc request @ 17:23:37.173937: 00:23:68:ac:b8:b7 (SN 156): AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:23:37  stm[1454]: <501100> <NOTI> |stm|  Assoc success @ 17:23:37.174470: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:23:37  stm[1454]: <501065> <DBUG> |stm|  Sending STA 00:23:68:ac:b8:b7 message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN 0x2, wmm:1, rsn_cap:0
+Oct  4 17:23:37  authmgr[1453]: <522035> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 Station UP: BSSID=00:24:6c:ff:a0:e2 ESSID=MFIVAN VLAN=2 AP-name=00:24:6c:c7:fa:0e
+Oct  4 17:23:37  mobileip[1459]: <500511> <DBUG> |mobileip|  Station 00:23:68:ac:b8:b7, 0.0.0.0: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name 00:24:6c:c7:fa:0e Group Mazin-Vancouver BSSID 00:24:6c:ff:a0:e2, phy g, VLAN 2
+Oct  4 17:23:37  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 ingress 0x111f (tunnel 159), u_encr 1, m_encr 1, slotport 0x1040 , type: local, FW mode: 0, AP IP: 0.0.0.0
+Oct  4 17:23:37  authmgr[1453]: <522004> <DBUG> |authmgr|  station add: Found station with bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107965f4
+Oct  4 17:23:37  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 def_vlan 2 derive vlan: 0 auth_type 0 auth_subtype 0
+Oct  4 17:23:39  stm[1454]: <501095> <NOTI> |stm|  Assoc request @ 17:23:39.771597: 00:23:68:ac:b7:64 (SN 2671): AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:23:39  stm[1454]: <501100> <NOTI> |stm|  Assoc success @ 17:23:39.772138: 00:23:68:ac:b7:64: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:23:39  stm[806]: <501095> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Assoc request @ 17:23:39.482964: 00:23:68:ac:b7:64 (SN 2671): AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:23:39  stm[1454]: <501065> <DBUG> |stm|  Sending STA 00:23:68:ac:b7:64 message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN 0x2, wmm:1, rsn_cap:0
+Oct  4 17:23:39  stm[806]: <501100> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Assoc success @ 17:23:39.484124: 00:23:68:ac:b7:64: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:23:39  mobileip[1459]: <500511> <DBUG> |mobileip|  Station 00:23:68:ac:b7:64, 0.0.0.0: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name 00:24:6c:c7:fa:0e Group Mazin-Vancouver BSSID 00:24:6c:ff:a0:e2, phy g, VLAN 2
+Oct  4 17:23:39  authmgr[1453]: <522035> <INFO> |authmgr|  MAC=00:23:68:ac:b7:64 Station UP: BSSID=00:24:6c:ff:a0:e2 ESSID=MFIVAN VLAN=2 AP-name=00:24:6c:c7:fa:0e
+Oct  4 17:23:39  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b7:64 ingress 0x111f (tunnel 159), u_encr 1, m_encr 1, slotport 0x1040 , type: local, FW mode: 0, AP IP: 0.0.0.0
+Oct  4 17:23:39  authmgr[1453]: <522004> <DBUG> |authmgr|  station add: Found station with bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107ab5b4
+Oct  4 17:23:39  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b7:64 def_vlan 2 derive vlan: 0 auth_type 0 auth_subtype 0
+Oct  4 17:25:48  authmgr[1453]: <522004> <DBUG> |authmgr|  AU0(0), HA1, TAP0, PARP0 OIP0 IIP0 INT0 WD0 FW0 DT1
+Oct  4 17:25:48  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b7:64 IP=192.168.2.242 Send mobility delete message, flags=0x0
+Oct  4 17:25:48  authmgr[1453]: <522004> <DBUG> |authmgr|  {192.168.2.242} datapath entry deleted
+Oct  4 17:25:48  authmgr[1453]: <522005> <INFO> |authmgr|  MAC=00:23:68:ac:b7:64 IP=192.168.2.242 User entry deleted: reason=user request
+Oct  4 17:25:48  authmgr[1453]: <522004> <DBUG> |authmgr|  00:23:68:ac:b7:64: station datapath entry deleted
+Oct  4 17:25:48  stm[1454]: <501074> <WARN> |stm|  wifi_deauth_sta: bad data, dropping. mac: 00:23:68:ac:b7:64 bssid: 00:24:6c:ff:a0:e3
+Oct  4 17:25:56  authmgr[1453]: <522004> <DBUG> |authmgr|  AU0(0), HA1, TAP0, PARP0 OIP0 IIP0 INT0 WD0 FW0 DT1
+Oct  4 17:25:56  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 IP=192.168.2.243 Send mobility delete message, flags=0x0
+Oct  4 17:25:56  authmgr[1453]: <522004> <DBUG> |authmgr|  {192.168.2.243} datapath entry deleted
+Oct  4 17:25:56  authmgr[1453]: <522005> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 IP=192.168.2.243 User entry deleted: reason=user request
+Oct  4 17:25:56  authmgr[1453]: <522004> <DBUG> |authmgr|  00:23:68:ac:b8:b7: station datapath entry deleted
+Oct  4 17:25:56  stm[1454]: <501074> <WARN> |stm|  wifi_deauth_sta: bad data, dropping. mac: 00:23:68:ac:b8:b7 bssid: 00:24:6c:ff:a0:e3
+Oct  4 17:31:57  stm[1454]: <501095> <NOTI> |stm|  Assoc request @ 17:31:57.791068: 00:23:68:ac:b8:b7 (SN 17): AP 192.168.1.61-00:24:6c:ff:a1:12-00:24:6c:c7:fa:11
+Oct  4 17:31:57  stm[1454]: <501065> <DBUG> |stm|  Client 00:23:68:ac:b8:b7 moved from AP 00:24:6c:c7:fa:0e to AP 00:24:6c:c7:fa:11
+Oct  4 17:31:57  stm[1454]: <501065> <DBUG> |stm|  Sending STA 00:23:68:ac:b8:b7 message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN 0x2, wmm:1, rsn_cap:0
+Oct  4 17:31:57  mobileip[1459]: <500511> <DBUG> |mobileip|  Station 00:23:68:ac:b8:b7, 0.0.0.0: Received disassociation on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name 00:24:6c:c7:fa:0e Group Mazin-Vancouver BSSID 00:24:6c:ff:a0:e2, phy g, VLAN 2
+Oct  4 17:31:57  authmgr[1453]: <522036> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 Station DN: BSSID=00:24:6c:ff:a0:e2 ESSID=MFIVAN VLAN=2 AP-name=00:24:6c:c7:fa:0e
+Oct  4 17:31:57  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 ingress 0x111f (tunnel 159), u_encr 1, m_encr 1, slotport 0x1040 , type: local, FW mode: 0, AP IP: 0.0.0.0
+Oct  4 17:31:57  authmgr[1453]: <522004> <DBUG> |authmgr|  station free: bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107965f4
+Oct  4 17:31:57  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 Send Station delete message to mobility
+Oct  4 17:31:57  authmgr[1453]: <522004> <DBUG> |authmgr|  00:23:68:ac:b8:b7: station datapath entry deleted
+Oct  4 17:31:57  stm[806]: <501095> <NOTI> |AP 00:24:6c:c7:fa:11@192.168.1.61 stm|  Assoc request @ 17:31:57.626133: 00:23:68:ac:b8:b7 (SN 17): AP 192.168.1.61-00:24:6c:ff:a1:12-00:24:6c:c7:fa:11
+Oct  4 17:31:57  stm[1454]: <501080> <NOTI> |stm|  Deauth to sta: 00:23:68:ac:b8:b7: Ageout AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e STA has left and is deauthenticated
+Oct  4 17:31:57  stm[1454]: <501100> <NOTI> |stm|  Assoc success @ 17:31:57.798415: 00:23:68:ac:b8:b7: AP 192.168.1.61-00:24:6c:ff:a1:12-00:24:6c:c7:fa:11
+Oct  4 17:31:57  stm[1454]: <501065> <DBUG> |stm|  Sending STA 00:23:68:ac:b8:b7 message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN 0x2, wmm:1, rsn_cap:0
+Oct  4 17:31:57  mobileip[1459]: <500511> <DBUG> |mobileip|  Station 00:23:68:ac:b8:b7, 0.0.0.0: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name 00:24:6c:c7:fa:11 Group Mazin-Vancouver BSSID 00:24:6c:ff:a1:12, phy g, VLAN 2
+Oct  4 17:31:57  stm[806]: <501100> <NOTI> |AP 00:24:6c:c7:fa:11@192.168.1.61 stm|  Assoc success @ 17:31:57.628828: 00:23:68:ac:b8:b7: AP 192.168.1.61-00:24:6c:ff:a1:12-00:24:6c:c7:fa:11
+Oct  4 17:31:57  authmgr[1453]: <522035> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 Station UP: BSSID=00:24:6c:ff:a1:12 ESSID=MFIVAN VLAN=2 AP-name=00:24:6c:c7:fa:11
+Oct  4 17:31:57  mobileip[1459]: <500010> <NOTI> |mobileip|  Station 00:23:68:ac:b8:b7, 0.0.0.0: Mobility trail, on switch 192.168.100.241, VLAN 2, AP 00:24:6c:c7:fa:11, MFIVAN/00:24:6c:ff:a1:12/g
+Oct  4 17:31:57  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 ingress 0x10df (tunnel 95), u_encr 1, m_encr 1, slotport 0x1040 , type: local, FW mode: 0, AP IP: 0.0.0.0
+Oct  4 17:31:57  authmgr[1453]: <522004> <DBUG> |authmgr|  station add: Created station with bssid=00:24:6c:ff:a1:12, valid=1, @=0x107a8a0c
+Oct  4 17:31:57  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 def_vlan 2 derive vlan: 0 auth_type 0 auth_subtype 0
+Oct  4 17:31:57  stm[806]: <501105> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Deauth from sta: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e Reason STA has left and is deauthenticated
+Oct  4 17:31:57  stm[806]: <501000> <DBUG> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Station 00:23:68:ac:b8:b7: Clearing state
+Oct  4 17:31:59  stm[806]: <501095> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Assoc request @ 17:31:59.526046: 00:23:68:ac:b8:b7 (SN 32): AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:31:59  stm[806]: <501100> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Assoc success @ 17:31:59.527507: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:31:59  stm[1454]: <501095> <NOTI> |stm|  Assoc request @ 17:31:59.639906: 00:23:68:ac:b8:b7 (SN 32): AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:31:59  stm[1454]: <501065> <DBUG> |stm|  Client 00:23:68:ac:b8:b7 moved from AP 00:24:6c:c7:fa:11 to AP 00:24:6c:c7:fa:0e
+Oct  4 17:31:59  stm[1454]: <501065> <DBUG> |stm|  Sending STA 00:23:68:ac:b8:b7 message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN 0x2, wmm:1, rsn_cap:0
+Oct  4 17:31:59  authmgr[1453]: <522036> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 Station DN: BSSID=00:24:6c:ff:a1:12 ESSID=MFIVAN VLAN=2 AP-name=00:24:6c:c7:fa:11
+Oct  4 17:31:59  mobileip[1459]: <500511> <DBUG> |mobileip|  Station 00:23:68:ac:b8:b7, 0.0.0.0: Received disassociation on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name 00:24:6c:c7:fa:11 Group Mazin-Vancouver BSSID 00:24:6c:ff:a1:12, phy g, VLAN 2
+Oct  4 17:31:59  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 ingress 0x10df (tunnel 95), u_encr 1, m_encr 1, slotport 0x1040 , type: local, FW mode: 0, AP IP: 0.0.0.0
+Oct  4 17:31:59  authmgr[1453]: <522004> <DBUG> |authmgr|  station free: bssid=00:24:6c:ff:a1:12, valid=1, @=0x107a8a0c
+Oct  4 17:31:59  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 Send Station delete message to mobility
+Oct  4 17:31:59  stm[1454]: <501080> <NOTI> |stm|  Deauth to sta: 00:23:68:ac:b8:b7: Ageout AP 192.168.1.61-00:24:6c:ff:a1:12-00:24:6c:c7:fa:11 STA has left and is deauthenticated
+Oct  4 17:31:59  stm[1454]: <501100> <NOTI> |stm|  Assoc success @ 17:31:59.647949: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:31:59  stm[1454]: <501065> <DBUG> |stm|  Sending STA 00:23:68:ac:b8:b7 message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN 0x2, wmm:1, rsn_cap:0
+Oct  4 17:31:59  mobileip[1459]: <500511> <DBUG> |mobileip|  Station 00:23:68:ac:b8:b7, 0.0.0.0: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name 00:24:6c:c7:fa:0e Group Mazin-Vancouver BSSID 00:24:6c:ff:a0:e2, phy g, VLAN 2
+Oct  4 17:31:59  authmgr[1453]: <522035> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 Station UP: BSSID=00:24:6c:ff:a0:e2 ESSID=MFIVAN VLAN=2 AP-name=00:24:6c:c7:fa:0e
+Oct  4 17:31:59  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 ingress 0x111f (tunnel 159), u_encr 1, m_encr 1, slotport 0x1040 , type: local, FW mode: 0, AP IP: 0.0.0.0
+Oct  4 17:31:59  mobileip[1459]: <500010> <NOTI> |mobileip|  Station 00:23:68:ac:b8:b7, 0.0.0.0: Mobility trail, on switch 192.168.100.241, VLAN 2, AP 00:24:6c:c7:fa:0e, MFIVAN/00:24:6c:ff:a0:e2/g
+Oct  4 17:31:59  authmgr[1453]: <522004> <DBUG> |authmgr|  station add: Created station with bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107a8a0c
+Oct  4 17:31:59  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 def_vlan 2 derive vlan: 0 auth_type 0 auth_subtype 0
+Oct  4 17:31:59  stm[806]: <501105> <NOTI> |AP 00:24:6c:c7:fa:11@192.168.1.61 stm|  Deauth from sta: 00:23:68:ac:b8:b7: AP 192.168.1.61-00:24:6c:ff:a1:12-00:24:6c:c7:fa:11 Reason STA has left and is deauthenticated
+Oct  4 17:31:59  stm[806]: <501000> <DBUG> |AP 00:24:6c:c7:fa:11@192.168.1.61 stm|  Station 00:23:68:ac:b8:b7: Clearing state
+Oct  4 17:32:00  authmgr[1453]: <522026> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 IP=192.168.2.243 User miss: ingress=0x111f, VLAN=2
+Oct  4 17:32:00  authmgr[1453]: <522006> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 IP=192.168.2.243 User entry added: reason=Sibtye
+Oct  4 17:32:00  authmgr[1453]: <522004> <DBUG> |authmgr|  Station inherit: IP=192.168.2.243 start bssid:00:00:00:00:00:00 essid:  port:0x111f (0x111f)
+Oct  4 17:32:00  authmgr[1453]: <522004> <DBUG> |authmgr|  {L3} Update role from logon to authenticated for IP=192.168.2.243
+Oct  4 17:32:00  authmgr[1453]: <522004> <DBUG> |authmgr|  Reset BWM contract: IP=192.168.2.243 role=authenticated, contract= (0), type=Per role
+Oct  4 17:32:00  authmgr[1453]: <522004> <DBUG> |authmgr|  station inherit IP=192.168.2.243 bssid:00:24:6c:ff:a0:e2 essid: MFIVAN auth:0 type: role:authenticated port:0x111f
+Oct  4 17:32:00  authmgr[1453]: <522004> <DBUG> |authmgr|  {192.168.2.243} autTable (" Unauthenticated  authenticated   ")
+Oct  4 17:32:00  authmgr[1453]: <522004> <DBUG> |authmgr|  download: ip=192.168.2.243 acl=48/0 role=authenticated, Ubwm=0, Dbwm=0 tunl=0x111f, PA=0, HA=1, RO=0, VPN=0
+Oct  4 17:34:17  stm[1454]: <501065> <DBUG> |stm|  Sending STA 00:23:68:ac:b7:64 message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN 0x2, wmm:1, rsn_cap:0
+Oct  4 17:34:17  authmgr[1453]: <522036> <INFO> |authmgr|  MAC=00:23:68:ac:b7:64 Station DN: BSSID=00:24:6c:ff:a0:e2 ESSID=MFIVAN VLAN=2 AP-name=00:24:6c:c7:fa:0e
+Oct  4 17:34:17  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b7:64 ingress 0x111f (tunnel 159), u_encr 1, m_encr 1, slotport 0x1040 , type: local, FW mode: 0, AP IP: 0.0.0.0
+Oct  4 17:34:17  authmgr[1453]: <522004> <DBUG> |authmgr|  station free: bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107ab5b4
+Oct  4 17:34:17  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b7:64 Send Station delete message to mobility
+Oct  4 17:34:17  authmgr[1453]: <522004> <DBUG> |authmgr|  00:23:68:ac:b7:64: station datapath entry deleted
+Oct  4 17:34:17  mobileip[1459]: <500511> <DBUG> |mobileip|  Station 00:23:68:ac:b7:64, 0.0.0.0: Received disassociation on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name 00:24:6c:c7:fa:0e Group Mazin-Vancouver BSSID 00:24:6c:ff:a0:e2, phy g, VLAN 2
+Oct  4 17:34:17  mobileip[1459]: <500010> <NOTI> |mobileip|  Station 00:23:68:ac:b7:64, 0.0.0.0: Mobility trail, on switch 192.168.100.241, VLAN 2, AP 00:24:6c:c7:fa:0e, MFIVAN/00:24:6c:ff:a0:e2/g
+Oct  4 17:34:17  stm[1454]: <501080> <NOTI> |stm|  Deauth to sta: 00:23:68:ac:b7:64: Ageout AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e Unspecified Failure
+Oct  4 17:34:17  stm[1454]: <501000> <DBUG> |stm|  Station 00:23:68:ac:b7:64: Clearing state
+Oct  4 17:34:17  stm[1454]: <501065> <DBUG> |stm|  Sending STA 00:23:68:ac:b8:b7 message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN 0x2, wmm:1, rsn_cap:0
+Oct  4 17:34:17  authmgr[1453]: <522036> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 Station DN: BSSID=00:24:6c:ff:a0:e2 ESSID=MFIVAN VLAN=2 AP-name=00:24:6c:c7:fa:0e
+Oct  4 17:34:17  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 ingress 0x111f (tunnel 159), u_encr 1, m_encr 1, slotport 0x1040 , type: local, FW mode: 0, AP IP: 0.0.0.0
+Oct  4 17:34:17  authmgr[1453]: <522004> <DBUG> |authmgr|  station free: bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107a8a0c
+Oct  4 17:34:17  mobileip[1459]: <500511> <DBUG> |mobileip|  Station 00:23:68:ac:b8:b7, 0.0.0.0: Received disassociation on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name 00:24:6c:c7:fa:0e Group Mazin-Vancouver BSSID 00:24:6c:ff:a0:e2, phy g, VLAN 2
+Oct  4 17:34:17  stm[1454]: <501080> <NOTI> |stm|  Deauth to sta: 00:23:68:ac:b8:b7: Ageout AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e Unspecified Failure
+Oct  4 17:34:17  stm[1454]: <501000> <DBUG> |stm|  Station 00:23:68:ac:b8:b7: Clearing state
+Oct  4 17:34:18  stm[806]: <501000> <DBUG> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Station 00:23:68:ac:b7:64: Clearing state
+Oct  4 17:34:18  stm[806]: <501105> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Deauth from sta: 00:23:68:ac:b7:64: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e Reason STA has left and is deauthenticated
+Oct  4 17:34:20  stm[1454]: <501095> <NOTI> |stm|  Assoc request @ 17:34:20.416742: 00:23:68:ac:b8:b7 (SN 113): AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:34:20  stm[1454]: <501100> <NOTI> |stm|  Assoc success @ 17:34:20.419697: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:34:20  stm[806]: <501095> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Assoc request @ 17:34:20.256175: 00:23:68:ac:b8:b7 (SN 113): AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:34:20  stm[1454]: <501065> <DBUG> |stm|  Sending STA 00:23:68:ac:b8:b7 message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN 0x1, wmm:1, rsn_cap:0
+Oct  4 17:34:20  stm[806]: <501100> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Assoc success @ 17:34:20.257917: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:34:20  authmgr[1453]: <522035> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 Station UP: BSSID=00:24:6c:ff:a0:e2 ESSID=MFIVAN VLAN=1 AP-name=00:24:6c:c7:fa:0e
+Oct  4 17:34:20  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 ingress 0x10c1 (tunnel 65), u_encr 1, m_encr 1, slotport 0x1040 , type: local, FW mode: 0, AP IP: 0.0.0.0
+Oct  4 17:34:20  authmgr[1453]: <522004> <DBUG> |authmgr|  station add: Created station with bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107b233c
+Oct  4 17:34:20  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 def_vlan 1 derive vlan: 0 auth_type 0 auth_subtype 0
+Oct  4 17:34:20  mobileip[1459]: <500511> <DBUG> |mobileip|  Station 00:23:68:ac:b8:b7, 0.0.0.0: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name 00:24:6c:c7:fa:0e Group Mazin-Vancouver BSSID 00:24:6c:ff:a0:e2, phy g, VLAN 1
+Oct  4 17:34:20  mobileip[1459]: <500010> <NOTI> |mobileip|  Station 00:23:68:ac:b8:b7, 0.0.0.0: Mobility trail, on switch 192.168.100.241, VLAN 1, AP 00:24:6c:c7:fa:0e, MFIVAN/00:24:6c:ff:a0:e2/g
+Oct  4 17:34:27  stm[1454]: <501065> <DBUG> |stm|  Sending STA 00:23:68:ac:b8:b7 message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN 0x1, wmm:1, rsn_cap:0
+Oct  4 17:34:27  authmgr[1453]: <522036> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 Station DN: BSSID=00:24:6c:ff:a0:e2 ESSID=MFIVAN VLAN=1 AP-name=00:24:6c:c7:fa:0e
+Oct  4 17:34:27  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 ingress 0x10c1 (tunnel 65), u_encr 1, m_encr 1, slotport 0x1040 , type: local, FW mode: 0, AP IP: 0.0.0.0
+Oct  4 17:34:27  authmgr[1453]: <522004> <DBUG> |authmgr|  station free: bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107b233c
+Oct  4 17:34:27  mobileip[1459]: <500511> <DBUG> |mobileip|  Station 00:23:68:ac:b8:b7, 0.0.0.0: Received disassociation on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name 00:24:6c:c7:fa:0e Group Mazin-Vancouver BSSID 00:24:6c:ff:a0:e2, phy g, VLAN 1
+Oct  4 17:34:27  stm[1454]: <501080> <NOTI> |stm|  Deauth to sta: 00:23:68:ac:b8:b7: Ageout AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e Unspecified Failure
+Oct  4 17:34:27  stm[1454]: <501000> <DBUG> |stm|  Station 00:23:68:ac:b8:b7: Clearing state
+Oct  4 17:34:27  stm[806]: <501105> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Deauth from sta: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e Reason STA has left and is deauthenticated
+Oct  4 17:34:27  stm[806]: <501000> <DBUG> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Station 00:23:68:ac:b8:b7: Clearing state
+Oct  4 17:34:30  stm[1454]: <501095> <NOTI> |stm|  Assoc request @ 17:34:30.840343: 00:23:68:ac:b8:b7 (SN 132): AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:34:30  stm[1454]: <501100> <NOTI> |stm|  Assoc success @ 17:34:30.843666: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:34:30  stm[1454]: <501065> <DBUG> |stm|  Sending STA 00:23:68:ac:b8:b7 message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN 0x1, wmm:1, rsn_cap:0
+Oct  4 17:34:30  authmgr[1453]: <522035> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 Station UP: BSSID=00:24:6c:ff:a0:e2 ESSID=MFIVAN VLAN=1 AP-name=00:24:6c:c7:fa:0e
+Oct  4 17:34:30  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 ingress 0x10bd (tunnel 61), u_encr 1, m_encr 1, slotport 0x1040 , type: local, FW mode: 0, AP IP: 0.0.0.0
+Oct  4 17:34:30  authmgr[1453]: <522004> <DBUG> |authmgr|  station add: Created station with bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107ab5b4
+Oct  4 17:34:30  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 def_vlan 1 derive vlan: 0 auth_type 0 auth_subtype 0
+Oct  4 17:34:30  stm[806]: <501095> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Assoc request @ 17:34:30.745125: 00:23:68:ac:b8:b7 (SN 132): AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:34:30  stm[806]: <501100> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Assoc success @ 17:34:30.746906: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:34:30  mobileip[1459]: <500511> <DBUG> |mobileip|  Station 00:23:68:ac:b8:b7, 0.0.0.0: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name 00:24:6c:c7:fa:0e Group Mazin-Vancouver BSSID 00:24:6c:ff:a0:e2, phy g, VLAN 1
+Oct  4 17:34:35  authmgr[1453]: <522026> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 IP=192.168.100.120 User miss: ingress=0x10bd, VLAN=1
+Oct  4 17:34:35  authmgr[1453]: <522006> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 IP=192.168.100.120 User entry added: reason=Sibtye
+Oct  4 17:34:35  authmgr[1453]: <522004> <DBUG> |authmgr|  Station inherit: IP=192.168.100.120 start bssid:00:00:00:00:00:00 essid:  port:0x10bd (0x10bd)
+Oct  4 17:34:35  authmgr[1453]: <522004> <DBUG> |authmgr|  {L3} Update role from logon to authenticated for IP=192.168.100.120
+Oct  4 17:34:35  authmgr[1453]: <522004> <DBUG> |authmgr|  Reset BWM contract: IP=192.168.100.120 role=authenticated, contract= (0), type=Per role
+Oct  4 17:34:35  authmgr[1453]: <522004> <DBUG> |authmgr|  station inherit IP=192.168.100.120 bssid:00:24:6c:ff:a0:e2 essid: MFIVAN auth:0 type: role:authenticated port:0x10bd
+Oct  4 17:34:35  authmgr[1453]: <522004> <DBUG> |authmgr|  {192.168.100.120} autTable (" Unauthenticated  authenticated   ")
+Oct  4 17:34:35  authmgr[1453]: <522004> <DBUG> |authmgr|  download: ip=192.168.100.120 acl=48/0 role=authenticated, Ubwm=0, Dbwm=0 tunl=0x10bd, PA=0, HA=1, RO=0, VPN=0
+Oct  4 17:34:35  stm[806]: <501095> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Assoc request @ 17:34:35.511405: 00:23:68:ac:b7:64 (SN 2717): AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:34:35  stm[1454]: <501095> <NOTI> |stm|  Assoc request @ 17:34:35.628765: 00:23:68:ac:b7:64 (SN 2717): AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:34:35  stm[806]: <501100> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Assoc success @ 17:34:35.512910: 00:23:68:ac:b7:64: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:34:35  stm[1454]: <501100> <NOTI> |stm|  Assoc success @ 17:34:35.633268: 00:23:68:ac:b7:64: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:34:35  stm[1454]: <501065> <DBUG> |stm|  Sending STA 00:23:68:ac:b7:64 message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN 0x1, wmm:1, rsn_cap:0
+Oct  4 17:34:35  mobileip[1459]: <500511> <DBUG> |mobileip|  Station 00:23:68:ac:b7:64, 0.0.0.0: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name 00:24:6c:c7:fa:0e Group Mazin-Vancouver BSSID 00:24:6c:ff:a0:e2, phy g, VLAN 1
+Oct  4 17:34:35  authmgr[1453]: <522035> <INFO> |authmgr|  MAC=00:23:68:ac:b7:64 Station UP: BSSID=00:24:6c:ff:a0:e2 ESSID=MFIVAN VLAN=1 AP-name=00:24:6c:c7:fa:0e
+Oct  4 17:34:35  mobileip[1459]: <500010> <NOTI> |mobileip|  Station 00:23:68:ac:b7:64, 0.0.0.0: Mobility trail, on switch 192.168.100.241, VLAN 1, AP 00:24:6c:c7:fa:0e, MFIVAN/00:24:6c:ff:a0:e2/g
+Oct  4 17:34:35  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b7:64 ingress 0x10bd (tunnel 61), u_encr 1, m_encr 1, slotport 0x1040 , type: local, FW mode: 0, AP IP: 0.0.0.0
+Oct  4 17:34:35  authmgr[1453]: <522004> <DBUG> |authmgr|  station add: Created station with bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107a926c
+Oct  4 17:34:35  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b7:64 def_vlan 1 derive vlan: 0 auth_type 0 auth_subtype 0
+Oct  4 17:34:48  authmgr[1453]: <522026> <INFO> |authmgr|  MAC=00:23:68:ac:b7:64 IP=192.168.100.123 User miss: ingress=0x10bd, VLAN=1
+Oct  4 17:34:48  authmgr[1453]: <522006> <INFO> |authmgr|  MAC=00:23:68:ac:b7:64 IP=192.168.100.123 User entry added: reason=Sibtye
+Oct  4 17:34:48  authmgr[1453]: <522004> <DBUG> |authmgr|  Station inherit: IP=192.168.100.123 start bssid:00:00:00:00:00:00 essid:  port:0x10bd (0x10bd)
+Oct  4 17:34:48  authmgr[1453]: <522004> <DBUG> |authmgr|  {L3} Update role from logon to authenticated for IP=192.168.100.123
+Oct  4 17:34:48  authmgr[1453]: <522004> <DBUG> |authmgr|  Reset BWM contract: IP=192.168.100.123 role=authenticated, contract= (0), type=Per role
+Oct  4 17:34:48  authmgr[1453]: <522004> <DBUG> |authmgr|  station inherit IP=192.168.100.123 bssid:00:24:6c:ff:a0:e2 essid: MFIVAN auth:0 type: role:authenticated port:0x10bd
+Oct  4 17:34:48  authmgr[1453]: <522004> <DBUG> |authmgr|  {192.168.100.123} autTable (" Unauthenticated  authenticated   ")
+Oct  4 17:34:48  authmgr[1453]: <522004> <DBUG> |authmgr|  download: ip=192.168.100.123 acl=48/0 role=authenticated, Ubwm=0, Dbwm=0 tunl=0x10bd, PA=0, HA=1, RO=0, VPN=0
+Oct  4 17:34:48  stm[1454]: <501065> <DBUG> |stm|  Sending STA 00:23:68:ac:b8:b7 message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN 0x1, wmm:1, rsn_cap:0
+Oct  4 17:34:48  mobileip[1459]: <500511> <DBUG> |mobileip|  Station 00:23:68:ac:b8:b7, 0.0.0.0: Received disassociation on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name 00:24:6c:c7:fa:0e Group Mazin-Vancouver BSSID 00:24:6c:ff:a0:e2, phy g, VLAN 1
+Oct  4 17:34:48  authmgr[1453]: <522036> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 Station DN: BSSID=00:24:6c:ff:a0:e2 ESSID=MFIVAN VLAN=1 AP-name=00:24:6c:c7:fa:0e
+Oct  4 17:34:48  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 ingress 0x10bd (tunnel 61), u_encr 1, m_encr 1, slotport 0x1040 , type: remote, FW mode: 1, AP IP: 192.168.1.66
+Oct  4 17:34:48  authmgr[1453]: <522004> <DBUG> |authmgr|  station free: bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107ab5b4
+Oct  4 17:34:48  stm[1454]: <501080> <NOTI> |stm|  Deauth to sta: 00:23:68:ac:b8:b7: Ageout AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e Unspecified Failure
+Oct  4 17:34:48  stm[1454]: <501000> <DBUG> |stm|  Station 00:23:68:ac:b8:b7: Clearing state
+Oct  4 17:34:48  stm[1454]: <501065> <DBUG> |stm|  Sending STA 00:23:68:ac:b7:64 message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN 0x1, wmm:1, rsn_cap:0
+Oct  4 17:34:48  authmgr[1453]: <522036> <INFO> |authmgr|  MAC=00:23:68:ac:b7:64 Station DN: BSSID=00:24:6c:ff:a0:e2 ESSID=MFIVAN VLAN=1 AP-name=00:24:6c:c7:fa:0e
+Oct  4 17:34:48  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b7:64 ingress 0x10bd (tunnel 61), u_encr 1, m_encr 1, slotport 0x1040 , type: remote, FW mode: 1, AP IP: 192.168.1.66
+Oct  4 17:34:48  authmgr[1453]: <522004> <DBUG> |authmgr|  station free: bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107a926c
+Oct  4 17:34:48  mobileip[1459]: <500511> <DBUG> |mobileip|  Station 00:23:68:ac:b7:64, 0.0.0.0: Received disassociation on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name 00:24:6c:c7:fa:0e Group Mazin-Vancouver BSSID 00:24:6c:ff:a0:e2, phy g, VLAN 1
+Oct  4 17:34:48  stm[1454]: <501080> <NOTI> |stm|  Deauth to sta: 00:23:68:ac:b7:64: Ageout AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e Unspecified Failure
+Oct  4 17:34:48  stm[1454]: <501000> <DBUG> |stm|  Station 00:23:68:ac:b7:64: Clearing state
+Oct  4 17:34:48  stm[806]: <501105> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Deauth from sta: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e Reason STA has left and is deauthenticated
+Oct  4 17:34:48  stm[806]: <501000> <DBUG> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Station 00:23:68:ac:b8:b7: Clearing state
+Oct  4 17:34:48  stm[806]: <501105> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Deauth from sta: 00:23:68:ac:b7:64: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e Reason STA has left and is deauthenticated
+Oct  4 17:34:48  stm[806]: <501000> <DBUG> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Station 00:23:68:ac:b7:64: Clearing state
+Oct  4 17:34:49  stm[1454]: <501095> <NOTI> |stm|  Assoc request @ 17:34:49.783782: 00:23:68:ac:b7:64 (SN 2748): AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:34:49  stm[806]: <501095> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Assoc request @ 17:34:49.681427: 00:23:68:ac:b7:64 (SN 2748): AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:34:49  stm[806]: <501100> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Assoc success @ 17:34:49.683435: 00:23:68:ac:b7:64: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:34:49  stm[1454]: <501100> <NOTI> |stm|  Assoc success @ 17:34:49.786912: 00:23:68:ac:b7:64: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:34:49  stm[1454]: <501065> <DBUG> |stm|  Sending STA 00:23:68:ac:b7:64 message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN 0x1, wmm:1, rsn_cap:0
+Oct  4 17:34:49  authmgr[1453]: <522035> <INFO> |authmgr|  MAC=00:23:68:ac:b7:64 Station UP: BSSID=00:24:6c:ff:a0:e2 ESSID=MFIVAN VLAN=1 AP-name=00:24:6c:c7:fa:0e
+Oct  4 17:34:49  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b7:64 ingress 0x10bd (tunnel 61), u_encr 1, m_encr 1, slotport 0x1040 , type: remote, FW mode: 1, AP IP: 192.168.1.66
+Oct  4 17:34:49  authmgr[1453]: <522004> <DBUG> |authmgr|  AU0(0), HA1, TAP0, PARP0 OIP0 IIP0 INT0 WD0 FW0 DT1
+Oct  4 17:34:49  mobileip[1459]: <500511> <DBUG> |mobileip|  Station 00:23:68:ac:b7:64, 0.0.0.0: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name 00:24:6c:c7:fa:0e Group Mazin-Vancouver BSSID 00:24:6c:ff:a0:e2, phy g, VLAN 1
+Oct  4 17:34:49  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b7:64 IP=192.168.100.123 Send mobility delete message, flags=0x0
+Oct  4 17:34:49  authmgr[1453]: <522004> <DBUG> |authmgr|  {192.168.100.123} datapath entry deleted
+Oct  4 17:34:49  authmgr[1453]: <522005> <INFO> |authmgr|  MAC=00:23:68:ac:b7:64 IP=192.168.100.123 User entry deleted: reason=User Reconnect Cleanup
+Oct  4 17:34:49  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b7:64 Send Station delete message to mobility
+Oct  4 17:34:49  authmgr[1453]: <522004> <DBUG> |authmgr|  00:23:68:ac:b7:64: station datapath entry deleted
+Oct  4 17:34:49  authmgr[1453]: <522004> <DBUG> |authmgr|  station add: Created station with bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107b233c
+Oct  4 17:34:50  stm[1454]: <501095> <NOTI> |stm|  Assoc request @ 17:34:50.555754: 00:23:68:ac:b8:b7 (SN 183): AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:34:50  stm[1454]: <501100> <NOTI> |stm|  Assoc success @ 17:34:50.558518: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:34:50  stm[806]: <501095> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Assoc request @ 17:34:50.455319: 00:23:68:ac:b8:b7 (SN 183): AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:34:50  stm[1454]: <501065> <DBUG> |stm|  Sending STA 00:23:68:ac:b8:b7 message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN 0x1, wmm:1, rsn_cap:0
+Oct  4 17:34:50  stm[806]: <501100> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Assoc success @ 17:34:50.457070: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:34:50  mobileip[1459]: <500511> <DBUG> |mobileip|  Station 00:23:68:ac:b8:b7, 0.0.0.0: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name 00:24:6c:c7:fa:0e Group Mazin-Vancouver BSSID 00:24:6c:ff:a0:e2, phy g, VLAN 1
+Oct  4 17:34:50  authmgr[1453]: <522035> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 Station UP: BSSID=00:24:6c:ff:a0:e2 ESSID=MFIVAN VLAN=1 AP-name=00:24:6c:c7:fa:0e
+Oct  4 17:34:50  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 ingress 0x10bd (tunnel 61), u_encr 1, m_encr 1, slotport 0x1040 , type: remote, FW mode: 1, AP IP: 192.168.1.66
+Oct  4 17:34:50  authmgr[1453]: <522004> <DBUG> |authmgr|  AU0(0), HA1, TAP0, PARP0 OIP0 IIP0 INT0 WD0 FW0 DT1
+Oct  4 17:34:50  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 IP=192.168.2.243 Send mobility delete message, flags=0x0
+Oct  4 17:34:50  authmgr[1453]: <522004> <DBUG> |authmgr|  {192.168.2.243} datapath entry deleted
+Oct  4 17:34:50  authmgr[1453]: <522005> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 IP=192.168.2.243 User entry deleted: reason=User Reconnect Cleanup
+Oct  4 17:34:50  authmgr[1453]: <522004> <DBUG> |authmgr|  00:23:68:ac:b8:b7: station datapath entry deleted
+Oct  4 17:34:50  authmgr[1453]: <522004> <DBUG> |authmgr|  AU0(0), HA1, TAP0, PARP0 OIP0 IIP0 INT0 WD0 FW0 DT1
+Oct  4 17:34:50  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 IP=192.168.100.120 Send mobility delete message, flags=0x0
+Oct  4 17:34:50  authmgr[1453]: <522004> <DBUG> |authmgr|  {192.168.100.120} datapath entry deleted
+Oct  4 17:34:50  authmgr[1453]: <522005> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 IP=192.168.100.120 User entry deleted: reason=User Reconnect Cleanup
+Oct  4 17:34:50  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 Send Station delete message to mobility
+Oct  4 17:34:50  authmgr[1453]: <522004> <DBUG> |authmgr|  00:23:68:ac:b8:b7: station datapath entry deleted
+Oct  4 17:34:50  authmgr[1453]: <522004> <DBUG> |authmgr|  station add: Created station with bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107a690c
+Oct  4 17:34:53  stm[1454]: <501105> <NOTI> |stm|  Deauth from sta: 00:23:68:ac:b7:64: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e Reason STA has left and is deauthenticated
+Oct  4 17:34:53  stm[806]: <501105> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Deauth from sta: 00:23:68:ac:b7:64: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e Reason STA has left and is deauthenticated
+Oct  4 17:34:53  stm[1454]: <501065> <DBUG> |stm|  Sending STA 00:23:68:ac:b7:64 message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN 0x1, wmm:1, rsn_cap:0
+Oct  4 17:34:53  stm[806]: <501000> <DBUG> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Station 00:23:68:ac:b7:64: Clearing state
+Oct  4 17:34:53  mobileip[1459]: <500511> <DBUG> |mobileip|  Station 00:23:68:ac:b7:64, 0.0.0.0: Received disassociation on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name 00:24:6c:c7:fa:0e Group Mazin-Vancouver BSSID 00:24:6c:ff:a0:e2, phy g, VLAN 1
+Oct  4 17:34:53  authmgr[1453]: <522036> <INFO> |authmgr|  MAC=00:23:68:ac:b7:64 Station DN: BSSID=00:24:6c:ff:a0:e2 ESSID=MFIVAN VLAN=1 AP-name=00:24:6c:c7:fa:0e
+Oct  4 17:34:53  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b7:64 ingress 0x10bd (tunnel 61), u_encr 1, m_encr 1, slotport 0x1040 , type: remote, FW mode: 1, AP IP: 192.168.1.66
+Oct  4 17:34:53  authmgr[1453]: <522004> <DBUG> |authmgr|  station free: bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107b233c
+Oct  4 17:34:53  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b7:64 Send Station delete message to mobility
+Oct  4 17:34:53  stm[1454]: <501000> <DBUG> |stm|  Station 00:23:68:ac:b7:64: Clearing state
+Oct  4 17:34:53  stm[806]: <501105> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Deauth from sta: 00:23:68:ac:b7:64: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e Reason STA has left and is deauthenticated
+Oct  4 17:34:53  stm[806]: <501044> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Station 00:23:68:ac:b7:64: No authentication found trying to de-authenticate to BSSID 00:24:6c:ff:a0:e2 on AP 00:24:6c:c7:fa:0e
+Oct  4 17:35:15  stm[1454]: <501105> <NOTI> |stm|  Deauth from sta: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e Reason STA has left and is deauthenticated
+Oct  4 17:35:15  stm[1454]: <501065> <DBUG> |stm|  Sending STA 00:23:68:ac:b8:b7 message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN 0x1, wmm:1, rsn_cap:0
+Oct  4 17:35:15  authmgr[1453]: <522036> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 Station DN: BSSID=00:24:6c:ff:a0:e2 ESSID=MFIVAN VLAN=1 AP-name=00:24:6c:c7:fa:0e
+Oct  4 17:35:15  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 ingress 0x10bd (tunnel 61), u_encr 1, m_encr 1, slotport 0x1040 , type: remote, FW mode: 1, AP IP: 192.168.1.66
+Oct  4 17:35:15  authmgr[1453]: <522004> <DBUG> |authmgr|  station free: bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107a690c
+Oct  4 17:35:15  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 Send Station delete message to mobility
+Oct  4 17:35:15  mobileip[1459]: <500511> <DBUG> |mobileip|  Station 00:23:68:ac:b8:b7, 0.0.0.0: Received disassociation on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name 00:24:6c:c7:fa:0e Group Mazin-Vancouver BSSID 00:24:6c:ff:a0:e2, phy g, VLAN 1
+Oct  4 17:35:15  stm[806]: <501105> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Deauth from sta: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e Reason STA has left and is deauthenticated
+Oct  4 17:35:15  stm[1454]: <501000> <DBUG> |stm|  Station 00:23:68:ac:b8:b7: Clearing state
+Oct  4 17:35:15  stm[806]: <501000> <DBUG> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Station 00:23:68:ac:b8:b7: Clearing state
+Oct  4 17:35:15  stm[806]: <501105> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Deauth from sta: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e Reason STA has left and is deauthenticated
+Oct  4 17:35:15  stm[806]: <501044> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Station 00:23:68:ac:b8:b7: No authentication found trying to de-authenticate to BSSID 00:24:6c:ff:a0:e2 on AP 00:24:6c:c7:fa:0e
+Oct  4 17:35:23  authmgr[1453]: <522004> <DBUG> |authmgr|  adding station (00:23:68:ac:b8:b7)
+Oct  4 17:35:23  authmgr[1453]: <522004> <DBUG> |authmgr|  station add: Created station with bssid=00:24:6c:ff:a0:e2, valid=1, @=0x1079b1a4
+Oct  4 17:35:23  authmgr[1453]: <522004> <DBUG> |authmgr|  wiredless:0 dotx:0, keytype:0(open)
+Oct  4 17:35:23  authmgr[1453]: <522004> <DBUG> |authmgr|  removing existing bridge mode user 192.168.1.59 associated to AP : 00:24:6c:c7:fa:0e, Wireless Bssid: 00:24:6c:ff:a0:e2
+Oct  4 17:35:23  authmgr[1453]: <522015> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 IP=192.168.1.59 Remove Bridge Entry
+Oct  4 17:35:23  authmgr[1453]: <522004> <DBUG> |authmgr|  station free: bssid=00:24:6c:ff:a0:e2, valid=1, @=0x1079b1a4
+Oct  4 17:35:23  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 Send Station delete message to mobility
+Oct  4 17:35:23  authmgr[1453]: <522004> <DBUG> |authmgr|  adding station (00:23:68:ac:b8:b7)
+Oct  4 17:35:23  authmgr[1453]: <522004> <DBUG> |authmgr|  station add: Created station with bssid=00:24:6c:ff:a0:e2, valid=1, @=0x1079b1a4
+Oct  4 17:35:23  authmgr[1453]: <522004> <DBUG> |authmgr|  wiredless:0 dotx:0, keytype:0(open)
+Oct  4 17:44:12  stm[1454]: <501095> <NOTI> |stm|  Assoc request @ 17:44:12.313002: 00:23:68:ac:b8:b7 (SN 171): AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:44:12  stm[806]: <501095> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Assoc request @ 17:44:12.126263: 00:23:68:ac:b8:b7 (SN 171): AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:44:12  stm[806]: <501100> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Assoc success @ 17:44:12.127942: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:44:12  stm[1454]: <501100> <NOTI> |stm|  Assoc success @ 17:44:12.317316: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 17:44:12  stm[1454]: <501065> <DBUG> |stm|  Sending STA 00:23:68:ac:b8:b7 message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN 0x1, wmm:1, rsn_cap:0
+Oct  4 17:44:12  authmgr[1453]: <522035> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 Station UP: BSSID=00:24:6c:ff:a0:e2 ESSID=MFIVAN VLAN=1 AP-name=00:24:6c:c7:fa:0e
+Oct  4 17:44:12  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 ingress 0x10bd (tunnel 61), u_encr 1, m_encr 1, slotport 0x1040 , type: remote, FW mode: 1, AP IP: 192.168.1.66
+Oct  4 17:44:12  authmgr[1453]: <522004> <DBUG> |authmgr|  removing existing L2 station (00:23:68:ac:b8:b7) associated to AP:00:24:6c:c7:fa:0e, user->apip:192.168.1.66(192.168.1.66), Wireless Bssid: 00:24:6c:ff:a0:e2 , user->fw->mode : 1 (1)
+Oct  4 17:44:12  authmgr[1453]: <522004> <DBUG> |authmgr|  station free: bssid=00:24:6c:ff:a0:e2, valid=1, @=0x1079b1a4
+Oct  4 17:44:12  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 Send Station delete message to mobility
+Oct  4 17:44:12  authmgr[1453]: <522004> <DBUG> |authmgr|  station add: Created station with bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107a690c
+Oct  4 17:44:12  mobileip[1459]: <500511> <DBUG> |mobileip|  Station 00:23:68:ac:b8:b7, 0.0.0.0: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name 00:24:6c:c7:fa:0e Group Mazin-Vancouver BSSID 00:24:6c:ff:a0:e2, phy g, VLAN 1
+Oct  4 17:44:23  authmgr[1453]: <522004> <DBUG> |authmgr|  removing existing bridge mode user 0.0.0.0 associated to AP : , Wireless Bssid: 00:24:6c:ff:a0:e2
+Oct  4 17:44:23  authmgr[1453]: <522015> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 IP=0.0.0.0 Remove Bridge Entry
+Oct  4 17:44:23  authmgr[1453]: <522004> <DBUG> |authmgr|  station free: bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107a690c
+Oct  4 17:44:23  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 Send Station delete message to mobility
+Oct  4 17:44:23  authmgr[1453]: <522004> <DBUG> |authmgr|  adding station (00:23:68:ac:b8:b7)
+Oct  4 17:44:23  authmgr[1453]: <522004> <DBUG> |authmgr|  station add: Created station with bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107a690c
+Oct  4 17:44:23  authmgr[1453]: <522004> <DBUG> |authmgr|  wiredless:0 dotx:0, keytype:0(open)
+Oct  4 17:52:23  authmgr[1453]: <522004> <DBUG> |authmgr|  removing wireless bridge user IP:192.168.1.59 (not station)
+Oct  4 17:53:23  authmgr[1453]: <522004> <DBUG> |authmgr|  removing existing bridge mode user 0.0.0.0 associated to AP : 00:24:6c:c7:fa:0e, Wireless Bssid: 00:24:6c:ff:a0:e2
+Oct  4 17:53:23  authmgr[1453]: <522015> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 IP=0.0.0.0 Remove Bridge Entry
+Oct  4 17:53:23  authmgr[1453]: <522004> <DBUG> |authmgr|  station free: bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107a690c
+Oct  4 17:53:23  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 Send Station delete message to mobility
+Oct  4 17:53:23  authmgr[1453]: <522004> <DBUG> |authmgr|  adding station (00:23:68:ac:b8:b7)
+Oct  4 17:53:23  authmgr[1453]: <522004> <DBUG> |authmgr|  station add: Created station with bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107a690c
+Oct  4 17:53:23  authmgr[1453]: <522004> <DBUG> |authmgr|  wiredless:0 dotx:0, keytype:0(open)
+Oct  4 18:01:39  stm[1454]: <501105> <NOTI> |stm|  Deauth from sta: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e Reason Prior authentication is not valid
+Oct  4 18:01:39  stm[1454]: <501065> <DBUG> |stm|  Sending STA 00:23:68:ac:b8:b7 message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN 0x1, wmm:1, rsn_cap:0
+Oct  4 18:01:39  authmgr[1453]: <522036> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 Station DN: BSSID=00:24:6c:ff:a0:e2 ESSID=MFIVAN VLAN=1 AP-name=00:24:6c:c7:fa:0e
+Oct  4 18:01:39  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 ingress 0x10bd (tunnel 61), u_encr 1, m_encr 1, slotport 0x1040 , type: remote, FW mode: 1, AP IP: 192.168.1.66
+Oct  4 18:01:39  authmgr[1453]: <522004> <DBUG> |authmgr|  station free: bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107a690c
+Oct  4 18:01:39  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 Send Station delete message to mobility
+Oct  4 18:01:39  stm[806]: <501105> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Deauth from sta: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e Reason Prior authentication is not valid
+Oct  4 18:01:39  mobileip[1459]: <500511> <DBUG> |mobileip|  Station 00:23:68:ac:b8:b7, 0.0.0.0: Received disassociation on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name 00:24:6c:c7:fa:0e Group Mazin-Vancouver BSSID 00:24:6c:ff:a0:e2, phy g, VLAN 1
+Oct  4 18:01:39  stm[806]: <501000> <DBUG> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Station 00:23:68:ac:b8:b7: Clearing state
+Oct  4 18:01:39  mobileip[1459]: <500010> <NOTI> |mobileip|  Station 00:23:68:ac:b8:b7, 0.0.0.0: Mobility trail, on switch 192.168.100.241, VLAN 1, AP 00:24:6c:c7:fa:0e, MFIVAN/00:24:6c:ff:a0:e2/g
+Oct  4 18:01:39  stm[1454]: <501000> <DBUG> |stm|  Station 00:23:68:ac:b8:b7: Clearing state
+Oct  4 18:01:39  stm[806]: <501105> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Deauth from sta: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e Reason Prior authentication is not valid
+Oct  4 18:01:39  stm[806]: <501044> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Station 00:23:68:ac:b8:b7: No authentication found trying to de-authenticate to BSSID 00:24:6c:ff:a0:e2 on AP 00:24:6c:c7:fa:0e
+Oct  4 18:01:40  stm[806]: <501095> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Assoc request @ 18:01:40.286870: 00:23:68:ac:b8:b7 (SN 32): AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 18:01:40  stm[1454]: <501095> <NOTI> |stm|  Assoc request @ 18:01:40.389875: 00:23:68:ac:b8:b7 (SN 32): AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 18:01:40  stm[806]: <501100> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Assoc success @ 18:01:40.288724: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 18:01:40  stm[1454]: <501100> <NOTI> |stm|  Assoc success @ 18:01:40.394110: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 18:01:40  stm[1454]: <501065> <DBUG> |stm|  Sending STA 00:23:68:ac:b8:b7 message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN 0x1, wmm:1, rsn_cap:0
+Oct  4 18:01:40  authmgr[1453]: <522035> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 Station UP: BSSID=00:24:6c:ff:a0:e2 ESSID=MFIVAN VLAN=1 AP-name=00:24:6c:c7:fa:0e
+Oct  4 18:01:40  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 ingress 0x10bd (tunnel 61), u_encr 1, m_encr 1, slotport 0x1040 , type: remote, FW mode: 1, AP IP: 192.168.1.66
+Oct  4 18:01:40  authmgr[1453]: <522004> <DBUG> |authmgr|  no users to cleanup
+Oct  4 18:01:40  authmgr[1453]: <522004> <DBUG> |authmgr|  station add: Created station with bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107a8a0c
+Oct  4 18:01:40  mobileip[1459]: <500511> <DBUG> |mobileip|  Station 00:23:68:ac:b8:b7, 0.0.0.0: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name 00:24:6c:c7:fa:0e Group Mazin-Vancouver BSSID 00:24:6c:ff:a0:e2, phy g, VLAN 1
+Oct  4 18:02:23  authmgr[1453]: <522004> <DBUG> |authmgr|  removing existing bridge mode user 0.0.0.0 associated to AP : , Wireless Bssid: 00:24:6c:ff:a0:e2
+Oct  4 18:02:23  authmgr[1453]: <522015> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 IP=0.0.0.0 Remove Bridge Entry
+Oct  4 18:02:23  authmgr[1453]: <522004> <DBUG> |authmgr|  station free: bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107a8a0c
+Oct  4 18:02:23  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 Send Station delete message to mobility
+Oct  4 18:02:23  authmgr[1453]: <522004> <DBUG> |authmgr|  adding station (00:23:68:ac:b8:b7)
+Oct  4 18:02:23  authmgr[1453]: <522004> <DBUG> |authmgr|  station add: Created station with bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107a8a0c
+Oct  4 18:02:23  authmgr[1453]: <522004> <DBUG> |authmgr|  wiredless:0 dotx:0, keytype:0(open)
+Oct  4 18:15:17  stm[1454]: <501105> <NOTI> |stm|  Deauth from sta: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e Reason Prior authentication is not valid
+Oct  4 18:15:17  stm[1454]: <501065> <DBUG> |stm|  Sending STA 00:23:68:ac:b8:b7 message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN 0x1, wmm:1, rsn_cap:0
+Oct  4 18:15:17  mobileip[1459]: <500511> <DBUG> |mobileip|  Station 00:23:68:ac:b8:b7, 0.0.0.0: Received disassociation on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name 00:24:6c:c7:fa:0e Group Mazin-Vancouver BSSID 00:24:6c:ff:a0:e2, phy g, VLAN 1
+Oct  4 18:15:17  authmgr[1453]: <522036> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 Station DN: BSSID=00:24:6c:ff:a0:e2 ESSID=MFIVAN VLAN=1 AP-name=00:24:6c:c7:fa:0e
+Oct  4 18:15:17  mobileip[1459]: <500010> <NOTI> |mobileip|  Station 00:23:68:ac:b8:b7, 0.0.0.0: Mobility trail, on switch 192.168.100.241, VLAN 1, AP 00:24:6c:c7:fa:0e, MFIVAN/00:24:6c:ff:a0:e2/g
+Oct  4 18:15:17  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 ingress 0x10bd (tunnel 61), u_encr 1, m_encr 1, slotport 0x1040 , type: remote, FW mode: 1, AP IP: 192.168.1.66
+Oct  4 18:15:17  authmgr[1453]: <522004> <DBUG> |authmgr|  station free: bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107a8a0c
+Oct  4 18:15:17  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 Send Station delete message to mobility
+Oct  4 18:15:17  stm[1454]: <501000> <DBUG> |stm|  Station 00:23:68:ac:b8:b7: Clearing state
+Oct  4 18:15:17  stm[806]: <501105> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Deauth from sta: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e Reason Prior authentication is not valid
+Oct  4 18:15:17  stm[806]: <501000> <DBUG> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Station 00:23:68:ac:b8:b7: Clearing state
+Oct  4 18:15:17  stm[806]: <501105> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Deauth from sta: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e Reason Prior authentication is not valid
+Oct  4 18:15:17  stm[806]: <501044> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Station 00:23:68:ac:b8:b7: No authentication found trying to de-authenticate to BSSID 00:24:6c:ff:a0:e2 on AP 00:24:6c:c7:fa:0e
+Oct  4 18:15:20  stm[1454]: <501095> <NOTI> |stm|  Assoc request @ 18:15:20.146905: 00:23:68:ac:b8:b7 (SN 44): AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 18:15:20  stm[1454]: <501100> <NOTI> |stm|  Assoc success @ 18:15:20.149569: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 18:15:20  stm[1454]: <501065> <DBUG> |stm|  Sending STA 00:23:68:ac:b8:b7 message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN 0x1, wmm:1, rsn_cap:0
+Oct  4 18:15:20  stm[806]: <501095> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Assoc request @ 18:15:20.048356: 00:23:68:ac:b8:b7 (SN 44): AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 18:15:20  mobileip[1459]: <500511> <DBUG> |mobileip|  Station 00:23:68:ac:b8:b7, 0.0.0.0: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name 00:24:6c:c7:fa:0e Group Mazin-Vancouver BSSID 00:24:6c:ff:a0:e2, phy g, VLAN 1
+Oct  4 18:15:20  authmgr[1453]: <522035> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 Station UP: BSSID=00:24:6c:ff:a0:e2 ESSID=MFIVAN VLAN=1 AP-name=00:24:6c:c7:fa:0e
+Oct  4 18:15:20  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 ingress 0x10bd (tunnel 61), u_encr 1, m_encr 1, slotport 0x1040 , type: remote, FW mode: 1, AP IP: 192.168.1.66
+Oct  4 18:15:20  authmgr[1453]: <522004> <DBUG> |authmgr|  no users to cleanup
+Oct  4 18:15:20  authmgr[1453]: <522004> <DBUG> |authmgr|  station add: Created station with bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107a8a0c
+Oct  4 18:15:20  stm[806]: <501100> <NOTI> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  Assoc success @ 18:15:20.050219: 00:23:68:ac:b8:b7: AP 192.168.1.66-00:24:6c:ff:a0:e2-00:24:6c:c7:fa:0e
+Oct  4 18:15:23  authmgr[1453]: <522004> <DBUG> |authmgr|  removing existing bridge mode user 0.0.0.0 associated to AP : , Wireless Bssid: 00:24:6c:ff:a0:e2
+Oct  4 18:15:23  authmgr[1453]: <522015> <INFO> |authmgr|  MAC=00:23:68:ac:b8:b7 IP=0.0.0.0 Remove Bridge Entry
+Oct  4 18:15:23  authmgr[1453]: <522004> <DBUG> |authmgr|  station free: bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107a8a0c
+Oct  4 18:15:23  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=00:23:68:ac:b8:b7 Send Station delete message to mobility
+Oct  4 18:15:23  authmgr[1453]: <522004> <DBUG> |authmgr|  adding station (00:23:68:ac:b8:b7)
+Oct  4 18:15:23  authmgr[1453]: <522004> <DBUG> |authmgr|  station add: Created station with bssid=00:24:6c:ff:a0:e2, valid=1, @=0x107a8a0c
+Oct  4 18:15:23  authmgr[1453]: <522004> <DBUG> |authmgr|  wiredless:0 dotx:0, keytype:0(open)

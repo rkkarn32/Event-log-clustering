@@ -1,0 +1,1 @@
+20319   ReDate ReTime bastion ntpd[**] precision = ReDigit usec

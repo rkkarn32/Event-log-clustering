@@ -1,0 +1,2 @@
+22062   ReDate ReTime bastion adduser[**] new user: (** name=snort=2 **) (** uid=50**=2 **) gid=50** home=RePath shell=RePath
+22062   ReDate ReTime bastion adduser[**] new user: (** name=acid=2 **) (** uid=50**=2 **) gid=50** home=RePath shell=RePath

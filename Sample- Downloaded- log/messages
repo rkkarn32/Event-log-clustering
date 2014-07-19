@@ -1,0 +1,70 @@
+Oct  4 18:29:09  stm[1454]: <400166> <DBUG> |stm|  Received Stats Update for bssid 00:24:6c:ff:99:80 wired mac 00:24:6c:c7:f9:98 phy_type is 1 
+Oct  4 18:29:10  stm[1454]: <400166> <DBUG> |stm|  Received Stats Update for bssid 00:24:6c:3a:4d:d0 wired mac 00:24:6c:cb:a4:dd phy_type is 1 
+Oct  4 18:29:10  stm[1454]: <400166> <DBUG> |stm|  Received Stats Update for bssid 00:24:6c:3a:4c:90 wired mac 00:24:6c:cb:a4:c9 phy_type is 1 
+Oct  4 18:29:11  sapd[788]: <404049> <NOTI> |AP 00:24:6c:c7:f9:89@192.168.101.57 sapd|  AM: Inactive AP Detected SSID = MFI BSSID = 00:24:6c:3a:46:20
+Oct  4 18:29:11  sapd[788]: <404049> <NOTI> |AP 00:24:6c:cb:a4:62@192.168.101.63 sapd|  AM: Inactive AP Detected SSID = Voice BSSID = 00:24:6c:ff:98:91
+Oct  4 18:29:12  stm[1454]: <400166> <DBUG> |stm|  Received Stats Update for bssid 00:24:6c:3a:4f:00 wired mac 00:24:6c:cb:a4:f0 phy_type is 1 
+Oct  4 18:29:13  sapd[787]: <404051> <DBUG> |AP 00:24:6c:cb:a4:fe@192.168.101.66 sapd|  AM: ARM Channel 48 Current Noise Level 69 ARM Noise threshold 75 ARM Noise wait time 120
+Oct  4 18:29:14  stm[1454]: <400166> <DBUG> |stm|  Received Stats Update for bssid 00:24:6c:3a:50:00 wired mac 00:24:6c:cb:a5:00 phy_type is 1 
+Oct  4 18:29:14  stm[1454]: <400166> <DBUG> |stm|  Received Stats Update for bssid 00:24:6c:ff:98:90 wired mac 00:24:6c:c7:f9:89 phy_type is 1 
+Oct  4 18:29:17  stm[1454]: <400166> <DBUG> |stm|  Received Stats Update for bssid 00:24:6c:ff:96:d0 wired mac 00:24:6c:c7:f9:6d phy_type is 1 
+Oct  4 18:29:20  sapd[787]: <404014> <DBUG> |AP 00:24:6c:cb:a4:fe@192.168.101.66 sapd|  AM: New AP B 00:24:6c:3a:50:00 C 1 P 1 W 1 DCF 1 PCF 0 PD 0 SP 1 BI 100
+Oct  4 18:29:20  sapd[787]: <404060> <NOTI> |AP 00:24:6c:cb:a4:fe@192.168.101.66 sapd|  AM: New AP Detected Channel = 1 SSID = MFI BSSID = 00:24:6c:3a:50:00
+Oct  4 18:29:20  sapd[787]: <404012> <NOTI> |AP 00:24:6c:cb:a4:fe@192.168.101.66 sapd|  AM: Setting RAP Type for AP 00:24:6c:3a:50:00 to: Valid
+Oct  4 18:29:21  sapd[787]: <404049> <NOTI> |AP 00:24:6c:c7:fa:31@192.168.1.60 sapd|  AM: Inactive AP Detected SSID = Voice BSSID = 00:24:6c:ff:a0:b0
+Oct  4 18:29:23  sapd[788]: <404049> <NOTI> |AP 00:24:6c:c7:f9:74@192.168.101.55 sapd|  AM: Inactive AP Detected SSID = Voice BSSID = 00:24:6c:ff:9a:81
+Oct  4 18:29:25  sapd[787]: <404014> <DBUG> |AP 00:24:6c:cb:a4:fe@192.168.101.66 sapd|  AM: New AP B 00:24:6c:3a:50:01 C 1 P 1 W 1 DCF 1 PCF 0 PD 0 SP 1 BI 100
+Oct  4 18:29:25  sapd[787]: <404060> <NOTI> |AP 00:24:6c:cb:a4:fe@192.168.101.66 sapd|  AM: New AP Detected Channel = 1 SSID = Voice BSSID = 00:24:6c:3a:50:01
+Oct  4 18:29:25  sapd[787]: <404012> <NOTI> |AP 00:24:6c:cb:a4:fe@192.168.101.66 sapd|  AM: Setting RAP Type for AP 00:24:6c:3a:50:01 to: Valid
+Oct  4 18:29:26  sapd[785]: <404051> <DBUG> |AP 00:24:6c:c7:fa:10@192.168.1.68 sapd|  AM: ARM Channel 6 Current Noise Level 61 ARM Noise threshold 75 ARM Noise wait time 120
+Oct  4 18:29:27  stm[1454]: <400166> <DBUG> |stm|  Received Stats Update for bssid 00:24:6c:3a:46:70 wired mac 00:24:6c:cb:a4:67 phy_type is 1 
+Oct  4 18:29:29  sapd[788]: <404051> <DBUG> |AP 00:24:6c:c7:f9:89@192.168.101.57 sapd|  AM: ARM Channel 100 Current Noise Level 69 ARM Noise threshold 75 ARM Noise wait time 120
+Oct  4 18:29:33  sapd[788]: <404047> <NOTI> |AP 00:24:6c:c7:f9:89@192.168.101.57 sapd|  AM: Inactive Node Detected  = 00:90:7a:0c:e9:51 SSID = Voice BSSID 00:24:6c:ff:98:91
+Oct  4 18:29:34  stm[1454]: <400166> <DBUG> |stm|  Received Stats Update for bssid 00:24:6c:ff:a3:10 wired mac 00:24:6c:c7:fa:31 phy_type is 1 
+Oct  4 18:29:35  stm[1454]: <400166> <DBUG> |stm|  Received Stats Update for bssid 00:24:6c:ff:97:40 wired mac 00:24:6c:c7:f9:74 phy_type is 1 
+Oct  4 18:29:37  sapd[785]: <404051> <DBUG> |AP 00:24:6c:c7:fa:10@192.168.1.68 sapd|  AM: ARM Channel 7 Current Noise Level 62 ARM Noise threshold 75 ARM Noise wait time 120
+Oct  4 18:29:39  stm[1454]: <400166> <DBUG> |stm|  Received Stats Update for bssid 00:24:6c:ff:a0:d0 wired mac 00:24:6c:c7:fa:0d phy_type is 1 
+Oct  4 18:29:39  stm[1454]: <400166> <DBUG> |stm|  Received Stats Update for bssid 00:24:6c:ff:a2:90 wired mac 00:24:6c:c7:fa:29 phy_type is 1 
+Oct  4 18:29:42  stm[1454]: <400166> <DBUG> |stm|  Received Stats Update for bssid 00:24:6c:ff:a1:10 wired mac 00:24:6c:c7:fa:11 phy_type is 1 
+Oct  4 18:29:42  stm[1454]: <400166> <DBUG> |stm|  Received Stats Update for bssid 00:24:6c:ff:a0:b0 wired mac 00:24:6c:c7:fa:0b phy_type is 1 
+Oct  4 18:29:45  stm[1454]: <400166> <DBUG> |stm|  Received Stats Update for bssid 00:24:6c:ff:a1:00 wired mac 00:24:6c:c7:fa:10 phy_type is 1 
+Oct  4 18:29:45  sapd[785]: <404051> <DBUG> |AP 00:24:6c:c7:fa:10@192.168.1.68 sapd|  AM: ARM Channel 7 Current Noise Level 61 ARM Noise threshold 75 ARM Noise wait time 120
+Oct  4 18:29:45  stm[1454]: <400166> <DBUG> |stm|  Received Stats Update for bssid 00:24:6c:3a:4f:a0 wired mac 00:24:6c:cb:a4:fa phy_type is 1 
+Oct  4 18:29:46  stm[1454]: <400166> <DBUG> |stm|  Received Stats Update for bssid 00:24:6c:ff:a3:40 wired mac 00:24:6c:c7:fa:34 phy_type is 1 
+Oct  4 18:29:48  stm[1454]: <400166> <DBUG> |stm|  Received Stats Update for bssid 00:24:6c:3a:46:10 wired mac 00:24:6c:cb:a4:61 phy_type is 1 
+Oct  4 18:29:49  sapd[785]: <404047> <NOTI> |AP 00:24:6c:c7:fa:10@192.168.1.68 sapd|  AM: Inactive Node Detected  = e0:f8:47:9e:5b:a7 SSID = MFIVAN BSSID 00:24:6c:ff:a0:e2
+Oct  4 18:29:51  stm[1454]: <400166> <DBUG> |stm|  Received Stats Update for bssid 00:24:6c:ff:95:f0 wired mac 00:24:6c:c7:f9:5f phy_type is 1 
+Oct  4 18:29:52  stm[1454]: <400166> <DBUG> |stm|  Received Stats Update for bssid 00:24:6c:3a:4f:e0 wired mac 00:24:6c:cb:a4:fe phy_type is 1 
+Oct  4 18:29:53  stm[1454]: <400166> <DBUG> |stm|  Received Stats Update for bssid 00:24:6c:ff:a0:e0 wired mac 00:24:6c:c7:fa:0e phy_type is 1 
+Oct  4 18:29:53  sapd[785]: <404051> <DBUG> |AP 00:24:6c:c7:fa:10@192.168.1.68 sapd|  AM: ARM Channel 8 Current Noise Level 62 ARM Noise threshold 75 ARM Noise wait time 120
+Oct  4 18:29:55  stm[1454]: <400166> <DBUG> |stm|  Received Stats Update for bssid 00:24:6c:ff:9a:80 wired mac 00:24:6c:c7:f9:a8 phy_type is 1 
+Oct  4 18:29:55  sapd[788]: <404049> <NOTI> |AP 00:24:6c:cb:a4:67@192.168.101.56 sapd|  AM: Inactive AP Detected SSID = MFI BSSID = 00:24:6c:3a:4c:90
+Oct  4 18:29:55  sapd[788]: <404049> <NOTI> |AP 00:24:6c:cb:a4:67@192.168.101.56 sapd|  AM: Inactive AP Detected SSID = Voice BSSID = 00:24:6c:3a:4c:91
+Oct  4 18:29:55  sapd[788]: <404049> <NOTI> |AP 00:24:6c:cb:a4:67@192.168.101.56 sapd|  AM: Inactive AP Detected SSID = Voice BSSID = 00:24:6c:3a:46:11
+Oct  4 18:29:55  sapd[788]: <404049> <NOTI> |AP 00:24:6c:cb:a4:67@192.168.101.56 sapd|  AM: Inactive AP Detected SSID = MFI BSSID = 00:24:6c:3a:46:10
+Oct  4 18:29:55  sapd[788]: <404049> <NOTI> |AP 00:24:6c:cb:a4:67@192.168.101.56 sapd|  AM: Inactive AP Detected SSID = Voice BSSID = 00:24:6c:ff:98:91
+Oct  4 18:29:58  sapd[788]: <404014> <DBUG> |AP 00:24:6c:cb:a4:67@192.168.101.56 sapd|  AM: New AP B 00:24:6c:3a:4c:90 C 11 P 1 W 1 DCF 1 PCF 0 PD 0 SP 1 BI 100
+Oct  4 18:29:58  sapd[788]: <404060> <NOTI> |AP 00:24:6c:cb:a4:67@192.168.101.56 sapd|  AM: New AP Detected Channel = 11 SSID = MFI BSSID = 00:24:6c:3a:4c:90
+Oct  4 18:29:58  sapd[788]: <404014> <DBUG> |AP 00:24:6c:cb:a4:67@192.168.101.56 sapd|  AM: New AP B 00:24:6c:3a:4c:91 C 11 P 1 W 1 DCF 1 PCF 0 PD 0 SP 1 BI 100
+Oct  4 18:29:58  sapd[788]: <404060> <NOTI> |AP 00:24:6c:cb:a4:67@192.168.101.56 sapd|  AM: New AP Detected Channel = 11 SSID = Voice BSSID = 00:24:6c:3a:4c:91
+Oct  4 18:29:58  sapd[788]: <404012> <NOTI> |AP 00:24:6c:cb:a4:67@192.168.101.56 sapd|  AM: Setting RAP Type for AP 00:24:6c:3a:4c:90 to: Valid
+Oct  4 18:29:58  sapd[788]: <404012> <NOTI> |AP 00:24:6c:cb:a4:67@192.168.101.56 sapd|  AM: Setting RAP Type for AP 00:24:6c:3a:4c:91 to: Valid
+Oct  4 18:29:59  sapd[788]: <404014> <DBUG> |AP 00:24:6c:cb:a4:67@192.168.101.56 sapd|  AM: New AP B 00:24:6c:3a:46:11 C 11 P 1 W 1 DCF 1 PCF 0 PD 0 SP 1 BI 100
+Oct  4 18:29:59  sapd[788]: <404060> <NOTI> |AP 00:24:6c:cb:a4:67@192.168.101.56 sapd|  AM: New AP Detected Channel = 11 SSID = Voice BSSID = 00:24:6c:3a:46:11
+Oct  4 18:29:59  sapd[788]: <404012> <NOTI> |AP 00:24:6c:cb:a4:67@192.168.101.56 sapd|  AM: Setting RAP Type for AP 00:24:6c:3a:46:11 to: Valid
+Oct  4 18:29:59  stm[1454]: <400166> <DBUG> |stm|  Received Stats Update for bssid 00:24:6c:3a:46:20 wired mac 00:24:6c:cb:a4:62 phy_type is 1 
+Oct  4 18:30:00  sapd[788]: <404014> <DBUG> |AP 00:24:6c:cb:a4:67@192.168.101.56 sapd|  AM: New AP B 00:24:6c:3a:46:10 C 11 P 1 W 1 DCF 1 PCF 0 PD 0 SP 1 BI 100
+Oct  4 18:30:00  sapd[788]: <404060> <NOTI> |AP 00:24:6c:cb:a4:67@192.168.101.56 sapd|  AM: New AP Detected Channel = 11 SSID = MFI BSSID = 00:24:6c:3a:46:10
+Oct  4 18:30:00  sapd[788]: <404012> <NOTI> |AP 00:24:6c:cb:a4:67@192.168.101.56 sapd|  AM: Setting RAP Type for AP 00:24:6c:3a:46:10 to: Valid
+Oct  4 18:30:01  stm[1454]: <400166> <DBUG> |stm|  Received Stats Update for bssid 00:24:6c:3a:4c:70 wired mac 00:24:6c:cb:a4:c7 phy_type is 1 
+Oct  4 18:30:02  sapd[788]: <404014> <DBUG> |AP 00:24:6c:cb:a4:67@192.168.101.56 sapd|  AM: New AP B 00:24:6c:ff:98:91 C 11 P 1 W 1 DCF 1 PCF 0 PD 0 SP 1 BI 100
+Oct  4 18:30:02  sapd[788]: <404060> <NOTI> |AP 00:24:6c:cb:a4:67@192.168.101.56 sapd|  AM: New AP Detected Channel = 11 SSID = Voice BSSID = 00:24:6c:ff:98:91
+Oct  4 18:30:02  sapd[788]: <404012> <NOTI> |AP 00:24:6c:cb:a4:67@192.168.101.56 sapd|  AM: Setting RAP Type for AP 00:24:6c:ff:98:91 to: Valid
+Oct  4 18:30:03  sapd[787]: <404049> <NOTI> |AP 00:24:6c:cb:a4:fe@192.168.101.66 sapd|  AM: Inactive AP Detected SSID = Voice BSSID = 00:24:6c:3a:50:01
+Oct  4 18:30:03  stm[1454]: <400166> <DBUG> |stm|  Received Stats Update for bssid 00:24:6c:ff:97:c0 wired mac 00:24:6c:c7:f9:7c phy_type is 1 
+Oct  4 18:30:05  stm[1454]: <400166> <DBUG> |stm|  Received Stats Update for bssid 00:24:6c:ff:98:70 wired mac 00:24:6c:c7:f9:87 phy_type is 1 
+Oct  4 18:30:07  sapd[787]: <404049> <NOTI> |AP 00:24:6c:cb:a4:fe@192.168.101.66 sapd|  AM: Inactive AP Detected SSID = MFI BSSID = 00:24:6c:3a:50:00
+Oct  4 18:30:07  sysmgr: PAPI RxPacket: ACK to invalid packet type 0x00000043 
+Oct  4 18:30:10  stm[1454]: <400166> <DBUG> |stm|  Received Stats Update for bssid 00:24:6c:ff:99:80 wired mac 00:24:6c:c7:f9:98 phy_type is 1 
+Oct  4 18:30:10  stm[1454]: <400166> <DBUG> |stm|  Received Stats Update for bssid 00:24:6c:3a:4d:d0 wired mac 00:24:6c:cb:a4:dd phy_type is 1 
+Oct  4 18:30:10  stm[1454]: <400166> <DBUG> |stm|  Received Stats Update for bssid 00:24:6c:3a:4c:90 wired mac 00:24:6c:cb:a4:c9 phy_type is 1 

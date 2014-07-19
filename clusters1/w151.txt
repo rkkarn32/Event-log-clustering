@@ -1,0 +1,2 @@
+14730   ReDate ReTime bastion kernel ROM checksum self-test: passed (**).
+14730   ReDate ReTime bastion kernel ROM checksum self-test: passed (**).

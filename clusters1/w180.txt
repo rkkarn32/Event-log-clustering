@@ -1,0 +1,2 @@
+11718   ReDate ReTime bastion adduser[**] new group: (** name=snort=2 **) gid=50**
+11718   ReDate ReTime bastion adduser[**] new group: (** name=acid=2 **) gid=50**

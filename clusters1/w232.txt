@@ -1,0 +1,1 @@
+8057   ReDate ReTime bastion rc.sysinit (** Setting=4 **) (** default=2 **) (** font=1 **) (** (lat**-sun1**):=1 **) succeeded

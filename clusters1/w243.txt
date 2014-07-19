@@ -1,0 +1,4 @@
+7667   ReDate ReTime bridge ntpd[**] (** system=9 **) (** event=15 **) (** event_restart=3 **) (**) (** status=12 **) (** sync_alarm=3 **) (** sync_unspec=2 **) ReDigit (** event=15 **) (** event_unspec=2 **) (**)
+7667   ReDate ReTime bridge ntpd[**] (** peer=5 **) (** LOCAL(**)=2 **) (** event=15 **) (** event_reach=4 **) (**) (** status=12 **) (** unreach=2 **) (** conf=2 **) ReDigit (** event=15 **) (** event_reach=4 **) (**)
+7667   ReDate ReTime bridge ntpd[**] (** system=9 **) (** event=15 **) (** event_restart=3 **) (**) (** status=12 **) (** sync_alarm=3 **) (** sync_unspec=2 **) ReDigit (** event=15 **) (** event_unspec=2 **) (**)
+7667   ReDate ReTime bridge ntpd[**] (** peer=5 **) (** LOCAL(**)=2 **) (** event=15 **) (** event_reach=4 **) (**) (** status=12 **) (** unreach=2 **) (** conf=2 **) ReDigit (** event=15 **) (** event_reach=4 **) (**)

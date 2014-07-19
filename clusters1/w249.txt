@@ -1,0 +1,1 @@
+7239   ReDate ReTime bastion kernel hdc: (** CD-22**E=1 **) ATAPI (** CDRePathDVD-ROM=1 **) drive

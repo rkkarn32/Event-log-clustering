@@ -1,0 +1,8 @@
+10613   ReDate ReTime bridge kernel device (** eth**=22 **) (** entered=22 **) promiscuous mode
+10613   ReDate ReTime bridge kernel device (** eth**=22 **) (** entered=22 **) promiscuous mode
+10613   ReDate ReTime bridge kernel device (** eth**=22 **) (** entered=22 **) promiscuous mode
+10613   ReDate ReTime bridge kernel device (** eth**=22 **) (** entered=22 **) promiscuous mode
+10613   ReDate ReTime bridge kernel device (** eth**=22 **) (** entered=22 **) promiscuous mode
+10613   ReDate ReTime bridge kernel device (** eth**=22 **) (** entered=22 **) promiscuous mode
+10613   ReDate ReTime bridge kernel device (** eth**=22 **) (** entered=22 **) promiscuous mode
+10613   ReDate ReTime bridge kernel device (** eth**=22 **) (** entered=22 **) promiscuous mode

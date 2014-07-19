@@ -1,0 +1,8 @@
+6249   ReDate ReTime bastion sysctl (** net.ipv**.ip_forward=2 **) = ReDigit
+6249   ReDate ReTime bastion sysctl (** net.ipv**.conf.default.rp_filter=2 **) = ReDigit
+6249   ReDate ReTime bastion sysctl (** kernel.sysrq=2 **) = ReDigit
+6249   ReDate ReTime bastion sysctl (** kernel.core_uses_pid=2 **) = ReDigit
+6249   ReDate ReTime bastion sysctl (** net.ipv**.ip_forward=2 **) = ReDigit
+6249   ReDate ReTime bastion sysctl (** net.ipv**.conf.default.rp_filter=2 **) = ReDigit
+6249   ReDate ReTime bastion sysctl (** kernel.sysrq=2 **) = ReDigit
+6249   ReDate ReTime bastion sysctl (** kernel.core_uses_pid=2 **) = ReDigit

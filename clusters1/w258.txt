@@ -1,0 +1,1 @@
+6822   ReDate ReTime bastion kernel (** isapnp:=2 **) No (** Plug=1 **) (** &=2 **) (** Play=1 **) device found

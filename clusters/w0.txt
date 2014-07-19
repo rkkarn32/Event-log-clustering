@@ -1,0 +1,492 @@
+2197077.0   ReDate ReTime mobileip[**] <**> <DBUG> |mobileip| Station ReMAC ReIP: Received disassociation on ESSID: MFIVAN Mobility service ON HA Discovery on Association Off Fastroaming Disabled AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC phy g VLAN ReDigit
+2197077   ReDate ReTime mobileip[**] <**> <DBUG> |mobileip| Station ReMAC ReIP: Received disassociation on ESSID: MFIVAN Mobility service ON HA Discovery on Association Off Fastroaming Disabled AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC phy g VLAN ReDigit
+2197077   ReDate ReTime mobileip[**] <**> <DBUG> |mobileip| Station ReMAC ReIP: Received disassociation on ESSID: MFIVAN Mobility service ON HA Discovery on Association Off Fastroaming Disabled AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC phy g VLAN ReDigit
+2197077   ReDate ReTime mobileip[**] <**> <DBUG> |mobileip| Station ReMAC ReIP: Received disassociation on ESSID: MFIVAN Mobility service ON HA Discovery on Association Off Fastroaming Disabled AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC phy g VLAN ReDigit
+2197077   ReDate ReTime mobileip[**] <**> <DBUG> |mobileip| Station ReMAC ReIP: Received disassociation on ESSID: MFIVAN Mobility service ON HA Discovery on Association Off Fastroaming Disabled AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC phy g VLAN ReDigit
+2197077   ReDate ReTime mobileip[**] <**> <DBUG> |mobileip| Station ReMAC ReIP: Received disassociation on ESSID: MFIVAN Mobility service ON HA Discovery on Association Off Fastroaming Disabled AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC phy g VLAN ReDigit
+2197077   ReDate ReTime mobileip[**] <**> <DBUG> |mobileip| Station ReMAC ReIP: Received disassociation on ESSID: MFIVAN Mobility service ON HA Discovery on Association Off Fastroaming Disabled AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC phy g VLAN ReDigit
+2197077   ReDate ReTime mobileip[**] <**> <DBUG> |mobileip| Station ReMAC ReIP: Received disassociation on ESSID: MFIVAN Mobility service ON HA Discovery on Association Off Fastroaming Disabled AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC phy g VLAN ReDigit
+2197077   ReDate ReTime mobileip[**] <**> <DBUG> |mobileip| Station ReMAC ReIP: Received disassociation on ESSID: MFIVAN Mobility service ON HA Discovery on Association Off Fastroaming Disabled AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC phy g VLAN ReDigit
+2197077   ReDate ReTime mobileip[**] <**> <DBUG> |mobileip| Station ReMAC ReIP: Received disassociation on ESSID: MFIVAN Mobility service ON HA Discovery on Association Off Fastroaming Disabled AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC phy g VLAN ReDigit
+2197077   ReDate ReTime mobileip[**] <**> <DBUG> |mobileip| Station ReMAC ReIP: Received disassociation on ESSID: MFIVAN Mobility service ON HA Discovery on Association Off Fastroaming Disabled AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC phy g VLAN ReDigit
+2197077   ReDate ReTime mobileip[**] <**> <DBUG> |mobileip| Station ReMAC ReIP: Received disassociation on ESSID: MFIVAN Mobility service ON HA Discovery on Association Off Fastroaming Disabled AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC phy g VLAN ReDigit
+2197077   ReDate ReTime mobileip[**] <**> <DBUG> |mobileip| Station ReMAC ReIP: Received disassociation on ESSID: MFIVAN Mobility service ON HA Discovery on Association Off Fastroaming Disabled AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC phy g VLAN ReDigit
+2197077   ReDate ReTime mobileip[**] <**> <DBUG> |mobileip| Station ReMAC ReIP: Received disassociation on ESSID: MFIVAN Mobility service ON HA Discovery on Association Off Fastroaming Disabled AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC phy g VLAN ReDigit
+
+
+1973213   ReDate ReTime mobileip[**] <**> <DBUG> |mobileip| Station ReMAC ReIP: Received association on ESSID: MFIVAN Mobility service ON HA Discovery on Association Off Fastroaming Disabled AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC phy g VLAN ReDigit
+1973213   ReDate ReTime mobileip[**] <**> <DBUG> |mobileip| Station ReMAC ReIP: Received association on ESSID: MFIVAN Mobility service ON HA Discovery on Association Off Fastroaming Disabled AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC phy g VLAN ReDigit
+1973213   ReDate ReTime mobileip[**] <**> <DBUG> |mobileip| Station ReMAC ReIP: Received association on ESSID: MFIVAN Mobility service ON HA Discovery on Association Off Fastroaming Disabled AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC phy g VLAN ReDigit
+1973213   ReDate ReTime mobileip[**] <**> <DBUG> |mobileip| Station ReMAC ReIP: Received association on ESSID: MFIVAN Mobility service ON HA Discovery on Association Off Fastroaming Disabled AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC phy g VLAN ReDigit
+1973213   ReDate ReTime mobileip[**] <**> <DBUG> |mobileip| Station ReMAC ReIP: Received association on ESSID: MFIVAN Mobility service ON HA Discovery on Association Off Fastroaming Disabled AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC phy g VLAN ReDigit
+1973213   ReDate ReTime mobileip[**] <**> <DBUG> |mobileip| Station ReMAC ReIP: Received association on ESSID: MFIVAN Mobility service ON HA Discovery on Association Off Fastroaming Disabled AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC phy g VLAN ReDigit
+1973213   ReDate ReTime mobileip[**] <**> <DBUG> |mobileip| Station ReMAC ReIP: Received association on ESSID: MFIVAN Mobility service ON HA Discovery on Association Off Fastroaming Disabled AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC phy g VLAN ReDigit
+1973213   ReDate ReTime mobileip[**] <**> <DBUG> |mobileip| Station ReMAC ReIP: Received association on ESSID: MFIVAN Mobility service ON HA Discovery on Association Off Fastroaming Disabled AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC phy g VLAN ReDigit
+1973213   ReDate ReTime mobileip[**] <**> <DBUG> |mobileip| Station ReMAC ReIP: Received association on ESSID: MFIVAN Mobility service ON HA Discovery on Association Off Fastroaming Disabled AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC phy g VLAN ReDigit
+1973213   ReDate ReTime mobileip[**] <**> <DBUG> |mobileip| Station ReMAC ReIP: Received association on ESSID: MFIVAN Mobility service ON HA Discovery on Association Off Fastroaming Disabled AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC phy g VLAN ReDigit
+1973213   ReDate ReTime mobileip[**] <**> <DBUG> |mobileip| Station ReMAC ReIP: Received association on ESSID: MFIVAN Mobility service ON HA Discovery on Association Off Fastroaming Disabled AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC phy g VLAN ReDigit
+1973213   ReDate ReTime mobileip[**] <**> <DBUG> |mobileip| Station ReMAC ReIP: Received association on ESSID: MFIVAN Mobility service ON HA Discovery on Association Off Fastroaming Disabled AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC phy g VLAN ReDigit
+1973213   ReDate ReTime mobileip[**] <**> <DBUG> |mobileip| Station ReMAC ReIP: Received association on ESSID: MFIVAN Mobility service ON HA Discovery on Association Off Fastroaming Disabled AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC phy g VLAN ReDigit
+1973213   ReDate ReTime mobileip[**] <**> <DBUG> |mobileip| Station ReMAC ReIP: Received association on ESSID: MFIVAN Mobility service ON HA Discovery on Association Off Fastroaming Disabled AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC phy g VLAN ReDigit
+1973213   ReDate ReTime mobileip[**] <**> <DBUG> |mobileip| Station ReMAC ReIP: Received association on ESSID: MFIVAN Mobility service ON HA Discovery on Association Off Fastroaming Disabled AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC phy g VLAN ReDigit
+
+
+474620   ReDate ReTime stm[**] <**> <DBUG> |stm| Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN (** 0x1=15 **) wmm:** rsn_cap:**
+474620   ReDate ReTime stm[**] <**> <DBUG> |stm| Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN (** 0x1=15 **) wmm:** rsn_cap:**
+474620   ReDate ReTime stm[**] <**> <DBUG> |stm| Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN (** 0x1=15 **) wmm:** rsn_cap:**
+474620   ReDate ReTime stm[**] <**> <DBUG> |stm| Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN (** 0x1=15 **) wmm:** rsn_cap:**
+474620   ReDate ReTime stm[**] <**> <DBUG> |stm| Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN (** 0x1=15 **) wmm:** rsn_cap:**
+474620   ReDate ReTime stm[**] <**> <DBUG> |stm| Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN (** 0x1=15 **) wmm:** rsn_cap:**
+474620   ReDate ReTime stm[**] <**> <DBUG> |stm| Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN (** 0x1=15 **) wmm:** rsn_cap:**
+474620   ReDate ReTime stm[**] <**> <DBUG> |stm| Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN (** 0x1=15 **) wmm:** rsn_cap:**
+474620   ReDate ReTime stm[**] <**> <DBUG> |stm| Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN (** 0x1=15 **) wmm:** rsn_cap:**
+474620   ReDate ReTime stm[**] <**> <DBUG> |stm| Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN (** 0x1=15 **) wmm:** rsn_cap:**
+474620   ReDate ReTime stm[**] <**> <DBUG> |stm| Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN (** 0x1=15 **) wmm:** rsn_cap:**
+474620   ReDate ReTime stm[**] <**> <DBUG> |stm| Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN (** 0x1=15 **) wmm:** rsn_cap:**
+474620   ReDate ReTime stm[**] <**> <DBUG> |stm| Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN (** 0x1=15 **) wmm:** rsn_cap:**
+474620   ReDate ReTime stm[**] <**> <DBUG> |stm| Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN (** 0x1=15 **) wmm:** rsn_cap:**
+474620   ReDate ReTime stm[**] <**> <DBUG> |stm| Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN (** 0x1=15 **) wmm:** rsn_cap:**
+474557   ReDate ReTime stm[**] <**> <DBUG> |stm| Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN (** 0x2=14 **) wmm:** rsn_cap:**
+474557   ReDate ReTime stm[**] <**> <DBUG> |stm| Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN (** 0x2=14 **) wmm:** rsn_cap:**
+474557   ReDate ReTime stm[**] <**> <DBUG> |stm| Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN (** 0x2=14 **) wmm:** rsn_cap:**
+474557   ReDate ReTime stm[**] <**> <DBUG> |stm| Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN (** 0x2=14 **) wmm:** rsn_cap:**
+474557   ReDate ReTime stm[**] <**> <DBUG> |stm| Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN (** 0x2=14 **) wmm:** rsn_cap:**
+474557   ReDate ReTime stm[**] <**> <DBUG> |stm| Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN (** 0x2=14 **) wmm:** rsn_cap:**
+474557   ReDate ReTime stm[**] <**> <DBUG> |stm| Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN (** 0x2=14 **) wmm:** rsn_cap:**
+474557   ReDate ReTime stm[**] <**> <DBUG> |stm| Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN (** 0x2=14 **) wmm:** rsn_cap:**
+474557   ReDate ReTime stm[**] <**> <DBUG> |stm| Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN (** 0x2=14 **) wmm:** rsn_cap:**
+474557   ReDate ReTime stm[**] <**> <DBUG> |stm| Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN (** 0x2=14 **) wmm:** rsn_cap:**
+474557   ReDate ReTime stm[**] <**> <DBUG> |stm| Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN (** 0x2=14 **) wmm:** rsn_cap:**
+474557   ReDate ReTime stm[**] <**> <DBUG> |stm| Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN (** 0x2=14 **) wmm:** rsn_cap:**
+474557   ReDate ReTime stm[**] <**> <DBUG> |stm| Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN (** 0x2=14 **) wmm:** rsn_cap:**
+474557   ReDate ReTime stm[**] <**> <DBUG> |stm| Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN (** 0x2=14 **) wmm:** rsn_cap:**
+
+
+444860   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** 0x10bd=13 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: (** remote=11 **) FW mode: 1 AP IP: ReIP
+444860   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** 0x10bd=13 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: (** remote=11 **) FW mode: 1 AP IP: ReIP
+444860   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** 0x10bd=13 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: (** remote=11 **) FW mode: 1 AP IP: ReIP
+444860   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** 0x10bd=13 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: (** remote=11 **) FW mode: 1 AP IP: ReIP
+444860   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** 0x10bd=13 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: (** remote=11 **) FW mode: 1 AP IP: ReIP
+444860   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** 0x10bd=13 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: (** remote=11 **) FW mode: 1 AP IP: ReIP
+444860   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** 0x10bd=13 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: (** remote=11 **) FW mode: 1 AP IP: ReIP
+444860   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** 0x10bd=13 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: (** remote=11 **) FW mode: 1 AP IP: ReIP
+444860   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** 0x10bd=13 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: (** remote=11 **) FW mode: 1 AP IP: ReIP
+444860   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** 0x10bd=13 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: (** remote=11 **) FW mode: 1 AP IP: ReIP
+444860   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** 0x10bd=13 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: (** remote=11 **) FW mode: 1 AP IP: ReIP
+442281   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** 0x10bd=13 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: local FW mode: 0 AP IP: ReIP
+442281   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** 0x10bd=13 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: local FW mode: 0 AP IP: ReIP
+
+
+423006   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** 0x111f=8 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: local FW mode: 0 AP IP: ReIP
+423006   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** 0x111f=8 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: local FW mode: 0 AP IP: ReIP
+423006   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** 0x111f=8 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: local FW mode: 0 AP IP: ReIP
+423006   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** 0x111f=8 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: local FW mode: 0 AP IP: ReIP
+423006   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** 0x111f=8 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: local FW mode: 0 AP IP: ReIP
+423006   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** 0x111f=8 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: local FW mode: 0 AP IP: ReIP
+423006   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** 0x111f=8 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: local FW mode: 0 AP IP: ReIP
+423006   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** 0x111f=8 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: local FW mode: 0 AP IP: ReIP
+422624   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** 0x112e=3 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: local FW mode: 0 AP IP: ReIP
+422624   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** 0x112e=3 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: local FW mode: 0 AP IP: ReIP
+422624   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** 0x112e=3 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: local FW mode: 0 AP IP: ReIP
+422547   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** **=2 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: local FW mode: 0 AP IP: ReIP
+422547   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** 0x10cf=2 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: local FW mode: 0 AP IP: ReIP
+422547   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** **=2 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: local FW mode: 0 AP IP: ReIP
+422547   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** 0x10df=2 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: local FW mode: 0 AP IP: ReIP
+422547   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** 0x10df=2 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: local FW mode: 0 AP IP: ReIP
+422547   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC ingress (** 0x10cf=2 **) (**) u_encr 1 m_encr 1 slotport 0x1040 type: local FW mode: 0 AP IP: ReIP
+
+
+397499   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC Reason STA has left and is deauthenticated
+397499   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC Reason STA has left and is deauthenticated
+397499   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC Reason STA has left and is deauthenticated
+397499   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC Reason STA has left and is deauthenticated
+397499   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC Reason STA has left and is deauthenticated
+397499   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC Reason STA has left and is deauthenticated
+397499   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC Reason STA has left and is deauthenticated
+397499   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC Reason STA has left and is deauthenticated
+397499   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC Reason STA has left and is deauthenticated
+397499   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC Reason STA has left and is deauthenticated
+397499   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC Reason STA has left and is deauthenticated
+
+
+356278   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Station ReMAC: (** No=6 **) (** authentication=10 **) (** found=6 **) (** trying=4 **) to (** de-authenticate=4 **) to BSSID ReMAC on AP ReMAC
+356278   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Station ReMAC: (** No=6 **) (** authentication=10 **) (** found=6 **) (** trying=4 **) to (** de-authenticate=4 **) to BSSID ReMAC on AP ReMAC
+356278   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Station ReMAC: (** No=6 **) (** authentication=10 **) (** found=6 **) (** trying=4 **) to (** de-authenticate=4 **) to BSSID ReMAC on AP ReMAC
+356278   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Station ReMAC: (** No=6 **) (** authentication=10 **) (** found=6 **) (** trying=4 **) to (** de-authenticate=4 **) to BSSID ReMAC on AP ReMAC
+
+
+347357   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC Reason (** Prior=6 **) (** authentication=10 **) is (** not=6 **) (** valid=6 **)
+347357   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC Reason (** Prior=6 **) (** authentication=10 **) is (** not=6 **) (** valid=6 **)
+347357   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC Reason (** Prior=6 **) (** authentication=10 **) is (** not=6 **) (** valid=6 **)
+347357   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC Reason (** Prior=6 **) (** authentication=10 **) is (** not=6 **) (** valid=6 **)
+
+
+316569   ReDate ReTime mobileip[**] <**> <NOTI> |mobileip| Station ReMAC ReIP: Mobility (** trail=11 **) on (** switch=11 **) ReIP VLAN (** 2=7 **) AP ReMAC (** MFIVANRePathReMACRePath=11 **)
+316569   ReDate ReTime mobileip[**] <**> <NOTI> |mobileip| Station ReMAC ReIP: Mobility (** trail=11 **) on (** switch=11 **) ReIP VLAN (** 2=7 **) AP ReMAC (** MFIVANRePathReMACRePath=11 **)
+316569   ReDate ReTime mobileip[**] <**> <NOTI> |mobileip| Station ReMAC ReIP: Mobility (** trail=11 **) on (** switch=11 **) ReIP VLAN (** 2=7 **) AP ReMAC (** MFIVANRePathReMACRePath=11 **)
+316569   ReDate ReTime mobileip[**] <**> <NOTI> |mobileip| Station ReMAC ReIP: Mobility (** trail=11 **) on (** switch=11 **) ReIP VLAN (** 2=7 **) AP ReMAC (** MFIVANRePathReMACRePath=11 **)
+316569   ReDate ReTime mobileip[**] <**> <NOTI> |mobileip| Station ReMAC ReIP: Mobility (** trail=11 **) on (** switch=11 **) ReIP VLAN (** 2=7 **) AP ReMAC (** MFIVANRePathReMACRePath=11 **)
+316569   ReDate ReTime mobileip[**] <**> <NOTI> |mobileip| Station ReMAC ReIP: Mobility (** trail=11 **) on (** switch=11 **) ReIP VLAN (** 2=7 **) AP ReMAC (** MFIVANRePathReMACRePath=11 **)
+316569   ReDate ReTime mobileip[**] <**> <NOTI> |mobileip| Station ReMAC ReIP: Mobility (** trail=11 **) on (** switch=11 **) ReIP VLAN (** 2=7 **) AP ReMAC (** MFIVANRePathReMACRePath=11 **)
+
+
+294938   ReDate ReTime stm[**] <**> <NOTI> |stm| Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC Reason STA has left and is deauthenticated
+294938   ReDate ReTime stm[**] <**> <NOTI> |stm| Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC Reason STA has left and is deauthenticated
+
+
+268326   ReDate ReTime stm[**] <**> <NOTI> |stm| Deauth to sta: ReMAC: (** Ageout=8 **) AP ReIP-ReMAC-ReMAC STA has left and is deauthenticated
+268326   ReDate ReTime stm[**] <**> <NOTI> |stm| Deauth to sta: ReMAC: (** Ageout=8 **) AP ReIP-ReMAC-ReMAC STA has left and is deauthenticated
+268326   ReDate ReTime stm[**] <**> <NOTI> |stm| Deauth to sta: ReMAC: (** Ageout=8 **) AP ReIP-ReMAC-ReMAC STA has left and is deauthenticated
+
+
+265719   ReDate ReTime mobileip[**] <**> <NOTI> |mobileip| Station ReMAC ReIP: Mobility (** trail=11 **) on (** switch=11 **) ReIP VLAN 1 AP ReMAC (** MFIVANRePathReMACRePath=11 **)
+265719   ReDate ReTime mobileip[**] <**> <NOTI> |mobileip| Station ReMAC ReIP: Mobility (** trail=11 **) on (** switch=11 **) ReIP VLAN 1 AP ReMAC (** MFIVANRePathReMACRePath=11 **)
+265719   ReDate ReTime mobileip[**] <**> <NOTI> |mobileip| Station ReMAC ReIP: Mobility (** trail=11 **) on (** switch=11 **) ReIP VLAN 1 AP ReMAC (** MFIVANRePathReMACRePath=11 **)
+265719   ReDate ReTime mobileip[**] <**> <NOTI> |mobileip| Station ReMAC ReIP: Mobility (** trail=11 **) on (** switch=11 **) ReIP VLAN 1 AP ReMAC (** MFIVANRePathReMACRePath=11 **)
+
+
+253854   ReDate ReTime stm[**] <**> <NOTI> |stm| Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC Reason (** Prior=6 **) (** authentication=10 **) is (** not=6 **) (** valid=6 **)
+253854   ReDate ReTime stm[**] <**> <NOTI> |stm| Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC Reason (** Prior=6 **) (** authentication=10 **) is (** not=6 **) (** valid=6 **)
+
+
+160184   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc request @ (** ReTime.071352:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+160184   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc request @ (** ReTime.048356:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+160184   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc request @ (** ReTime.224949:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+160184   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc request @ (** ReTime.286870:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+160184   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc request @ (** ReTime.256175:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+160184   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc request @ (** ReTime.626133:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+160184   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc request @ (** ReTime.482964:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+160184   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc request @ (** ReTime.511405:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+160184   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc request @ (** ReTime.681427:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+160184   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc request @ (** ReTime.455319:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+160184   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc request @ (** ReTime.882983:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+160184   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc request @ (** ReTime.745125:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+160184   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc request @ (** ReTime.197427:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+160184   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc request @ (** ReTime.126263:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+160184   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc request @ (** ReTime.526046:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+
+
+148345   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** removing=7 **) (** existing=6 **) (** bridge=11 **) (** mode=5 **) user ReIP (** associated=6 **) to AP (** :=6 **) ReMAC (** Wireless=7 **) (** Bssid:=8 **) ReMAC
+148345   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** removing=7 **) (** existing=6 **) (** bridge=11 **) (** mode=5 **) user ReIP (** associated=6 **) to AP (** :=6 **) ReMAC (** Wireless=7 **) (** Bssid:=8 **) ReMAC
+148217   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** UP:=16 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=1=17 **) AP-name=ReMAC
+148217   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** UP:=16 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=1=17 **) AP-name=ReMAC
+148217   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** UP:=16 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=1=17 **) AP-name=ReMAC
+148217   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** UP:=16 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=1=17 **) AP-name=ReMAC
+148217   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** UP:=16 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=1=17 **) AP-name=ReMAC
+148217   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** UP:=16 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=1=17 **) AP-name=ReMAC
+148217   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** UP:=16 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=1=17 **) AP-name=ReMAC
+148217   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** UP:=16 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=1=17 **) AP-name=ReMAC
+148217   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** UP:=16 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=2=17 **) AP-name=ReMAC
+148217   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** UP:=16 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=2=17 **) AP-name=ReMAC
+148217   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** UP:=16 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=2=17 **) AP-name=ReMAC
+148217   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** UP:=16 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=2=17 **) AP-name=ReMAC
+148217   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** UP:=16 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=2=17 **) AP-name=ReMAC
+148217   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** UP:=16 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=2=17 **) AP-name=ReMAC
+148217   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** UP:=16 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=2=17 **) AP-name=ReMAC
+148217   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** UP:=16 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=2=17 **) AP-name=ReMAC
+147969   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** DN:=14 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=1=17 **) AP-name=ReMAC
+147969   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** DN:=14 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=1=17 **) AP-name=ReMAC
+147969   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** DN:=14 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=2=17 **) AP-name=ReMAC
+147969   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** DN:=14 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=1=17 **) AP-name=ReMAC
+147969   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** DN:=14 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=2=17 **) AP-name=ReMAC
+147969   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** DN:=14 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=1=17 **) AP-name=ReMAC
+147969   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** DN:=14 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=2=17 **) AP-name=ReMAC
+147969   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** DN:=14 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=1=17 **) AP-name=ReMAC
+147969   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** DN:=14 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=1=17 **) AP-name=ReMAC
+147969   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** DN:=14 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=2=17 **) AP-name=ReMAC
+147969   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** DN:=14 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=1=17 **) AP-name=ReMAC
+147969   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** DN:=14 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=2=17 **) AP-name=ReMAC
+147969   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** DN:=14 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=2=17 **) AP-name=ReMAC
+147969   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC Station (** DN:=14 **) BSSID=ReMAC ESSID=MFIVAN (** VLAN=2=17 **) AP-name=ReMAC
+
+
+141996   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc success @ (** ReTime.227520:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+141996   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc success @ (** ReTime.746906:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+141996   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc success @ (** ReTime.683435:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+141996   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc success @ (** ReTime.288724:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+141996   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc success @ (** ReTime.527507:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+141996   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc success @ (** ReTime.884374:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+141996   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc success @ (** ReTime.127942:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+141996   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc success @ (** ReTime.072965:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+141996   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc success @ (** ReTime.257917:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+141996   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc success @ (** ReTime.628828:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+141996   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc success @ (** ReTime.457070:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+141996   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc success @ (** ReTime.199017:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+141996   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc success @ (** ReTime.512910:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+141996   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc success @ (** ReTime.050219:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+141996   ReDate ReTime stm[**] <**> <NOTI> |AP ReMAC@ReIP stm| Assoc success @ (** ReTime.484124:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+
+
+138410   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC (** def_vlan=11 **) ReDigit (** derive=11 **) (** vlan:=11 **) ReDigit (** auth_type=11 **) ReDigit (** auth_subtype=11 **) ReDigit
+138410   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC (** def_vlan=11 **) ReDigit (** derive=11 **) (** vlan:=11 **) ReDigit (** auth_type=11 **) ReDigit (** auth_subtype=11 **) ReDigit
+138410   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC (** def_vlan=11 **) ReDigit (** derive=11 **) (** vlan:=11 **) ReDigit (** auth_type=11 **) ReDigit (** auth_subtype=11 **) ReDigit
+138410   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC (** def_vlan=11 **) ReDigit (** derive=11 **) (** vlan:=11 **) ReDigit (** auth_type=11 **) ReDigit (** auth_subtype=11 **) ReDigit
+138410   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC (** def_vlan=11 **) ReDigit (** derive=11 **) (** vlan:=11 **) ReDigit (** auth_type=11 **) ReDigit (** auth_subtype=11 **) ReDigit
+138410   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC (** def_vlan=11 **) ReDigit (** derive=11 **) (** vlan:=11 **) ReDigit (** auth_type=11 **) ReDigit (** auth_subtype=11 **) ReDigit
+138410   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC (** def_vlan=11 **) ReDigit (** derive=11 **) (** vlan:=11 **) ReDigit (** auth_type=11 **) ReDigit (** auth_subtype=11 **) ReDigit
+138410   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC (** def_vlan=11 **) ReDigit (** derive=11 **) (** vlan:=11 **) ReDigit (** auth_type=11 **) ReDigit (** auth_subtype=11 **) ReDigit
+138410   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC (** def_vlan=11 **) ReDigit (** derive=11 **) (** vlan:=11 **) ReDigit (** auth_type=11 **) ReDigit (** auth_subtype=11 **) ReDigit
+138410   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC (** def_vlan=11 **) ReDigit (** derive=11 **) (** vlan:=11 **) ReDigit (** auth_type=11 **) ReDigit (** auth_subtype=11 **) ReDigit
+138410   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC (** def_vlan=11 **) ReDigit (** derive=11 **) (** vlan:=11 **) ReDigit (** auth_type=11 **) ReDigit (** auth_subtype=11 **) ReDigit
+
+
+135681   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** removing=7 **) (** existing=6 **) (** L**=1 **) station (**) (** associated=6 **) to (** AP:ReMAC=1 **) (** user->apip:ReIP(**)=1 **) (** Wireless=7 **) (** Bssid:=8 **) ReMAC (** user->fw->mode=1 **) (** :=6 **) ReDigit (** (1)=1 **)
+
+
+133636   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** inherit=4 **) IP=ReIP (** bssid:ReMAC=8 **) essid: MFIVAN (** auth:**=4 **) type: (** role:authenticated=4 **) (** port:**x10bd=4 **)
+133636   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** inherit=4 **) IP=ReIP (** bssid:ReMAC=8 **) essid: MFIVAN (** auth:**=4 **) type: (** role:authenticated=4 **) (** port:**x10bd=4 **)
+133554   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** inherit=4 **) IP=ReIP (** bssid:ReMAC=8 **) essid: MFIVAN (** auth:**=4 **) type: (** role:authenticated=4 **) (** port:**x112e=2 **)
+133554   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** inherit=4 **) IP=ReIP (** bssid:ReMAC=8 **) essid: MFIVAN (** auth:**=4 **) type: (** role:authenticated=4 **) (** port:**x111f=2 **)
+
+
+126706   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** removing=7 **) (** existing=6 **) (** bridge=11 **) (** mode=5 **) user ReIP (** associated=6 **) to AP (** :=6 **) (** Wireless=7 **) (** Bssid:=8 **) ReMAC
+126706   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** removing=7 **) (** existing=6 **) (** bridge=11 **) (** mode=5 **) user ReIP (** associated=6 **) to AP (** :=6 **) (** Wireless=7 **) (** Bssid:=8 **) ReMAC
+126706   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** removing=7 **) (** existing=6 **) (** bridge=11 **) (** mode=5 **) user ReIP (** associated=6 **) to AP (** :=6 **) (** Wireless=7 **) (** Bssid:=8 **) ReMAC
+
+
+119346   ReDate ReTime stm[**] <**> <NOTI> |stm| Deauth to sta: ReMAC: (** Ageout=8 **) AP ReIP-ReMAC-ReMAC (** Unspecified=5 **) (** Failure=5 **)
+119346   ReDate ReTime stm[**] <**> <NOTI> |stm| Deauth to sta: ReMAC: (** Ageout=8 **) AP ReIP-ReMAC-ReMAC (** Unspecified=5 **) (** Failure=5 **)
+119346   ReDate ReTime stm[**] <**> <NOTI> |stm| Deauth to sta: ReMAC: (** Ageout=8 **) AP ReIP-ReMAC-ReMAC (** Unspecified=5 **) (** Failure=5 **)
+119346   ReDate ReTime stm[**] <**> <NOTI> |stm| Deauth to sta: ReMAC: (** Ageout=8 **) AP ReIP-ReMAC-ReMAC (** Unspecified=5 **) (** Failure=5 **)
+119346   ReDate ReTime stm[**] <**> <NOTI> |stm| Deauth to sta: ReMAC: (** Ageout=8 **) AP ReIP-ReMAC-ReMAC (** Unspecified=5 **) (** Failure=5 **)
+
+
+115175   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC IP=ReIP (** Send=20 **) mobility (** delete=20 **) message (** flags=0x0=5 **)
+115175   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC IP=ReIP (** Send=20 **) mobility (** delete=20 **) message (** flags=0x0=5 **)
+115175   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC IP=ReIP (** Send=20 **) mobility (** delete=20 **) message (** flags=0x0=5 **)
+115175   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC IP=ReIP (** Send=20 **) mobility (** delete=20 **) message (** flags=0x0=5 **)
+115175   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC IP=ReIP (** Send=20 **) mobility (** delete=20 **) message (** flags=0x0=5 **)
+
+
+111861   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC IP=ReIP User entry (** deleted:=5 **) (** reason=User=5 **) (** Reconnect=3 **) (** Cleanup=5 **)
+111861   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC IP=ReIP User entry (** deleted:=5 **) (** reason=User=5 **) (** Reconnect=3 **) (** Cleanup=5 **)
+111861   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC IP=ReIP User entry (** deleted:=5 **) (** reason=User=5 **) (** Reconnect=3 **) (** Cleanup=5 **)
+
+
+108416   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** Reset=4 **) (** BWM=4 **) (** contract:=4 **) IP=ReIP (** role=authenticated=8 **) (** contract==4 **) (** (0)=4 **) (** type=Per=4 **) (** role=8 **)
+108416   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** Reset=4 **) (** BWM=4 **) (** contract:=4 **) IP=ReIP (** role=authenticated=8 **) (** contract==4 **) (** (0)=4 **) (** type=Per=4 **) (** role=8 **)
+108416   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** Reset=4 **) (** BWM=4 **) (** contract:=4 **) IP=ReIP (** role=authenticated=8 **) (** contract==4 **) (** (0)=4 **) (** type=Per=4 **) (** role=8 **)
+108416   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** Reset=4 **) (** BWM=4 **) (** contract:=4 **) IP=ReIP (** role=authenticated=8 **) (** contract==4 **) (** (0)=4 **) (** type=Per=4 **) (** role=8 **)
+
+
+103281   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC IP=ReIP User entry (** deleted:=5 **) (** reason=user=5 **) request
+103281   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC IP=ReIP User entry (** deleted:=5 **) (** reason=user=5 **) request
+
+
+98259   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** add:=22 **) (** Created=20 **) station (** with=22 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+98259   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** add:=22 **) (** Created=20 **) station (** with=22 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+98259   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** add:=22 **) (** Created=20 **) station (** with=22 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+98259   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** add:=22 **) (** Created=20 **) station (** with=22 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+98259   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** add:=22 **) (** Created=20 **) station (** with=22 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+98259   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** add:=22 **) (** Created=20 **) station (** with=22 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+98259   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** add:=22 **) (** Created=20 **) station (** with=22 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+98259   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** add:=22 **) (** Created=20 **) station (** with=22 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+98259   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** add:=22 **) (** Created=20 **) station (** with=22 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+98259   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** add:=22 **) (** Created=20 **) station (** with=22 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+98259   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** add:=22 **) (** Created=20 **) station (** with=22 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+98259   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** add:=22 **) (** Created=20 **) station (** with=22 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+98259   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** add:=22 **) (** Created=20 **) station (** with=22 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+98259   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** add:=22 **) (** Created=20 **) station (** with=22 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+98259   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** add:=22 **) (** Created=20 **) station (** with=22 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+98259   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** add:=22 **) (** Created=20 **) station (** with=22 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+98259   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** add:=22 **) (** Created=20 **) station (** with=22 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+98259   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** add:=22 **) (** Created=20 **) station (** with=22 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+98259   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** add:=22 **) (** Created=20 **) station (** with=22 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+98259   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** add:=22 **) (** Created=20 **) station (** with=22 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+97887   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** add:=22 **) (** Found=6 **) station (** with=22 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+97887   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** add:=22 **) (** Found=6 **) station (** with=22 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+
+
+92736   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc request @ (** ReTime.313002:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+92736   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc request @ (** ReTime.791068:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+92736   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc request @ (** ReTime.479531:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+92736   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc request @ (** ReTime.555754:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+92736   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc request @ (** ReTime.771597:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+92736   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc request @ (** ReTime.416742:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+92736   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc request @ (** ReTime.146905:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+92736   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc request @ (** ReTime.173937:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+92736   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc request @ (** ReTime.783782:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+92736   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc request @ (** ReTime.508112:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+92736   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc request @ (** ReTime.389875:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+92736   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc request @ (** ReTime.840343:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+92736   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc request @ (** ReTime.639906:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+92736   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc request @ (** ReTime.355841:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+92736   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc request @ (** ReTime.628765:=1 **) ReMAC (**): AP ReIP-ReMAC-ReMAC
+
+
+89586   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC (** Send=20 **) Station (** delete=20 **) (** message=49 **) to mobility
+89586   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC (** Send=20 **) Station (** delete=20 **) (** message=49 **) to mobility
+89586   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC (** Send=20 **) Station (** delete=20 **) (** message=49 **) to mobility
+89586   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC (** Send=20 **) Station (** delete=20 **) (** message=49 **) to mobility
+89586   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC (** Send=20 **) Station (** delete=20 **) (** message=49 **) to mobility
+89586   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC (** Send=20 **) Station (** delete=20 **) (** message=49 **) to mobility
+89586   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC (** Send=20 **) Station (** delete=20 **) (** message=49 **) to mobility
+89586   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC (** Send=20 **) Station (** delete=20 **) (** message=49 **) to mobility
+89586   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC (** Send=20 **) Station (** delete=20 **) (** message=49 **) to mobility
+89586   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC (** Send=20 **) Station (** delete=20 **) (** message=49 **) to mobility
+89586   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC (** Send=20 **) Station (** delete=20 **) (** message=49 **) to mobility
+89586   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC (** Send=20 **) Station (** delete=20 **) (** message=49 **) to mobility
+89586   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC (** Send=20 **) Station (** delete=20 **) (** message=49 **) to mobility
+89586   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC (** Send=20 **) Station (** delete=20 **) (** message=49 **) to mobility
+89586   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| MAC=ReMAC (** Send=20 **) Station (** delete=20 **) (** message=49 **) to mobility
+
+
+85956   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| Station (** inherit:=4 **) IP=ReIP (** start=4 **) (** bssid:ReMAC=8 **) essid: (** port:**x10bd=4 **) (**)
+85956   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| Station (** inherit:=4 **) IP=ReIP (** start=4 **) (** bssid:ReMAC=8 **) essid: (** port:**x10bd=4 **) (**)
+85899   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| Station (** inherit:=4 **) IP=ReIP (** start=4 **) (** bssid:ReMAC=8 **) essid: (** port:**x111f=2 **) (**)
+85899   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| Station (** inherit:=4 **) IP=ReIP (** start=4 **) (** bssid:ReMAC=8 **) essid: (** port:**x112e=2 **) (**)
+
+
+82882   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc success @ (** ReTime.149569:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+82882   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc success @ (** ReTime.798415:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+82882   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc success @ (** ReTime.174470:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+82882   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc success @ (** ReTime.317316:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+82882   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc success @ (** ReTime.647949:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+82882   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc success @ (** ReTime.786912:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+82882   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc success @ (** ReTime.558518:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+82882   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc success @ (** ReTime.487046:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+82882   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc success @ (** ReTime.358841:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+82882   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc success @ (** ReTime.511136:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+82882   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc success @ (** ReTime.633268:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+82882   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc success @ (** ReTime.394110:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+82882   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc success @ (** ReTime.772138:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+82882   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc success @ (** ReTime.419697:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+82882   ReDate ReTime stm[**] <**> <NOTI> |stm| Assoc success @ (** ReTime.843666:=1 **) ReMAC: AP ReIP-ReMAC-ReMAC
+82754   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC IP=ReIP (** User=19 **) entry (** added:=4 **) (** reason=Sibtye=4 **)
+82754   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC IP=ReIP (** User=19 **) entry (** added:=4 **) (** reason=Sibtye=4 **)
+82754   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC IP=ReIP (** User=19 **) entry (** added:=4 **) (** reason=Sibtye=4 **)
+82754   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC IP=ReIP (** User=19 **) entry (** added:=4 **) (** reason=Sibtye=4 **)
+
+
+79625   ReDate ReTime stm[**] <**> <DBUG> |AP ReMAC@ReIP stm| Station ReMAC: (** Clearing=22 **) (** state=22 **)
+79625   ReDate ReTime stm[**] <**> <DBUG> |AP ReMAC@ReIP stm| Station ReMAC: (** Clearing=22 **) (** state=22 **)
+79625   ReDate ReTime stm[**] <**> <DBUG> |AP ReMAC@ReIP stm| Station ReMAC: (** Clearing=22 **) (** state=22 **)
+79625   ReDate ReTime stm[**] <**> <DBUG> |AP ReMAC@ReIP stm| Station ReMAC: (** Clearing=22 **) (** state=22 **)
+79625   ReDate ReTime stm[**] <**> <DBUG> |AP ReMAC@ReIP stm| Station ReMAC: (** Clearing=22 **) (** state=22 **)
+79625   ReDate ReTime stm[**] <**> <DBUG> |AP ReMAC@ReIP stm| Station ReMAC: (** Clearing=22 **) (** state=22 **)
+79625   ReDate ReTime stm[**] <**> <DBUG> |AP ReMAC@ReIP stm| Station ReMAC: (** Clearing=22 **) (** state=22 **)
+79625   ReDate ReTime stm[**] <**> <DBUG> |AP ReMAC@ReIP stm| Station ReMAC: (** Clearing=22 **) (** state=22 **)
+79625   ReDate ReTime stm[**] <**> <DBUG> |AP ReMAC@ReIP stm| Station ReMAC: (** Clearing=22 **) (** state=22 **)
+79625   ReDate ReTime stm[**] <**> <DBUG> |AP ReMAC@ReIP stm| Station ReMAC: (** Clearing=22 **) (** state=22 **)
+79625   ReDate ReTime stm[**] <**> <DBUG> |AP ReMAC@ReIP stm| Station ReMAC: (** Clearing=22 **) (** state=22 **)
+79361   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC IP=ReIP User (** miss:=4 **) (** ingress=0x10bd=2 **) (** VLAN=1=17 **)
+79361   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC IP=ReIP User (** miss:=4 **) (** ingress=0x10bd=2 **) (** VLAN=1=17 **)
+79327   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC IP=ReIP User (** miss:=4 **) (** ingress=0x111f=1 **) (** VLAN=2=17 **)
+79327   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC IP=ReIP User (** miss:=4 **) (** ingress=0x112e=1 **) (** VLAN=2=17 **)
+
+
+75592   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** download:=4 **) ip=ReIP (** acl=48RePath=4 **) (** role=authenticated=8 **) (** Ubwm=0=4 **) (** Dbwm=0=4 **) (** tunl=0x10bd=2 **) (** PA=0=4 **) (** HA=1=4 **) (** RO=0=4 **) (** VPN=0=4 **)
+75592   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** download:=4 **) ip=ReIP (** acl=48RePath=4 **) (** role=authenticated=8 **) (** Ubwm=0=4 **) (** Dbwm=0=4 **) (** tunl=0x10bd=2 **) (** PA=0=4 **) (** HA=1=4 **) (** RO=0=4 **) (** VPN=0=4 **)
+75558   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** download:=4 **) ip=ReIP (** acl=48RePath=4 **) (** role=authenticated=8 **) (** Ubwm=0=4 **) (** Dbwm=0=4 **) (** tunl=0x111f=1 **) (** PA=0=4 **) (** HA=1=4 **) (** RO=0=4 **) (** VPN=0=4 **)
+75558   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** download:=4 **) ip=ReIP (** acl=48RePath=4 **) (** role=authenticated=8 **) (** Ubwm=0=4 **) (** Dbwm=0=4 **) (** tunl=0x112e=1 **) (** PA=0=4 **) (** HA=1=4 **) (** RO=0=4 **) (** VPN=0=4 **)
+
+
+68203   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC IP=ReIP (** Remove=5 **) (** Bridge=11 **) Entry
+68203   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC IP=ReIP (** Remove=5 **) (** Bridge=11 **) Entry
+68203   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC IP=ReIP (** Remove=5 **) (** Bridge=11 **) Entry
+68203   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC IP=ReIP (** Remove=5 **) (** Bridge=11 **) Entry
+68203   ReDate ReTime authmgr[**] <**> <INFO> |authmgr| MAC=ReMAC IP=ReIP (** Remove=5 **) (** Bridge=11 **) Entry
+
+
+65321   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** free:=20 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+65321   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** free:=20 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+65321   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** free:=20 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+65321   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** free:=20 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+65321   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** free:=20 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+65321   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** free:=20 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+65321   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** free:=20 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+65321   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** free:=20 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+65321   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** free:=20 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+65321   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** free:=20 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+65321   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** free:=20 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+65321   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** free:=20 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+65321   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** free:=20 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+65321   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** free:=20 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+65321   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** free:=20 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+65321   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** free:=20 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+65321   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** free:=20 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+65321   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** free:=20 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+65321   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** free:=20 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+65321   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| station (** free:=20 **) bssid=ReMAC (** valid=1=42 **) (** @=**=42 **)
+
+
+63996   ReDate ReTime stm[**] <**> <DBUG> |stm| (** Client=3 **) ReMAC (** moved=3 **) (** from=26 **) AP ReMAC to AP ReMAC
+63996   ReDate ReTime stm[**] <**> <DBUG> |stm| (** Client=3 **) ReMAC (** moved=3 **) (** from=26 **) AP ReMAC to AP ReMAC
+63996   ReDate ReTime stm[**] <**> <DBUG> |stm| (** Client=3 **) ReMAC (** moved=3 **) (** from=26 **) AP ReMAC to AP ReMAC
+
+
+58451   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** {L3}=3 **) (** Update=4 **) (** role=8 **) from (** logon=4 **) to (** authenticated=8 **) (** for=4 **) IP=ReIP
+58451   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** {L3}=3 **) (** Update=4 **) (** role=8 **) from (** logon=4 **) to (** authenticated=8 **) (** for=4 **) IP=ReIP
+58451   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** {L3}=3 **) (** Update=4 **) (** role=8 **) from (** logon=4 **) to (** authenticated=8 **) (** for=4 **) IP=ReIP
+
+
+55505   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** Update=4 **) (** role=8 **) from (** logon=4 **) to (** authenticated=8 **) (** for=4 **) IP=ReIP
+
+
+51894   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| ReMAC: station (** datapath=12 **) (** entry=26 **) (** deleted=12 **)
+51894   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| ReMAC: station (** datapath=12 **) (** entry=26 **) (** deleted=12 **)
+51894   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| ReMAC: station (** datapath=12 **) (** entry=26 **) (** deleted=12 **)
+51894   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| ReMAC: station (** datapath=12 **) (** entry=26 **) (** deleted=12 **)
+51894   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| ReMAC: station (** datapath=12 **) (** entry=26 **) (** deleted=12 **)
+51894   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| ReMAC: station (** datapath=12 **) (** entry=26 **) (** deleted=12 **)
+51894   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| ReMAC: station (** datapath=12 **) (** entry=26 **) (** deleted=12 **)
+
+
+46333   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** removing=7 **) (** wireless=7 **) (** bridge=11 **) (** user=19 **) (** IP:ReIP=1 **) (**)
+
+
+43640   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** AU0(0)=5 **) (** HA1=5 **) (** TAP0=5 **) (** PARP**=5 **) (** OIP0=5 **) (** IIP**=5 **) (** INT0=5 **) (** WD**=5 **) (** FW0=5 **) (** DT**=5 **)
+43640   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** AU0(0)=5 **) (** HA1=5 **) (** TAP0=5 **) (** PARP**=5 **) (** OIP0=5 **) (** IIP**=5 **) (** INT0=5 **) (** WD**=5 **) (** FW0=5 **) (** DT**=5 **)
+43640   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** AU0(0)=5 **) (** HA1=5 **) (** TAP0=5 **) (** PARP**=5 **) (** OIP0=5 **) (** IIP**=5 **) (** INT0=5 **) (** WD**=5 **) (** FW0=5 **) (** DT**=5 **)
+43640   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** AU0(0)=5 **) (** HA1=5 **) (** TAP0=5 **) (** PARP**=5 **) (** OIP0=5 **) (** IIP**=5 **) (** INT0=5 **) (** WD**=5 **) (** FW0=5 **) (** DT**=5 **)
+43640   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** AU0(0)=5 **) (** HA1=5 **) (** TAP0=5 **) (** PARP**=5 **) (** OIP0=5 **) (** IIP**=5 **) (** INT0=5 **) (** WD**=5 **) (** FW0=5 **) (** DT**=5 **)
+
+
+33266   ReDate ReTime stm[**] <**> <DBUG> |stm| Station ReMAC: (** Clearing=22 **) (** state=22 **)
+33266   ReDate ReTime stm[**] <**> <DBUG> |stm| Station ReMAC: (** Clearing=22 **) (** state=22 **)
+33266   ReDate ReTime stm[**] <**> <DBUG> |stm| Station ReMAC: (** Clearing=22 **) (** state=22 **)
+33266   ReDate ReTime stm[**] <**> <DBUG> |stm| Station ReMAC: (** Clearing=22 **) (** state=22 **)
+33266   ReDate ReTime stm[**] <**> <DBUG> |stm| Station ReMAC: (** Clearing=22 **) (** state=22 **)
+33266   ReDate ReTime stm[**] <**> <DBUG> |stm| Station ReMAC: (** Clearing=22 **) (** state=22 **)
+33266   ReDate ReTime stm[**] <**> <DBUG> |stm| Station ReMAC: (** Clearing=22 **) (** state=22 **)
+33266   ReDate ReTime stm[**] <**> <DBUG> |stm| Station ReMAC: (** Clearing=22 **) (** state=22 **)
+33266   ReDate ReTime stm[**] <**> <DBUG> |stm| Station ReMAC: (** Clearing=22 **) (** state=22 **)
+33266   ReDate ReTime stm[**] <**> <DBUG> |stm| Station ReMAC: (** Clearing=22 **) (** state=22 **)
+33266   ReDate ReTime stm[**] <**> <DBUG> |stm| Station ReMAC: (** Clearing=22 **) (** state=22 **)
+
+
+32815   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** {ReIP}=9 **) (** autTable=4 **) (** ("=4 **) (** Unauthenticated=4 **) (** authenticated=8 **) (** ")=4 **)
+32815   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** {ReIP}=9 **) (** autTable=4 **) (** ("=4 **) (** Unauthenticated=4 **) (** authenticated=8 **) (** ")=4 **)
+32815   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** {ReIP}=9 **) (** autTable=4 **) (** ("=4 **) (** Unauthenticated=4 **) (** authenticated=8 **) (** ")=4 **)
+32815   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** {ReIP}=9 **) (** autTable=4 **) (** ("=4 **) (** Unauthenticated=4 **) (** authenticated=8 **) (** ")=4 **)
+
+
+30934   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** {ReIP}=9 **) (** datapath=12 **) (** entry=26 **) (** deleted=12 **)
+30934   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** {ReIP}=9 **) (** datapath=12 **) (** entry=26 **) (** deleted=12 **)
+30934   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** {ReIP}=9 **) (** datapath=12 **) (** entry=26 **) (** deleted=12 **)
+30934   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** {ReIP}=9 **) (** datapath=12 **) (** entry=26 **) (** deleted=12 **)
+30934   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** {ReIP}=9 **) (** datapath=12 **) (** entry=26 **) (** deleted=12 **)
+
+
+30547   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** adding=6 **) station (** (**)=42 **)
+30547   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** adding=6 **) station (** (**)=42 **)
+30547   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** adding=6 **) station (** (**)=42 **)
+30547   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** adding=6 **) station (** (**)=42 **)
+30547   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** adding=6 **) station (** (**)=42 **)
+30547   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** adding=6 **) station (** (**)=42 **)
+
+
+29109   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** no=6 **) (** users=2 **) to (** cleanup=5 **)
+29109   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** no=6 **) (** users=2 **) to (** cleanup=5 **)
+
+
+24859   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** wiredless:**=6 **) (** dotx:**=6 **) (** keytype:**(**)=6 **)
+24859   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** wiredless:**=6 **) (** dotx:**=6 **) (** keytype:**(**)=6 **)
+24859   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** wiredless:**=6 **) (** dotx:**=6 **) (** keytype:**(**)=6 **)
+24859   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** wiredless:**=6 **) (** dotx:**=6 **) (** keytype:**(**)=6 **)
+24859   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** wiredless:**=6 **) (** dotx:**=6 **) (** keytype:**(**)=6 **)
+24859   ReDate ReTime authmgr[**] <**> <DBUG> |authmgr| (** wiredless:**=6 **) (** dotx:**=6 **) (** keytype:**(**)=6 **)
+
+
+22376   ReDate ReTime stm[**] <**> (** <WARN>=2 **) |stm| (** wifi_deauth_sta:=2 **) (** bad=2 **) (** data=2 **) (** dropping.=2 **) (** mac:=2 **) ReMAC (** bssid:=8 **) ReMAC
+22376   ReDate ReTime stm[**] <**> (** <WARN>=2 **) |stm| (** wifi_deauth_sta:=2 **) (** bad=2 **) (** data=2 **) (** dropping.=2 **) (** mac:=2 **) ReMAC (** bssid:=8 **) ReMAC

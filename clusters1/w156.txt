@@ -1,0 +1,2 @@
+14261   ReDate ReTime bastion su(**)[**] session closed for user (** root=23 **)
+14261   ReDate ReTime bastion su(**)[**] session closed for user (** root=23 **)

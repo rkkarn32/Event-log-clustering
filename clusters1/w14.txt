@@ -1,0 +1,5 @@
+21957168    ReDate   ReTime   authmgr[1453]:  ****  <INFO> |authmgr|  MAC= ReMAC  IP= ReIP   ****  Bridge Entry
+21957168    ReDate   ReTime   authmgr[1453]:  ****  <INFO> |authmgr|  MAC= ReMAC  IP= ReIP   ****  Bridge Entry
+21957168    ReDate   ReTime   authmgr[1453]:  ****  <INFO> |authmgr|  MAC= ReMAC  IP= ReIP   ****  Bridge Entry
+21957168    ReDate   ReTime   authmgr[1453]:  ****  <INFO> |authmgr|  MAC= ReMAC  IP= ReIP   ****  Bridge Entry
+21957168    ReDate   ReTime   authmgr[1453]:  ****  <INFO> |authmgr|  MAC= ReMAC  IP= ReIP   ****  Bridge Entry

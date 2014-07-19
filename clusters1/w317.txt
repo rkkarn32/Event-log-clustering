@@ -1,0 +1,5 @@
+4309   ReDate ReTime bastion kernel (** BIOS-e82**:=9 **) (** 000000000009fc0**=2 **) (** -=11 **) (** 00000000000a000**=1 **) (**)
+4309   ReDate ReTime bastion kernel (** BIOS-e82**:=9 **) (** 00000000fec0000**=1 **) (** -=11 **) (** 00000000fec0100**=1 **) (**)
+4309   ReDate ReTime bastion kernel (** BIOS-e82**:=9 **) (** 00000000fee0000**=1 **) (** -=11 **) (** 00000000fee0100**=1 **) (**)
+4309   ReDate ReTime bastion kernel (** mtrr:=2 **) (** v**.4**=1 **) (**) (** Richard=1 **) (** Gooch=1 **) (** (rgooch@atnf.csiro.au)=1 **)
+4309   ReDate ReTime bastion kernel (** ip_tables:=1 **) (**) (** 200**-200**=1 **) (** Netfilter=1 **) (** core=1 **) (** team=1 **)

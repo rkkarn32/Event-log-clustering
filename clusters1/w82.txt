@@ -1,0 +1,1 @@
+23244   ReDate ReTime bridge su(**)[**] session opened for user anton by (** anton(uid=0)=1 **)

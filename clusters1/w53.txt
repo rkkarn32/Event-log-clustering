@@ -1,0 +1,1 @@
+30846   ReDate ReTime bastion random Initializing random number (** generator:=1 **) succeeded

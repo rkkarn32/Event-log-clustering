@@ -1,0 +1,5 @@
+27814768    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC  IP= ReIP   ****  mobility  ****  message,  **** = **** 
+27814768    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC  IP= ReIP   ****  mobility  ****  message,  **** = **** 
+27814768    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC  IP= ReIP   ****  mobility  ****  message,  **** = **** 
+27814768    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC  IP= ReIP   ****  mobility  ****  message,  **** = **** 
+27814768    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC  IP= ReIP   ****  mobility  ****  message,  **** = **** 

@@ -1,0 +1,16 @@
+11333   ReDate ReTime bridge kernel br**: port (** 2(**)=16 **) entering (** learning=8 **) state
+11333   ReDate ReTime bridge kernel br**: port (** 1(**)=16 **) entering (** learning=8 **) state
+11333   ReDate ReTime bridge kernel br**: port (** 2(**)=16 **) entering (** forwarding=8 **) state
+11333   ReDate ReTime bridge kernel br**: port (** 1(**)=16 **) entering (** forwarding=8 **) state
+11333   ReDate ReTime bridge kernel br**: port (** 2(**)=16 **) entering (** learning=8 **) state
+11333   ReDate ReTime bridge kernel br**: port (** 1(**)=16 **) entering (** learning=8 **) state
+11333   ReDate ReTime bridge kernel br**: port (** 2(**)=16 **) entering (** forwarding=8 **) state
+11333   ReDate ReTime bridge kernel br**: port (** 1(**)=16 **) entering (** forwarding=8 **) state
+11333   ReDate ReTime bridge kernel br**: port (** 2(**)=16 **) entering (** learning=8 **) state
+11333   ReDate ReTime bridge kernel br**: port (** 1(**)=16 **) entering (** learning=8 **) state
+11333   ReDate ReTime bridge kernel br**: port (** 2(**)=16 **) entering (** forwarding=8 **) state
+11333   ReDate ReTime bridge kernel br**: port (** 1(**)=16 **) entering (** forwarding=8 **) state
+11333   ReDate ReTime bridge kernel br**: port (** 2(**)=16 **) entering (** learning=8 **) state
+11333   ReDate ReTime bridge kernel br**: port (** 1(**)=16 **) entering (** learning=8 **) state
+11333   ReDate ReTime bridge kernel br**: port (** 2(**)=16 **) entering (** forwarding=8 **) state
+11333   ReDate ReTime bridge kernel br**: port (** 1(**)=16 **) entering (** forwarding=8 **) state

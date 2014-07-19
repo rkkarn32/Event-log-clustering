@@ -1,0 +1,2 @@
+12409   ReDate ReTime bridge syslog syslogd shutdown succeeded
+12409   ReDate ReTime bridge syslog syslogd shutdown succeeded

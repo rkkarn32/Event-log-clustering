@@ -1,0 +1,2 @@
+7991   ReDate ReTime bridge syslog (** syslogd=13 **) startup succeeded
+7991   ReDate ReTime bridge syslog (** syslogd=13 **) startup succeeded

@@ -1,0 +1,1 @@
+14651   ReDate ReTime bastion rc.sysinit (** Checking=3 **) root filesystem succeeded

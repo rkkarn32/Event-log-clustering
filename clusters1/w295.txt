@@ -1,0 +1,2 @@
+5227   ReDate ReTime bastion kernel (** BIOS-e82**:=9 **) (** 00000000000e000**=1 **) (** -=11 **) ReDigit (**)
+5227   ReDate ReTime bastion kernel (** BIOS-e82**:=9 **) (** 00000000fff0000**=1 **) (** -=11 **) ReDigit (**)

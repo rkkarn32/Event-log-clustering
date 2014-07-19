@@ -1,0 +1,3 @@
+23517568    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****  from  ****  to  ****   ****  IP= ReIP 
+23500528    ReDate   ReTime   authmgr[1453]:  ****  <INFO> |authmgr|  MAC= ReMAC  IP= ReIP   ****   ****  ingress= **** , VLAN=1
+23500528    ReDate   ReTime   authmgr[1453]:  ****  <INFO> |authmgr|  MAC= ReMAC  IP= ReIP   ****   ****  ingress= **** , VLAN=1

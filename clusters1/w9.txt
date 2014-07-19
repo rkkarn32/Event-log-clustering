@@ -1,0 +1,5 @@
+24783728    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****   ****   ****  user  ReIP   ****  to AP :  ReMAC ,  ****  Bssid:  ReMAC 
+24783728    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****   ****   ****  user  ReIP   ****  to AP :  ReMAC ,  ****  Bssid:  ReMAC 
+24779648    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****  role from  ****  to authenticated  ****  IP= ReIP 
+24779648    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****  role from  ****  to authenticated  ****  IP= ReIP 
+24779648    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****  role from  ****  to authenticated  ****  IP= ReIP 

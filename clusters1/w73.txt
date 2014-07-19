@@ -1,0 +1,2 @@
+24740   ReDate ReTime bridge ntpd[**] logconfig: illegal argument - ignored
+24740   ReDate ReTime bridge ntpd[**] logconfig: illegal argument - ignored

@@ -1,0 +1,1 @@
+27151   ReDate ReTime bastion rc.sysinit (** Remounting=1 **) root filesystem in (** read-write=1 **) mode: succeeded

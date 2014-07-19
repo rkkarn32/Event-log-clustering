@@ -1,0 +1,30 @@
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC   ****   ****  AP  ReIP - ReMAC - ReMAC 
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC   ****   ****  AP  ReIP - ReMAC - ReMAC 
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC : AP  ReIP - ReMAC - ReMAC 
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC : AP  ReIP - ReMAC - ReMAC 
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC : AP  ReIP - ReMAC - ReMAC 
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC   ****   ****  AP  ReIP - ReMAC - ReMAC 
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC   ****   ****  AP  ReIP - ReMAC - ReMAC 
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC   ****   ****  AP  ReIP - ReMAC - ReMAC 
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC : AP  ReIP - ReMAC - ReMAC 
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC : AP  ReIP - ReMAC - ReMAC 
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC : AP  ReIP - ReMAC - ReMAC 
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC   ****   ****  AP  ReIP - ReMAC - ReMAC 
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC : AP  ReIP - ReMAC - ReMAC 
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC   ****   ****  AP  ReIP - ReMAC - ReMAC 
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC : AP  ReIP - ReMAC - ReMAC 
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC : AP  ReIP - ReMAC - ReMAC 
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC   ****   ****  AP  ReIP - ReMAC - ReMAC 
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC   ****   ****  AP  ReIP - ReMAC - ReMAC 
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC : AP  ReIP - ReMAC - ReMAC 
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC : AP  ReIP - ReMAC - ReMAC 
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC   ****   ****  AP  ReIP - ReMAC - ReMAC 
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC   ****   ****  AP  ReIP - ReMAC - ReMAC 
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC : AP  ReIP - ReMAC - ReMAC 
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC : AP  ReIP - ReMAC - ReMAC 
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC : AP  ReIP - ReMAC - ReMAC 
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC   ****   ****  AP  ReIP - ReMAC - ReMAC 
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC   ****   ****  AP  ReIP - ReMAC - ReMAC 
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC   ****   ****  AP  ReIP - ReMAC - ReMAC 
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC : AP  ReIP - ReMAC - ReMAC 
+8706968    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ReTime  ****   ReMAC   ****   ****  AP  ReIP - ReMAC - ReMAC 

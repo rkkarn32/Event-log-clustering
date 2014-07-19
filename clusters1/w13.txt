@@ -1,0 +1,26 @@
+23182248    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****  wireless  ****  user IP: ReIP   ****   **** 
+23136728    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****  ReIP  ****   ****  entry  **** 
+23136728    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****  ReIP  ****   ****  entry  **** 
+23136728    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****  ReIP  ****   ****  entry  **** 
+23136728    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****  ReIP  ****   ****  entry  **** 
+23136728    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****  ReIP  ****   ****  entry  **** 
+23040688    ReDate   ReTime   authmgr[1453]:  ****  <INFO> |authmgr|  MAC= ReMAC  IP= ReIP  User entry  ****  reason=User  ****   **** 
+23040688    ReDate   ReTime   authmgr[1453]:  ****  <INFO> |authmgr|  MAC= ReMAC  IP= ReIP  User entry  ****  reason=User  ****   **** 
+23040688    ReDate   ReTime   authmgr[1453]:  ****  <INFO> |authmgr|  MAC= ReMAC  IP= ReIP  User entry  ****  reason=User  ****   **** 
+22940000    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  no  ****  to cleanup
+22940000    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  no  ****  to cleanup
+22763248    ReDate   ReTime   authmgr[1453]:  ****  <INFO> |authmgr|  MAC= ReMAC  IP= ReIP  User entry  ****  reason= **** 
+22763248    ReDate   ReTime   authmgr[1453]:  ****  <INFO> |authmgr|  MAC= ReMAC  IP= ReIP  User entry  ****  reason= **** 
+22763248    ReDate   ReTime   authmgr[1453]:  ****  <INFO> |authmgr|  MAC= ReMAC  IP= ReIP  User entry  ****  reason= **** 
+22763248    ReDate   ReTime   authmgr[1453]:  ****  <INFO> |authmgr|  MAC= ReMAC  IP= ReIP  User entry  ****  reason= **** 
+22595000    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   **** ,  **** ,  **** ,  ****   ****   ****   ****   ****   ****   **** 
+22595000    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****   **** ,  **** 
+22595000    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****   **** ,  **** 
+22595000    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****   **** ,  **** 
+22595000    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****   **** ,  **** 
+22595000    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   **** ,  **** ,  **** ,  ****   ****   ****   ****   ****   ****   **** 
+22595000    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   **** ,  **** ,  **** ,  ****   ****   ****   ****   ****   ****   **** 
+22595000    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   **** ,  **** ,  **** ,  ****   ****   ****   ****   ****   ****   **** 
+22595000    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****   **** ,  **** 
+22595000    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****   **** ,  **** 
+22595000    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   **** ,  **** ,  **** ,  ****   ****   ****   ****   ****   ****   **** 

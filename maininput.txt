@@ -1,0 +1,1000 @@
+Sep 26 11:00:03 bridge syslogd 1.4.1: restart.
+Sep 26 11:00:03 bridge syslog: syslogd startup succeeded
+Sep 26 11:00:03 bridge kernel: klogd 1.4.1, log source = /proc/kmsg started.
+Sep 26 11:00:03 bridge syslog: klogd startup succeeded
+Sep 26 11:00:03 bridge syslog: syslogd shutdown succeeded 
+Sep 26 11:01:00 bridge CROND[1778]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 26 11:12:43 bridge kernel: br0: port 2(eth0) entering disabled state
+Sep 26 11:12:43 bridge kernel: device eth0 left promiscuous mode
+Sep 26 11:12:43 bridge kernel: br0: port 1(eth1) entering disabled state
+Sep 26 11:12:43 bridge kernel: device eth1 left promiscuous mode
+Sep 26 11:12:43 bridge kernel: device eth1 entered promiscuous mode
+Sep 26 11:12:43 bridge kernel: device eth0 entered promiscuous mode
+Sep 26 11:12:43 bridge kernel: br0: port 2(eth0) entering listening state
+Sep 26 11:12:43 bridge kernel: br0: port 1(eth1) entering listening state
+Sep 26 11:12:43 bridge /etc/hotplug/net.agent: NET unregister event not supported
+Sep 26 11:12:43 bridge /etc/hotplug/net.agent: invoke ifup br0
+Sep 26 11:12:58 bridge kernel: br0: port 2(eth0) entering learning state
+Sep 26 11:12:58 bridge kernel: br0: port 1(eth1) entering learning state
+Sep 26 11:13:13 bridge kernel: br0: port 2(eth0) entering forwarding state
+Sep 26 11:13:13 bridge kernel: br0: topology change detected, propagating
+Sep 26 11:13:13 bridge kernel: br0: port 1(eth1) entering forwarding state
+Sep 26 11:13:13 bridge kernel: br0: topology change detected, propagating
+Sep 26 11:40:11 bridge groupadd[1936]: new group: name=pcap, gid=77 
+Sep 26 11:40:11 bridge useradd[1937]: new user: name=pcap, uid=77, gid=77, home=/var/arpwatch, shell=/sbin/nologin 
+Sep 26 11:40:22 bridge kernel: device usb0 entered promiscuous mode
+Sep 26 11:40:23 bridge kernel: device usb0 left promiscuous mode
+Sep 26 11:40:36 bridge kernel: device usb0 entered promiscuous mode
+Sep 26 11:41:06 bridge kernel: device usb0 left promiscuous mode
+Sep 26 11:42:01 bridge kernel: device usb0 entered promiscuous mode
+Sep 26 11:42:21 bridge kernel: device usb0 left promiscuous mode
+Sep 26 11:43:31 bridge kernel: device usb0 entered promiscuous mode
+Sep 26 11:43:53 bridge kernel: device usb0 left promiscuous mode
+Sep 26 11:53:26 bridge kernel: device usb0 entered promiscuous mode
+Sep 26 11:53:39 bridge kernel: device usb0 left promiscuous mode
+Sep 26 12:01:00 bridge CROND[1955]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 26 12:05:39 bridge kernel: device usb0 entered promiscuous mode
+Sep 26 12:06:00 bridge kernel: device usb0 left promiscuous mode
+Sep 26 12:15:33 bridge kernel: device usb0 entered promiscuous mode
+Sep 26 12:15:50 bridge kernel: device usb0 left promiscuous mode
+Sep 26 12:20:05 bridge kernel: device usb0 entered promiscuous mode
+Sep 26 12:20:20 bridge kernel: device usb0 left promiscuous mode
+Sep 26 12:27:11 bridge kernel: device usb0 entered promiscuous mode
+Sep 26 12:27:33 bridge kernel: device usb0 left promiscuous mode
+Sep 26 12:29:02 bridge kernel: device usb0 entered promiscuous mode
+Sep 26 12:32:30 bridge kernel: device usb0 left promiscuous mode
+Sep 26 12:36:02 bridge kernel: br0: port 2(eth0) entering disabled state
+Sep 26 12:36:02 bridge kernel: device eth0 left promiscuous mode
+Sep 26 12:36:02 bridge kernel: br0: port 1(eth1) entering disabled state
+Sep 26 12:36:02 bridge kernel: device eth1 left promiscuous mode
+Sep 26 12:36:02 bridge /etc/hotplug/net.agent: NET unregister event not supported
+Sep 26 12:36:02 bridge kernel: device eth1 entered promiscuous mode
+Sep 26 12:36:02 bridge kernel: device eth0 entered promiscuous mode
+Sep 26 12:36:02 bridge kernel: br0: port 2(eth0) entering listening state
+Sep 26 12:36:02 bridge kernel: br0: port 1(eth1) entering listening state
+Sep 26 12:36:02 bridge /etc/hotplug/net.agent: invoke ifup br0
+Sep 26 12:36:17 bridge kernel: br0: port 2(eth0) entering learning state
+Sep 26 12:36:17 bridge kernel: br0: port 1(eth1) entering learning state
+Sep 26 12:36:26 bridge kernel: device usb0 entered promiscuous mode
+Sep 26 12:36:32 bridge kernel: br0: port 2(eth0) entering forwarding state
+Sep 26 12:36:32 bridge kernel: br0: topology change detected, propagating
+Sep 26 12:36:32 bridge kernel: br0: port 1(eth1) entering forwarding state
+Sep 26 12:36:32 bridge kernel: br0: topology change detected, propagating
+Sep 26 12:36:40 bridge sshd[2128]: Could not reverse map address 146.127.98.55.
+Sep 26 12:36:40 bridge sshd[2128]: Accepted publickey for anton from 146.127.98.55 port 42838 ssh2
+Sep 26 12:36:40 bridge sshd(pam_unix)[2128]: session opened for user anton by (uid=0)
+Sep 26 12:36:49 bridge sshd(pam_unix)[2128]: session closed for user anton
+Sep 26 12:36:52 bridge kernel: device usb0 left promiscuous mode
+Sep 26 13:01:00 bridge CROND[2463]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 26 13:04:42 bridge kernel: br0: port 2(eth0) entering disabled state
+Sep 26 13:04:42 bridge kernel: device eth0 left promiscuous mode
+Sep 26 13:04:42 bridge kernel: br0: port 1(eth1) entering disabled state
+Sep 26 13:04:42 bridge kernel: device eth1 left promiscuous mode
+Sep 26 13:04:42 bridge /etc/hotplug/net.agent: NET unregister event not supported
+Sep 26 13:04:42 bridge kernel: device eth1 entered promiscuous mode
+Sep 26 13:04:42 bridge kernel: device eth0 entered promiscuous mode
+Sep 26 13:04:42 bridge /etc/hotplug/net.agent: invoke ifup br0
+Sep 26 13:04:42 bridge kernel: br0: port 2(eth0) entering listening state
+Sep 26 13:04:42 bridge kernel: br0: port 1(eth1) entering listening state
+Sep 26 13:04:57 bridge kernel: br0: port 2(eth0) entering learning state
+Sep 26 13:04:57 bridge kernel: br0: port 1(eth1) entering learning state
+Sep 26 13:05:12 bridge kernel: br0: port 2(eth0) entering forwarding state
+Sep 26 13:05:12 bridge kernel: br0: topology change detected, propagating
+Sep 26 13:05:12 bridge kernel: br0: port 1(eth1) entering forwarding state
+Sep 26 13:05:12 bridge kernel: br0: topology change detected, propagating
+Sep 26 13:18:35 bridge kernel: ip_queue: peer pid changed from 2650 to 2652, flushing queue
+Sep 26 13:18:44 bridge kernel: ip_queue: peer pid changed from 2652 to 2653, flushing queue
+Sep 26 13:19:01 bridge kernel: ip_queue: peer pid changed from 2653 to 2655, flushing queue
+Sep 26 13:36:47 bridge sshd[2789]: Could not reverse map address 10.2.1.2.
+Sep 26 13:36:47 bridge sshd[2789]: Accepted publickey for anton from 10.2.1.2 port 32771 ssh2
+Sep 26 13:36:47 bridge sshd(pam_unix)[2789]: session opened for user anton by (uid=0)
+Sep 26 13:37:06 bridge sshd(pam_unix)[2789]: session closed for user anton
+Sep 26 13:39:11 bridge sshd[2797]: Could not reverse map address 10.2.1.2.
+Sep 26 13:39:12 bridge sshd[2797]: Accepted publickey for anton from 10.2.1.2 port 32772 ssh2
+Sep 26 13:39:12 bridge sshd(pam_unix)[2797]: session opened for user anton by (uid=0)
+Sep 26 13:39:12 bridge sshd(pam_unix)[2797]: session closed for user anton
+Sep 26 13:39:26 bridge sshd[2805]: Could not reverse map address 10.2.1.2.
+Sep 26 13:39:26 bridge sshd[2805]: Accepted publickey for anton from 10.2.1.2 port 32773 ssh2
+Sep 26 13:39:26 bridge sshd(pam_unix)[2805]: session opened for user anton by (uid=0)
+Sep 26 13:39:29 bridge sshd(pam_unix)[2805]: session closed for user anton
+Sep 26 13:42:41 bridge shutdown: shutting down for system reboot
+Sep 26 13:42:41 bridge init: Switching to runlevel: 6
+Sep 26 13:42:42 bridge atd: atd shutdown succeeded
+Sep 26 13:42:43 bridge gpm: gpm shutdown succeeded
+Sep 26 13:42:43 bridge sshd[711]: Received signal 15; terminating.
+Sep 26 13:42:43 bridge sshd: sshd -TERM succeeded
+Sep 26 13:42:43 bridge crond: crond shutdown succeeded
+Sep 26 13:42:43 bridge apmd[691]: Exiting
+Sep 26 13:42:43 bridge apmd[691]: apmd_call_proxy: executing: '/etc/sysconfig/apm-scripts/apmscript' 'stop'
+Sep 26 13:42:44 bridge apmd: apmd shutdown succeeded
+Sep 26 13:42:44 bridge dd: 1+0 records in
+Sep 26 13:42:44 bridge dd: 1+0 records out
+Sep 26 13:42:44 bridge random: Saving random seed:  succeeded
+Sep 26 13:42:44 bridge su(pam_unix)[1504]: session closed for user root
+Sep 26 13:42:44 bridge kernel: Kernel logging (proc) stopped.
+Sep 26 13:42:44 bridge kernel: Kernel log daemon terminating.
+Sep 26 13:42:45 bridge syslog: klogd shutdown succeeded
+Sep 26 13:42:45 bridge exiting on signal 15
+Sep 26 13:44:39 bastion syslogd 1.4.1: restart.
+Sep 26 13:44:39 bastion syslog: syslogd startup succeeded
+Sep 26 13:44:39 bastion syslog: klogd startup succeeded
+Sep 26 13:44:39 bastion kernel: klogd 1.4.1, log source = /proc/kmsg started.
+Sep 26 13:44:39 bastion kernel: Linux version 2.4.18-3 (bhcompile@daffy.perf.redhat.com) (gcc version 2.96 20000731 (Red Hat Linux 7.3 2.96-110)) #1 Thu Apr 18 07:37:53 EDT 2002
+Sep 26 13:44:39 bastion kernel: BIOS-provided physical RAM map:
+Sep 26 13:44:39 bastion kernel:  BIOS-e820: 0000000000000000 - 000000000009fc00 (usable)
+Sep 26 13:44:39 bastion kernel:  BIOS-e820: 000000000009fc00 - 00000000000a0000 (reserved)
+Sep 26 13:44:39 bastion kernel:  BIOS-e820: 00000000000e0000 - 0000000000100000 (reserved)
+Sep 26 13:44:39 bastion kernel:  BIOS-e820: 0000000000100000 - 000000001ffc0000 (usable)
+Sep 26 13:44:39 bastion kernel:  BIOS-e820: 000000001ffc0000 - 000000001fff8000 (ACPI data)
+Sep 26 13:44:39 bastion kernel:  BIOS-e820: 000000001fff8000 - 0000000020000000 (ACPI NVS)
+Sep 26 13:44:39 bastion kernel:  BIOS-e820: 00000000fec00000 - 00000000fec01000 (reserved)
+Sep 26 13:44:39 bastion kernel:  BIOS-e820: 00000000fee00000 - 00000000fee01000 (reserved)
+Sep 26 13:44:39 bastion kernel:  BIOS-e820: 00000000fff00000 - 0000000100000000 (reserved)
+Sep 26 13:44:39 bastion kernel: On node 0 totalpages: 131008
+Sep 26 13:44:39 bastion kernel: zone(0): 4096 pages.
+Sep 26 13:44:39 bastion kernel: zone(1): 126912 pages.
+Sep 26 13:44:39 bastion kernel: zone(2): 0 pages.
+Sep 26 13:44:39 bastion kernel: Kernel command line: ro root=/dev/hda1
+Sep 26 13:44:39 bastion kernel: Initializing CPU#0
+Sep 26 13:44:39 bastion kernel: Detected 851.950 MHz processor.
+Sep 26 13:44:39 bastion kernel: Console: colour VGA+ 80x25
+Sep 26 13:44:39 bastion kernel: Calibrating delay loop... 1697.38 BogoMIPS
+Sep 26 13:44:39 bastion kernel: Memory: 513796k/524032k available (1119k kernel code, 9848k reserved, 775k data, 280k init, 0k highmem)
+Sep 26 13:44:39 bastion kernel: Dentry cache hash table entries: 65536 (order: 7, 524288 bytes)
+Sep 26 13:44:39 bastion kernel: Inode cache hash table entries: 32768 (order: 6, 262144 bytes)
+Sep 26 13:44:39 bastion kernel: Mount-cache hash table entries: 8192 (order: 4, 65536 bytes)
+Sep 26 13:44:39 bastion kernel: Buffer cache hash table entries: 32768 (order: 5, 131072 bytes)
+Sep 26 13:44:39 bastion kernel: Page-cache hash table entries: 131072 (order: 7, 524288 bytes)
+Sep 26 13:44:39 bastion kernel: CPU: Before vendor init, caps: 0383f9ff 00000000 00000000, vendor = 0
+Sep 26 13:44:39 bastion kernel: CPU: L1 I cache: 16K, L1 D cache: 16K
+Sep 26 13:44:39 bastion kernel: CPU: L2 cache: 256K
+Sep 26 13:44:39 bastion kernel: CPU: After vendor init, caps: 0383f9ff 00000000 00000000 00000000
+Sep 26 13:44:39 bastion kernel: Intel machine check architecture supported.
+Sep 26 13:44:39 bastion kernel: Intel machine check reporting enabled on CPU#0.
+Sep 26 13:44:39 bastion kernel: CPU:     After generic, caps: 0383f9ff 00000000 00000000 00000000
+Sep 26 13:44:39 bastion kernel: CPU:             Common caps: 0383f9ff 00000000 00000000 00000000
+Sep 26 13:44:39 bastion kernel: CPU: Intel Pentium III (Coppermine) stepping 06
+Sep 26 13:44:39 bastion kernel: Enabling fast FPU save and restore... done.
+Sep 26 13:44:39 bastion kernel: Enabling unmasked SIMD FPU exception support... done.
+Sep 26 13:44:39 bastion kernel: Checking 'hlt' instruction... OK.
+Sep 26 13:44:39 bastion kernel: POSIX conformance testing by UNIFIX
+Sep 26 13:44:39 bastion kernel: mtrr: v1.40 (20010327) Richard Gooch (rgooch@atnf.csiro.au)
+Sep 26 13:44:39 bastion keytable: Loading keymap:  succeeded
+Sep 26 13:44:39 bastion kernel: mtrr: detected mtrr type: Intel
+Sep 26 13:44:39 bastion kernel: PCI: PCI BIOS revision 2.10 entry at 0xfda95, last bus=0
+Sep 26 13:44:39 bastion kernel: PCI: Using configuration type 1
+Sep 26 13:44:40 bastion kernel: PCI: Probing PCI hardware
+Sep 26 13:44:40 bastion kernel: PCI: Using IRQ router PIIX [8086/7110] at 00:07.0
+Sep 26 13:44:40 bastion kernel: Limiting direct PCI/PCI transfers.
+Sep 26 13:44:40 bastion kernel: isapnp: Scanning for PnP cards...
+Sep 26 13:44:40 bastion kernel: isapnp: No Plug & Play device found
+Sep 26 13:44:40 bastion kernel: Linux NET4.0 for Linux 2.4
+Sep 26 13:44:40 bastion kernel: Based upon Swansea University Computer Society NET3.039
+Sep 26 13:44:40 bastion kernel: Initializing RT netlink socket
+Sep 26 13:44:40 bastion keytable: Loading system font:  succeeded
+Sep 26 13:44:40 bastion kernel: apm: BIOS version 1.2 Flags 0x0b (Driver version 1.16)
+Sep 26 13:44:40 bastion kernel: Starting kswapd
+Sep 26 13:44:40 bastion kernel: VFS: Diskquotas version dquot_6.5.0 initialized
+Sep 26 13:44:40 bastion kernel: pty: 2048 Unix98 ptys configured
+Sep 26 13:44:40 bastion kernel: Serial driver version 5.05c (2001-07-08) with MANY_PORTS MULTIPORT SHARE_IRQ SERIAL_PCI ISAPNP enabled
+Sep 26 13:44:40 bastion kernel: ttyS00 at 0x03f8 (irq = 4) is a 16550A
+Sep 26 13:44:40 bastion kernel: ttyS01 at 0x02f8 (irq = 3) is a 16550A
+Sep 26 13:44:40 bastion kernel: Real Time Clock Driver v1.10e
+Sep 26 13:44:40 bastion random: Initializing random number generator:  succeeded
+Sep 26 13:44:40 bastion kernel: block: 992 slots per queue, batch=248
+Sep 26 13:44:40 bastion kernel: Uniform Multi-Platform E-IDE driver Revision: 6.31
+Sep 26 13:44:40 bastion kernel: ide: Assuming 33MHz system bus speed for PIO modes; override with idebus=xx
+Sep 26 13:44:40 bastion kernel: PIIX4: IDE controller on PCI bus 00 dev 39
+Sep 26 13:44:40 bastion kernel: PIIX4: chipset revision 1
+Sep 26 13:44:40 bastion kernel: PIIX4: not 100%% native mode: will probe irqs later
+Sep 26 13:44:40 bastion kernel:     ide0: BM-DMA at 0xffa0-0xffa7, BIOS settings: hda:DMA, hdb:DMA
+Sep 26 13:44:40 bastion kernel:     ide1: BM-DMA at 0xffa8-0xffaf, BIOS settings: hdc:DMA, hdd:pio
+Sep 26 13:44:40 bastion kernel: hda: IC35L020AVER07-0, ATA DISK drive
+Sep 26 13:44:40 bastion kernel: hdb: IC35L020AVER07-0, ATA DISK drive
+Sep 26 13:44:40 bastion kernel: hdc: CD-224E, ATAPI CD/DVD-ROM drive
+Sep 26 13:44:40 bastion kernel: ide0 at 0x1f0-0x1f7,0x3f6 on irq 14
+Sep 26 13:44:40 bastion netfs: Mounting other filesystems:  succeeded
+Sep 26 13:44:40 bastion kernel: ide1 at 0x170-0x177,0x376 on irq 15
+Sep 26 13:44:40 bastion kernel: blk: queue c035e6a4, I/O limit 4095Mb (mask 0xffffffff)
+Sep 26 13:44:40 bastion kernel: hda: 39062500 sectors (20000 MB) w/1916KiB Cache, CHS=2431/255/63, UDMA(33)
+Sep 26 13:44:40 bastion kernel: blk: queue c035e7f0, I/O limit 4095Mb (mask 0xffffffff)
+Sep 26 13:44:40 bastion kernel: hdb: 39062500 sectors (20000 MB) w/1916KiB Cache, CHS=2431/255/63, UDMA(33)
+Sep 26 13:44:40 bastion kernel: ide-floppy driver 0.99.newide
+Sep 26 13:44:40 bastion apmd: apmd startup succeeded
+Sep 26 13:44:40 bastion apmd[692]: Version 3.0.2 (APM BIOS 1.2, Linux driver 1.16)
+Sep 26 13:44:40 bastion kernel: Partition check:
+Sep 26 13:44:40 bastion apmd[692]: apmd_call_proxy: executing: '/etc/sysconfig/apm-scripts/apmscript' 'start'
+Sep 26 13:44:40 bastion kernel:  hda: hda1 hda2 hda3
+Sep 26 13:44:40 bastion sshd: Starting sshd:
+Sep 26 13:44:40 bastion kernel:  hdb: hdb1 hdb2
+Sep 26 13:44:40 bastion kernel: Floppy drive(s): fd0 is 1.44M
+Sep 26 13:44:40 bastion kernel: FDC 0 is a post-1991 82077
+Sep 26 13:44:40 bastion kernel: RAMDISK driver initialized: 16 RAM disks of 4096K size 1024 blocksize
+Sep 26 13:44:40 bastion kernel: ide-floppy driver 0.99.newide
+Sep 26 13:44:40 bastion kernel: md: md driver 0.90.0 MAX_MD_DEVS=256, MD_SB_DISKS=27
+Sep 26 13:44:41 bastion kernel: md: Autodetecting RAID arrays.
+Sep 26 13:44:41 bastion kernel: md: autorun ...
+Sep 26 13:44:41 bastion kernel: md: ... autorun DONE.
+Sep 26 13:44:41 bastion sshd:  succeeded
+Sep 26 13:44:41 bastion sshd[712]: Server listening on 0.0.0.0 port 22.
+Sep 26 13:44:41 bastion kernel: NET4: Linux TCP/IP 1.0 for NET4.0
+Sep 26 13:44:41 bastion sshd: 
+Sep 26 13:44:41 bastion kernel: IP Protocols: ICMP, UDP, TCP, IGMP
+Sep 26 13:44:41 bastion rc: Starting sshd:  succeeded
+Sep 26 13:44:41 bastion kernel: IP: routing cache hash table of 4096 buckets, 32Kbytes
+Sep 26 13:44:41 bastion kernel: TCP: Hash tables configured (established 32768 bind 32768)
+Sep 26 13:44:41 bastion kernel: Linux IP multicast router 0.06 plus PIM-SM
+Sep 26 13:44:41 bastion kernel: NET4: Unix domain sockets 1.0/SMP for Linux NET4.0.
+Sep 26 13:44:41 bastion kernel: RAMDISK: Compressed image found at block 0
+Sep 26 13:44:41 bastion kernel: Freeing initrd memory: 118k freed
+Sep 26 13:44:41 bastion kernel: VFS: Mounted root (ext2 filesystem).
+Sep 26 13:44:41 bastion kernel: Journalled Block Device driver loaded
+Sep 26 13:44:41 bastion gpm: gpm startup succeeded
+Sep 26 13:44:41 bastion kernel: kjournald starting.  Commit interval 5 seconds
+Sep 26 13:44:41 bastion apmd[692]: Charge: * * * (-1% unknown)
+Sep 26 13:44:41 bastion kernel: EXT3-fs: mounted filesystem with ordered data mode.
+Sep 26 13:44:41 bastion crond[764]: (CRON) STARTUP (fork ok) 
+Sep 26 13:44:41 bastion kernel: Freeing unused kernel memory: 280k freed
+Sep 26 13:44:41 bastion kernel: Adding Swap: 1028120k swap-space (priority -1)
+Sep 26 13:44:41 bastion kernel: usb.c: registered new driver usbdevfs
+Sep 26 13:44:41 bastion kernel: usb.c: registered new driver hub
+Sep 26 13:44:41 bastion kernel: usb-uhci.c: $Revision: 1.275 $ time 07:43:07 Apr 18 2002
+Sep 26 13:44:41 bastion kernel: usb-uhci.c: High bandwidth mode enabled
+Sep 26 13:44:41 bastion kernel: PCI: Found IRQ 10 for device 00:07.2
+Sep 26 13:44:41 bastion kernel: usb-uhci.c: USB UHCI at I/O 0xef80, IRQ 10
+Sep 26 13:44:41 bastion kernel: usb-uhci.c: Detected 2 ports
+Sep 26 13:44:41 bastion kernel: usb.c: new USB bus registered, assigned bus number 1
+Sep 26 13:44:41 bastion kernel: hub.c: USB hub found
+Sep 26 13:44:41 bastion kernel: hub.c: 2 ports detected
+Sep 26 13:44:41 bastion kernel: usb-uhci.c: v1.275:USB Universal Host Controller Interface driver
+Sep 26 13:44:41 bastion kernel: hub.c: USB new device connect on bus1/2, assigned device number 2
+Sep 26 13:44:41 bastion kernel: usb.c: USB device 2 (vend/prod 0x67b/0x0) is not claimed by any active driver.
+Sep 26 13:44:41 bastion kernel: usb.c: registered new driver usbnet
+Sep 26 13:44:41 bastion kernel: usb0: register usbnet 001/002, Prolific PL-2301/PL-2302
+Sep 26 13:44:31 bastion rc.sysinit: Mounting proc filesystem:  succeeded 
+Sep 26 13:44:41 bastion kernel: EXT3 FS 2.4-0.9.17, 10 Jan 2002 on ide0(3,1), internal journal
+Sep 26 13:44:31 bastion rc.sysinit: Unmounting initrd:  succeeded 
+Sep 26 13:44:41 bastion kernel: kjournald starting.  Commit interval 5 seconds
+Sep 26 13:44:31 bastion sysctl: net.ipv4.ip_forward = 0 
+Sep 26 13:44:41 bastion kernel: EXT3 FS 2.4-0.9.17, 10 Jan 2002 on ide0(3,3), internal journal
+Sep 26 13:44:31 bastion sysctl: net.ipv4.conf.default.rp_filter = 1 
+Sep 26 13:44:42 bastion kernel: EXT3-fs: mounted filesystem with ordered data mode.
+Sep 26 13:44:31 bastion sysctl: kernel.sysrq = 0 
+Sep 26 13:44:42 bastion kernel: kjournald starting.  Commit interval 5 seconds
+Sep 26 13:44:31 bastion sysctl: kernel.core_uses_pid = 1 
+Sep 26 13:44:42 bastion kernel: EXT3 FS 2.4-0.9.17, 10 Jan 2002 on ide0(3,66), internal journal
+Sep 26 13:44:31 bastion rc.sysinit: Configuring kernel parameters:  succeeded 
+Sep 26 13:44:42 bastion kernel: EXT3-fs: mounted filesystem with ordered data mode.
+Sep 26 13:44:31 bastion date: Thu Sep 26 13:44:25 EDT 2002 
+Sep 26 13:44:42 bastion kernel: kjournald starting.  Commit interval 5 seconds
+Sep 26 13:44:31 bastion rc.sysinit: Setting clock  (localtime): Thu Sep 26 13:44:25 EDT 2002 succeeded 
+Sep 26 13:44:42 bastion kernel: EXT3 FS 2.4-0.9.17, 10 Jan 2002 on ide0(3,2), internal journal
+Sep 26 13:44:31 bastion rc.sysinit: Loading default keymap succeeded 
+Sep 26 13:44:42 bastion kernel: EXT3-fs: mounted filesystem with ordered data mode.
+Sep 26 13:44:31 bastion rc.sysinit: Setting default font (lat0-sun16):  succeeded 
+Sep 26 13:44:42 bastion kernel: ide-floppy driver 0.99.newide
+Sep 26 13:44:31 bastion rc.sysinit: Activating swap partitions:  succeeded 
+Sep 26 13:44:42 bastion kernel: hdc: ATAPI 24X CD-ROM drive, 128kB Cache, DMA
+Sep 26 13:44:31 bastion rc.sysinit: Setting hostname bastion:  succeeded 
+Sep 26 13:44:42 bastion kernel: Uniform CD-ROM driver Revision: 3.12
+Sep 26 13:44:31 bastion rc.sysinit: Mounting USB filesystem:  succeeded 
+Sep 26 13:44:42 bastion kernel: hdc: DMA disabled
+Sep 26 13:44:31 bastion rc.sysinit: Initializing USB controller (usb-uhci):  succeeded 
+Sep 26 13:44:42 bastion kernel: eepro100.c:v1.09j-t 9/29/99 Donald Becker http://www.scyld.com/network/eepro100.html
+Sep 26 13:44:31 bastion fsck: /: clean, 54906/384000 files, 182308/767095 blocks 
+Sep 26 13:44:42 bastion kernel: eepro100.c: $Revision: 1.36 $ 2000/11/17 Modified by Andrey V. Savochkin <saw@saw.sw.com.sg> and others
+Sep 26 13:44:31 bastion rc.sysinit: Checking root filesystem succeeded 
+Sep 26 13:44:42 bastion kernel: PCI: Found IRQ 5 for device 00:0c.0
+Sep 26 13:44:31 bastion rc.sysinit: Remounting root filesystem in read-write mode:  succeeded 
+Sep 26 13:44:42 bastion kernel: PCI: Sharing IRQ 5 with 00:0d.0
+Sep 26 13:44:33 bastion rc.sysinit: Finding module dependencies:  succeeded 
+Sep 26 13:44:42 bastion kernel: eth0: Intel Corp. 82557 [Ethernet Pro 100], 00:03:47:A4:BF:9B, IRQ 5.
+Sep 26 13:44:33 bastion fsck: /home: clean, 3374/1419840 files, 426938/2835472 blocks 
+Sep 26 13:44:42 bastion kernel:   Board assembly 000000-000, Physical connectors present: RJ45
+Sep 26 13:44:33 bastion fsck: /opt: clean, 22814/2312896 files, 2657518/4624711 blocks 
+Sep 26 13:44:42 bastion kernel:   Primary interface chip i82555 PHY #1.
+Sep 26 13:44:33 bastion fsck: /var: clean, 132/640000 files, 32537/1279175 blocks 
+Sep 26 13:44:42 bastion kernel:   General self-test: passed.
+Sep 26 13:44:33 bastion rc.sysinit: Checking filesystems succeeded 
+Sep 26 13:44:42 bastion kernel:   Serial sub-system self-test: passed.
+Sep 26 13:44:33 bastion rc.sysinit: Mounting local filesystems:  succeeded 
+Sep 26 13:44:42 bastion kernel:   Internal registers self-test: passed.
+Sep 26 13:44:33 bastion rc.sysinit: Enabling local filesystem quotas:  succeeded 
+Sep 26 13:44:42 bastion kernel:   ROM checksum self-test: passed (0x04f4518b).
+Sep 26 13:44:34 bastion rc.sysinit: Enabling swap space:  succeeded 
+Sep 26 13:44:42 bastion kernel: PCI: Found IRQ 5 for device 00:0d.0
+Sep 26 13:44:36 bastion init: Entering runlevel: 3 
+Sep 26 13:44:42 bastion kernel: PCI: Sharing IRQ 5 with 00:0c.0
+Sep 26 13:44:36 bastion sysctl: net.ipv4.ip_forward = 0 
+Sep 26 13:44:42 bastion kernel: eth1: Intel Corp. 82557 [Ethernet Pro 100] (#2), 00:03:47:A4:BF:9C, IRQ 5.
+Sep 26 13:44:36 bastion sysctl: net.ipv4.conf.default.rp_filter = 1 
+Sep 26 13:44:42 bastion kernel:   Board assembly 000000-000, Physical connectors present: RJ45
+Sep 26 13:44:36 bastion sysctl: kernel.sysrq = 0 
+Sep 26 13:44:42 bastion kernel:   Primary interface chip i82555 PHY #1.
+Sep 26 13:44:36 bastion sysctl: kernel.core_uses_pid = 1 
+Sep 26 13:44:42 bastion kernel:   General self-test: passed.
+Sep 26 13:44:36 bastion network: Setting network parameters:  succeeded 
+Sep 26 13:44:42 bastion kernel:   Serial sub-system self-test: passed.
+Sep 26 13:44:37 bastion network: Bringing up loopback interface:  succeeded 
+Sep 26 13:44:42 bastion kernel:   Internal registers self-test: passed.
+Sep 26 13:44:39 bastion network: Bringing up interface eth0:  succeeded 
+Sep 26 13:44:42 bastion kernel:   ROM checksum self-test: passed (0x04f4518b).
+Sep 26 13:44:42 bastion crond: crond startup succeeded
+Sep 26 13:44:42 bastion anacron[782]: Anacron 2.3 started on 2002-09-26
+Sep 26 13:44:42 bastion anacron: anacron startup succeeded
+Sep 26 13:44:42 bastion anacron[782]: Normal exit (0 jobs run)
+Sep 26 13:44:42 bastion atd: atd startup succeeded
+Sep 26 13:52:27 bastion login(pam_unix)[808]: session opened for user root by LOGIN(uid=0)
+Sep 26 13:52:27 bastion  -- root[808]: ROOT LOGIN ON tty1
+Sep 26 13:52:45 bastion login(pam_unix)[808]: session closed for user root
+Sep 26 13:52:49 bastion login(pam_unix)[865]: session opened for user anton by LOGIN(uid=0)
+Sep 26 13:52:49 bastion  -- anton[865]: LOGIN ON tty1 BY anton
+Sep 26 13:52:58 bastion sshd[906]: Could not reverse map address 10.2.1.2.
+Sep 26 13:52:58 bastion sshd[906]: Connection closed by 10.2.1.2
+Sep 26 13:53:03 bastion login(pam_unix)[865]: session closed for user anton
+Sep 26 13:53:08 bastion login(pam_unix)[908]: session opened for user root by LOGIN(uid=0)
+Sep 26 13:53:08 bastion  -- root[908]: ROOT LOGIN ON tty1
+Sep 26 13:53:23 bastion login(pam_unix)[908]: session closed for user root
+Sep 26 13:54:05 bastion login(pam_unix)[957]: session opened for user anton by LOGIN(uid=0)
+Sep 26 13:54:05 bastion  -- anton[957]: LOGIN ON tty1 BY anton
+Sep 26 13:54:09 bastion sshd[997]: Could not reverse map address 10.2.1.2.
+Sep 26 13:54:09 bastion sshd[997]: Connection closed by 10.2.1.2
+Sep 26 13:54:11 bastion login(pam_unix)[957]: session closed for user anton
+Sep 26 14:01:00 bastion CROND[1001]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 26 14:12:03 bastion sshd[1006]: Could not reverse map address 146.127.98.55.
+Sep 26 14:12:03 bastion sshd[1006]: Accepted publickey for anton from 146.127.98.55 port 42934 ssh2
+Sep 26 14:12:03 bastion sshd(pam_unix)[1006]: session opened for user anton by (uid=0)
+Sep 26 14:12:56 bastion sshd(pam_unix)[1006]: session closed for user anton
+Sep 26 14:13:13 bastion sshd[1046]: Could not reverse map address 146.127.98.55.
+Sep 26 14:13:13 bastion sshd[1046]: Accepted publickey for anton from 146.127.98.55 port 42935 ssh2
+Sep 26 14:13:13 bastion sshd(pam_unix)[1046]: session opened for user anton by (uid=0)
+Sep 26 14:13:13 bastion sshd(pam_unix)[1046]: session closed for user anton
+Sep 26 14:13:18 bastion sshd[1054]: Could not reverse map address 146.127.98.55.
+Sep 26 14:13:18 bastion sshd[1054]: Accepted publickey for anton from 146.127.98.55 port 42936 ssh2
+Sep 26 14:13:18 bastion sshd(pam_unix)[1054]: session opened for user anton by (uid=0)
+Sep 26 14:13:18 bastion sshd(pam_unix)[1054]: session closed for user anton
+Sep 26 14:13:39 bastion sshd[1062]: Could not reverse map address 146.127.98.55.
+Sep 26 14:13:39 bastion sshd[1062]: Accepted publickey for anton from 146.127.98.55 port 42938 ssh2
+Sep 26 14:13:39 bastion sshd(pam_unix)[1062]: session opened for user anton by (uid=0)
+Sep 26 14:13:43 bastion sshd[1102]: Could not reverse map address 10.2.1.2.
+Sep 26 14:13:43 bastion sshd[1102]: Accepted publickey for anton from 10.2.1.2 port 32772 ssh2
+Sep 26 14:13:43 bastion sshd(pam_unix)[1102]: session opened for user anton by (uid=0)
+Sep 26 14:13:46 bastion sshd(pam_unix)[1102]: session closed for user anton
+Sep 26 14:16:30 bastion login(pam_unix)[999]: session opened for user anton by LOGIN(uid=0)
+Sep 26 14:16:30 bastion  -- anton[999]: LOGIN ON tty1 BY anton
+Sep 26 14:17:11 bastion sshd[1185]: Could not reverse map address 10.2.1.2.
+Sep 26 14:17:11 bastion sshd[1185]: Accepted publickey for anton from 10.2.1.2 port 32776 ssh2
+Sep 26 14:17:11 bastion sshd(pam_unix)[1185]: session opened for user anton by (uid=0)
+Sep 26 14:17:13 bastion sshd(pam_unix)[1185]: session closed for user anton
+Sep 26 14:22:40 bastion login(pam_unix)[999]: session closed for user anton
+Sep 26 15:01:00 bastion CROND[1231]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 26 15:11:44 bastion sshd[1237]: Could not reverse map address 146.127.98.55.
+Sep 26 15:11:44 bastion sshd[1237]: Accepted publickey for anton from 146.127.98.55 port 43187 ssh2
+Sep 26 15:11:44 bastion sshd(pam_unix)[1237]: session opened for user anton by (uid=0)
+Sep 26 15:11:52 bastion su(pam_unix)[1277]: session opened for user root by anton(uid=500)
+Sep 26 16:01:00 bastion CROND[1323]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 26 16:05:11 bastion sshd[1328]: Could not reverse map address 146.127.98.55.
+Sep 26 16:05:11 bastion sshd[1328]: Accepted publickey for anton from 146.127.98.55 port 44235 ssh2
+Sep 26 16:05:11 bastion sshd(pam_unix)[1328]: session opened for user anton by (uid=0)
+Sep 26 16:05:12 bastion sshd(pam_unix)[1328]: session closed for user anton
+Sep 26 17:01:00 bastion CROND[1337]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 26 17:21:13 bastion sshd(pam_unix)[1062]: session closed for user anton
+Sep 26 17:22:11 bastion kernel: ip_tables: (C) 2000-2002 Netfilter core team
+Sep 26 17:25:36 bastion kernel: ip_conntrack (4094 buckets, 32752 max)
+Sep 26 17:30:53 bastion sshd[1565]: Could not reverse map address 146.127.98.55.
+Sep 26 17:30:53 bastion sshd[1565]: Accepted publickey for anton from 146.127.98.55 port 44393 ssh2
+Sep 26 17:30:53 bastion sshd(pam_unix)[1565]: session opened for user anton by (uid=0)
+Sep 26 17:31:00 bastion sshd(pam_unix)[1565]: session closed for user anton
+Sep 26 17:31:22 bastion sshd[1623]: Could not reverse map address 146.127.98.55.
+Sep 26 17:31:22 bastion sshd[1623]: Accepted publickey for anton from 146.127.98.55 port 44394 ssh2
+Sep 26 17:31:22 bastion sshd(pam_unix)[1623]: session opened for user anton by (uid=0)
+Sep 26 17:31:27 bastion sshd(pam_unix)[1623]: session closed for user anton
+Sep 26 17:32:39 bastion sshd[1702]: Could not reverse map address 146.127.98.55.
+Sep 26 17:32:39 bastion sshd[1702]: Accepted publickey for anton from 146.127.98.55 port 44397 ssh2
+Sep 26 17:32:39 bastion sshd(pam_unix)[1702]: session opened for user anton by (uid=0)
+Sep 26 17:33:18 bastion sshd(pam_unix)[1702]: session closed for user anton
+Sep 26 17:34:56 bastion su(pam_unix)[1277]: session closed for user root
+Sep 26 17:34:57 bastion sshd(pam_unix)[1237]: session closed for user anton
+Sep 26 17:35:04 bastion sshd[1785]: Could not reverse map address 146.127.98.55.
+Sep 26 17:35:04 bastion sshd[1785]: Accepted publickey for anton from 146.127.98.55 port 44403 ssh2
+Sep 26 17:35:04 bastion sshd(pam_unix)[1785]: session opened for user anton by (uid=0)
+Sep 26 17:35:09 bastion su(pam_unix)[1824]: session opened for user root by anton(uid=500)
+Sep 26 17:36:13 bastion kernel: Kernel logging (proc) stopped.
+Sep 26 17:36:13 bastion kernel: Kernel log daemon terminating.
+Sep 26 17:36:14 bastion syslog: klogd shutdown succeeded
+Sep 26 17:36:14 bastion exiting on signal 15
+Sep 26 17:36:14 bastion syslogd 1.4.1: restart (remote reception).
+Sep 26 17:36:14 bastion syslog: syslogd startup succeeded
+Sep 26 17:36:14 bastion kernel: klogd 1.4.1, log source = /proc/kmsg started.
+Sep 26 17:36:14 bastion syslog: klogd startup succeeded
+Sep 26 17:36:14 bastion syslog: syslogd shutdown succeeded 
+Sep 26 17:37:14 bastion su(pam_unix)[1824]: session closed for user root
+Sep 26 17:37:15 bastion sshd(pam_unix)[1785]: session closed for user anton
+Sep 26 17:46:38 bastion sshd[1896]: Could not reverse map address 146.127.98.55.
+Sep 26 17:46:38 bastion sshd[1896]: Accepted publickey for anton from 146.127.98.55 port 44416 ssh2
+Sep 26 17:46:38 bastion sshd(pam_unix)[1896]: session opened for user anton by (uid=0)
+Sep 26 17:46:39 bastion sshd(pam_unix)[1896]: session closed for user anton
+Sep 26 18:01:00 bastion CROND[1905]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 26 19:01:00 bastion CROND[1911]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 26 19:39:34 bastion sshd[1916]: Could not reverse map address 146.127.98.55.
+Sep 26 19:39:34 bastion sshd[1916]: Accepted publickey for anton from 146.127.98.55 port 44809 ssh2
+Sep 26 19:39:34 bastion sshd(pam_unix)[1916]: session opened for user anton by (uid=0)
+Sep 26 19:39:42 bastion sshd(pam_unix)[1916]: session closed for user anton
+Sep 26 19:59:25 bastion sshd[1958]: Could not reverse map address 146.127.98.55.
+Sep 26 19:59:25 bastion sshd[1958]: Accepted publickey for anton from 146.127.98.55 port 44821 ssh2
+Sep 26 19:59:25 bastion sshd(pam_unix)[1958]: session opened for user anton by (uid=0)
+Sep 26 20:01:00 bastion CROND[1967]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 26 20:18:05 bastion sshd(pam_unix)[1958]: session closed for user anton
+Sep 26 20:18:06 bastion sshd[1972]: Could not reverse map address 146.127.98.55.
+Sep 26 20:18:06 bastion sshd[1972]: Accepted publickey for anton from 146.127.98.55 port 44833 ssh2
+Sep 26 20:18:06 bastion sshd(pam_unix)[1972]: session opened for user anton by (uid=0)
+Sep 26 20:18:06 bastion sshd(pam_unix)[1972]: session closed for user anton
+Sep 26 20:18:06 bastion sshd[1980]: Could not reverse map address 146.127.98.55.
+Sep 26 20:18:06 bastion sshd[1980]: Accepted publickey for anton from 146.127.98.55 port 44834 ssh2
+Sep 26 20:18:06 bastion sshd(pam_unix)[1980]: session opened for user anton by (uid=0)
+Sep 26 20:18:49 bastion sshd(pam_unix)[1980]: session closed for user anton
+Sep 26 20:18:49 bastion sshd[1989]: Could not reverse map address 146.127.98.55.
+Sep 26 20:18:49 bastion sshd[1989]: Accepted publickey for anton from 146.127.98.55 port 44835 ssh2
+Sep 26 20:18:49 bastion sshd(pam_unix)[1989]: session opened for user anton by (uid=0)
+Sep 26 20:18:49 bastion sshd(pam_unix)[1989]: session closed for user anton
+Sep 26 21:01:00 bastion CROND[1998]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 26 22:01:00 bastion CROND[2004]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 26 23:01:00 bastion CROND[2010]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 27 00:01:00 bastion CROND[2016]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 27 01:01:00 bastion CROND[2022]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 27 02:01:00 bastion CROND[2028]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 27 03:01:00 bastion CROND[2034]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 27 04:01:00 bastion CROND[2040]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 27 04:02:00 bastion CROND[2046]: (root) CMD (run-parts /etc/cron.daily) 
+Sep 27 04:02:01 bastion anacron[2202]: Updated timestamp for job `cron.daily' to 2002-09-27
+Sep 27 05:01:00 bastion CROND[2405]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 27 06:01:00 bastion CROND[2411]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 27 07:01:00 bastion CROND[2417]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 27 08:01:00 bastion CROND[2423]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 27 09:01:00 bastion CROND[2429]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 27 10:01:00 bastion CROND[2435]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 27 11:01:00 bastion CROND[2441]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 27 11:50:32 bastion sshd[2446]: Could not reverse map address 146.127.98.55.
+Sep 27 11:50:32 bastion sshd[2446]: Accepted publickey for anton from 146.127.98.55 port 46748 ssh2
+Sep 27 11:50:33 bastion sshd(pam_unix)[2446]: session opened for user anton by (uid=0)
+Sep 27 11:52:04 bridge syslogd 1.4.1: restart. 
+Sep 27 11:52:04 bridge syslog: syslogd startup succeeded 
+Sep 27 11:52:04 bridge kernel: klogd 1.4.1, log source = /proc/kmsg started. 
+Sep 27 11:52:04 bridge syslog: klogd startup succeeded 
+Sep 27 11:52:06 bridge syslog: syslogd shutdown succeeded  
+Sep 27 11:52:13 bastion sshd[2486]: Could not reverse map address 146.127.98.55.
+Sep 27 11:52:13 bastion sshd[2486]: Accepted publickey for anton from 146.127.98.55 port 46751 ssh2
+Sep 27 11:52:13 bastion sshd(pam_unix)[2486]: session opened for user anton by (uid=0)
+Sep 27 11:52:22 bastion su(pam_unix)[2526]: session opened for user root by anton(uid=500)
+Sep 27 11:52:32 bridge su(pam_unix)[5822]: session opened for user anton by anton(uid=0) 
+Sep 27 11:52:34 bridge su(pam_unix)[5822]: session closed for user anton 
+Sep 27 11:53:32 bridge groupadd[5857]: new group: name=ntp, gid=38  
+Sep 27 11:53:32 bridge useradd[5858]: new user: name=ntp, uid=38, gid=38, home=/etc/ntp, shell=/sbin/nologin  
+Sep 27 11:55:12 bastion modprobe: modprobe: Can't locate module 
+Sep 27 11:56:04 bridge ntpd[5877]: ntpd 4.1.1@1.786 Mon Apr  8 06:30:52 EDT 2002 (1) 
+Sep 27 11:56:04 bridge ntpd[5877]: signal_no_reset: signal 13 had flags 4000000 
+Sep 27 11:56:04 bridge ntpd: ntpd startup succeeded 
+Sep 27 11:56:04 bridge ntpd[5877]: precision = 17 usec 
+Sep 27 11:56:04 bridge ntpd[5877]: kernel time discipline status 0040 
+Sep 27 11:56:04 bridge ntpd[5877]: logconfig: illegal argument  - ignored 
+Sep 27 11:56:04 bridge ntpd[5877]: frequency initialized 0.000 from /etc/ntp/drift 
+Sep 27 11:56:04 bridge ntpd[5877]: running as uid(38)/gid(38) euid(38)/egid(38). 
+Sep 27 11:56:04 bridge ntpd[5877]: system event 'event_restart' (0x01) status 'sync_alarm, sync_unspec, 1 event, event_unspec' (0xc010) 
+Sep 27 11:56:17 bridge ntpd[5877]: peer LOCAL(0) event 'event_reach' (0x84) status 'unreach, conf, 1 event, event_reach' (0x8014) 
+Sep 27 11:56:53 bridge ntpd[5877]: ntpd exiting on signal 15 
+Sep 27 11:56:53 bridge ntpd: ntpd shutdown succeeded 
+Sep 27 11:56:53 bridge ntpd[5902]: ntpd 4.1.1@1.786 Mon Apr  8 06:30:52 EDT 2002 (1) 
+Sep 27 11:56:53 bridge ntpd[5902]: signal_no_reset: signal 13 had flags 4000000 
+Sep 27 11:56:53 bridge ntpd[5902]: precision = 15 usec 
+Sep 27 11:56:53 bridge ntpd[5902]: kernel time discipline status 0040 
+Sep 27 11:56:53 bridge ntpd[5902]: logconfig: illegal argument  - ignored 
+Sep 27 11:56:53 bridge ntpd[5902]: frequency initialized 0.000 from /etc/ntp/drift 
+Sep 27 11:56:53 bridge ntpd[5902]: running as uid(38)/gid(38) euid(38)/egid(38). 
+Sep 27 11:56:53 bridge ntpd[5902]: system event 'event_restart' (0x01) status 'sync_alarm, sync_unspec, 1 event, event_unspec' (0xc010) 
+Sep 27 11:56:53 bridge ntpd: ntpd startup succeeded 
+Sep 27 11:57:07 bridge ntpd[5902]: peer LOCAL(0) event 'event_reach' (0x84) status 'unreach, conf, 1 event, event_reach' (0x8014) 
+Sep 27 11:59:21 bridge kernel: br0: port 2(eth0) entering disabled state 
+Sep 27 11:59:21 bridge kernel: device eth0 left promiscuous mode 
+Sep 27 11:59:21 bridge kernel: br0: port 1(eth1) entering disabled state 
+Sep 27 11:59:21 bridge kernel: device eth1 left promiscuous mode 
+Sep 27 11:59:21 bridge kernel: device eth1 entered promiscuous mode 
+Sep 27 11:59:21 bridge kernel: device eth0 entered promiscuous mode 
+Sep 27 11:59:21 bridge kernel: br0: port 2(eth0) entering listening state 
+Sep 27 11:59:21 bridge kernel: br0: port 1(eth1) entering listening state 
+Sep 27 11:59:21 bridge /etc/hotplug/net.agent: NET unregister event not supported 
+Sep 27 11:59:21 bridge /etc/hotplug/net.agent: invoke ifup br0 
+Sep 27 11:59:36 bridge kernel: br0: port 2(eth0) entering learning state 
+Sep 27 11:59:36 bridge kernel: br0: port 1(eth1) entering learning state 
+Sep 27 11:59:51 bridge kernel: br0: port 2(eth0) entering forwarding state 
+Sep 27 11:59:51 bridge kernel: br0: topology change detected, propagating 
+Sep 27 11:59:51 bridge kernel: br0: port 1(eth1) entering forwarding state 
+Sep 27 11:59:51 bridge kernel: br0: topology change detected, propagating 
+Sep 27 12:00:19 bridge ntpd[5902]: system event 'event_peer/strat_chg' (0x04) status 'sync_alarm, sync_local_proto, 2 events, event_restart' (0xc521) 
+Sep 27 12:00:19 bridge ntpd[5902]: kernel time discipline status change 41 
+Sep 27 12:00:19 bridge ntpd[5902]: system event 'event_sync_chg' (0x03) status 'leap_none, sync_local_proto, 3 events, event_peer/strat_chg' (0x534) 
+Sep 27 12:00:19 bridge ntpd[5902]: system event 'event_peer/strat_chg' (0x04) status 'leap_none, sync_local_proto, 4 events, event_sync_chg' (0x543) 
+Sep 27 12:00:53 bridge su(pam_unix)[5753]: session closed for user root 
+Sep 27 12:00:54 bridge sshd(pam_unix)[5714]: session closed for user anton 
+Sep 27 12:01:00 bastion CROND[2585]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 27 12:01:33 bridge CROND[6168]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 27 12:01:55 bastion sshd(pam_unix)[2446]: session closed for user anton
+Sep 27 12:02:23 bastion groupadd[2594]: new group: name=ntp, gid=38 
+Sep 27 12:02:23 bastion useradd[2595]: new user: name=ntp, uid=38, gid=38, home=/etc/ntp, shell=/sbin/nologin 
+Sep 27 12:53:11 bastion sshd[2600]: Could not reverse map address 146.127.98.55.
+Sep 27 12:53:11 bastion sshd[2600]: Accepted publickey for anton from 146.127.98.55 port 47283 ssh2
+Sep 27 12:53:11 bastion sshd(pam_unix)[2600]: session opened for user anton by (uid=0)
+Sep 27 12:53:11 bastion sshd(pam_unix)[2600]: session closed for user anton
+Sep 27 12:56:53 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 27 12:57:13 bastion ntpd[2622]: ntpd 4.1.1@1.786 Mon Apr  8 06:30:52 EDT 2002 (1)
+Sep 27 12:57:13 bastion ntpd: ntpd startup succeeded
+Sep 27 12:57:13 bastion ntpd[2622]: signal_no_reset: signal 13 had flags 4000000
+Sep 27 12:57:13 bastion ntpd[2622]: precision = 22 usec
+Sep 27 12:57:13 bastion ntpd[2622]: kernel time discipline status 0040
+Sep 27 12:57:13 bastion ntpd[2622]: frequency initialized 0.000 from /etc/ntp/drift
+Sep 27 12:57:13 bastion ntpd[2622]: running as uid(38)/gid(38) euid(38)/egid(38).
+Sep 27 12:57:56 bastion crontab[2747]: (root) BEGIN EDIT (root) 
+Sep 27 12:58:04 bastion crontab[2747]: (root) REPLACE (root) 
+Sep 27 12:58:04 bastion crontab[2747]: (root) END EDIT (root) 
+Sep 27 13:00:30 bastion ntpd[2622]: kernel time discipline status change 41
+Sep 27 13:01:00 bastion CROND[2819]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 27 13:01:34 bridge CROND[6174]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 27 13:02:00 bastion CROND[2825]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 27 13:02:33 bastion sshd[2841]: Could not reverse map address 146.127.98.55.
+Sep 27 13:02:33 bastion sshd[2841]: Accepted publickey for anton from 146.127.98.55 port 47293 ssh2
+Sep 27 13:02:33 bastion sshd(pam_unix)[2841]: session opened for user anton by (uid=0)
+Sep 27 13:02:33 bastion sshd(pam_unix)[2841]: session closed for user anton
+Sep 27 13:02:36 bastion sshd[2849]: Could not reverse map address 146.127.98.55.
+Sep 27 13:02:36 bastion sshd[2849]: Accepted publickey for anton from 146.127.98.55 port 47294 ssh2
+Sep 27 13:02:36 bastion sshd(pam_unix)[2849]: session opened for user anton by (uid=0)
+Sep 27 13:02:37 bastion sshd(pam_unix)[2849]: session closed for user anton
+Sep 27 13:03:21 bastion sshd[2857]: Could not reverse map address 146.127.98.55.
+Sep 27 13:03:21 bastion sshd[2857]: Accepted publickey for anton from 146.127.98.55 port 47302 ssh2
+Sep 27 13:03:22 bastion sshd(pam_unix)[2857]: session opened for user anton by (uid=0)
+Sep 27 13:03:22 bastion sshd(pam_unix)[2857]: session closed for user anton
+Sep 27 13:56:53 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 27 14:01:00 bastion CROND[2866]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 27 14:01:33 bridge CROND[6180]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 27 14:02:00 bastion CROND[2872]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 27 14:56:53 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 27 15:01:00 bastion CROND[2888]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 27 15:01:33 bridge CROND[6186]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 27 15:02:00 bastion CROND[2894]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 27 15:56:53 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 27 16:01:00 bastion CROND[2910]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 27 16:01:34 bridge CROND[6192]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 27 16:02:00 bastion CROND[2916]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 27 16:56:53 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 27 17:01:00 bastion CROND[2932]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 27 17:01:33 bridge CROND[6198]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 27 17:02:00 bastion CROND[2938]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 27 17:56:53 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 27 18:01:00 bastion CROND[2954]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 27 18:01:34 bridge CROND[6204]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 27 18:02:00 bastion CROND[2960]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 27 18:12:57 bastion login(pam_unix)[1229]: session opened for user root by LOGIN(uid=0)
+Sep 27 18:12:57 bastion  -- root[1229]: ROOT LOGIN ON tty1
+Sep 27 18:19:28 bridge kernel: SPOOFED SOURCE: IN=br0 PHYSIN=eth1 OUT=br0 PHYSOUT=eth0 SRC=10.1.1.2 DST=224.0.0.2 LEN=32 TOS=0x00 PREC=0x00 TTL=1 ID=0 DF PROTO=2  
+Sep 27 18:19:31 bastion login(pam_unix)[1229]: session closed for user root
+Sep 27 18:30:43 bastion useradd[3120]: new group: name=mysql, gid=27 
+Sep 27 18:30:43 bastion useradd[3120]: new user: name=mysql, uid=27, gid=27, home=/var/lib/mysql, shell=/bin/bash 
+Sep 27 18:56:53 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 27 19:01:00 bastion CROND[3129]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 27 19:01:34 bridge CROND[6210]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 27 19:02:00 bastion CROND[3135]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 27 19:56:53 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 27 20:01:00 bastion CROND[3152]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 27 20:01:33 bridge CROND[6216]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 27 20:02:00 bastion CROND[3158]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 27 20:56:54 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 27 21:01:00 bastion CROND[3174]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 27 21:01:34 bridge CROND[6222]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 27 21:02:00 bastion CROND[3180]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 27 21:56:54 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 27 22:01:00 bastion CROND[3196]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 27 22:01:34 bridge CROND[6228]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 27 22:02:00 bastion CROND[3202]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 27 22:56:54 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 27 23:01:00 bastion CROND[3218]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 27 23:01:33 bridge CROND[6234]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 27 23:02:00 bastion CROND[3224]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 27 23:56:54 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 28 00:01:00 bastion CROND[3240]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 28 00:01:34 bridge CROND[6240]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 28 00:02:00 bastion CROND[3246]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 28 00:56:54 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 28 01:01:00 bastion CROND[3262]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 28 01:01:34 bridge CROND[6246]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 28 01:02:00 bastion CROND[3268]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 28 01:56:54 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 28 02:01:00 bastion CROND[3284]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 28 02:01:34 bridge CROND[6252]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 28 02:02:00 bastion CROND[3290]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 28 02:56:54 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 28 03:01:00 bastion CROND[3306]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 28 03:01:34 bridge CROND[6258]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 28 03:02:00 bastion CROND[3312]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 28 03:56:54 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 28 04:01:00 bastion CROND[3328]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 28 04:01:34 bridge CROND[6264]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 28 04:02:00 bastion CROND[3335]: (root) CMD (run-parts /etc/cron.daily) 
+Sep 28 04:02:00 bastion CROND[3336]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 28 04:02:01 bastion anacron[3506]: Updated timestamp for job `cron.daily' to 2002-09-28
+Sep 28 04:02:34 bridge CROND[6270]: (root) CMD (run-parts /etc/cron.daily)  
+Sep 28 04:02:35 bridge anacron[6426]: Updated timestamp for job `cron.daily' to 2002-09-28 
+Sep 28 04:56:54 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 28 05:01:00 bastion CROND[3709]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 28 05:01:34 bridge CROND[6629]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 28 05:02:00 bastion CROND[3715]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 28 05:56:54 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 28 06:01:00 bastion CROND[3731]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 28 06:01:34 bridge CROND[6635]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 28 06:02:00 bastion CROND[3737]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 28 06:56:54 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 28 07:01:00 bastion CROND[3753]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 28 07:01:34 bridge CROND[6641]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 28 07:02:00 bastion CROND[3759]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 28 07:56:54 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 28 08:01:00 bastion CROND[3775]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 28 08:01:34 bridge CROND[6647]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 28 08:02:00 bastion CROND[3781]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 28 08:56:54 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 28 09:01:00 bastion CROND[3797]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 28 09:01:35 bridge CROND[6653]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 28 09:02:00 bastion CROND[3803]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 28 09:56:54 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 28 10:01:00 bastion CROND[3819]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 28 10:01:34 bridge CROND[6659]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 28 10:02:00 bastion CROND[3825]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 28 10:56:54 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 28 11:01:00 bastion CROND[3841]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 28 11:01:35 bridge CROND[6665]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 28 11:02:00 bastion CROND[3847]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 28 11:56:54 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 28 12:01:00 bastion CROND[3863]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 28 12:01:35 bridge CROND[6671]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 28 12:02:00 bastion CROND[3869]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 28 12:56:54 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 28 13:01:00 bastion CROND[3885]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 28 13:01:34 bridge CROND[6677]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 28 13:02:00 bastion CROND[3891]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 28 13:56:54 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 28 14:01:00 bastion CROND[3907]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 28 14:01:35 bridge CROND[6683]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 28 14:02:00 bastion CROND[3913]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 28 14:56:55 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 28 15:01:00 bastion CROND[3929]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 28 15:01:35 bridge CROND[6689]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 28 15:02:00 bastion CROND[3935]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 28 15:56:55 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 28 16:01:00 bastion CROND[3951]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 28 16:01:35 bridge CROND[6695]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 28 16:02:00 bastion CROND[3957]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 28 16:56:55 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 28 17:01:00 bastion CROND[3973]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 28 17:01:35 bridge CROND[6701]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 28 17:02:00 bastion CROND[3979]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 28 17:56:55 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 28 18:01:00 bastion CROND[3995]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 28 18:01:35 bridge CROND[6707]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 28 18:02:00 bastion CROND[4001]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 28 18:56:55 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 28 19:01:00 bastion CROND[4017]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 28 19:01:35 bridge CROND[6713]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 28 19:02:00 bastion CROND[4023]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 28 19:56:55 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 28 20:01:00 bastion CROND[4039]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 28 20:01:35 bridge CROND[6719]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 28 20:02:00 bastion CROND[4045]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 28 20:56:55 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 28 21:01:00 bastion CROND[4061]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 28 21:01:35 bridge CROND[6725]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 28 21:02:00 bastion CROND[4067]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 28 21:56:55 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 28 22:01:00 bastion CROND[4083]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 28 22:01:35 bridge CROND[6731]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 28 22:02:00 bastion CROND[4089]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 28 22:56:55 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 28 23:01:00 bastion CROND[4105]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 28 23:01:35 bridge CROND[6737]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 28 23:02:00 bastion CROND[4111]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 28 23:56:55 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 29 00:01:00 bastion CROND[4127]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 29 00:01:36 bridge CROND[6743]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 29 00:02:00 bastion CROND[4133]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 29 00:56:55 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 29 01:01:00 bastion CROND[4149]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 29 01:01:35 bridge CROND[6749]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 29 01:02:00 bastion CROND[4155]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 29 01:56:55 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 29 02:01:00 bastion CROND[4171]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 29 02:01:35 bridge CROND[6755]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 29 02:02:00 bastion CROND[4177]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 29 02:56:55 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 29 03:01:00 bastion CROND[4193]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 29 03:01:36 bridge CROND[6761]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 29 03:02:00 bastion CROND[4199]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 29 03:56:55 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 29 04:01:00 bastion CROND[4215]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 29 04:01:35 bridge CROND[6767]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 29 04:02:00 bastion CROND[4222]: (root) CMD (run-parts /etc/cron.daily) 
+Sep 29 04:02:00 bastion CROND[4223]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 29 04:02:01 bastion anacron[4389]: Updated timestamp for job `cron.daily' to 2002-09-29
+Sep 29 04:02:35 bridge CROND[6773]: (root) CMD (run-parts /etc/cron.daily)  
+Sep 29 04:02:37 bridge anacron[6925]: Updated timestamp for job `cron.daily' to 2002-09-29 
+Sep 29 04:05:16 bastion syslogd 1.4.1: restart (remote reception).
+Sep 29 04:05:44 bridge syslogd 1.4.1: restart. 
+Sep 29 04:22:00 bastion CROND[4601]: (root) CMD (run-parts /etc/cron.weekly) 
+Sep 29 04:22:00 bastion anacron[4605]: Updated timestamp for job `cron.weekly' to 2002-09-29
+Sep 29 04:22:35 bridge CROND[7133]: (root) CMD (run-parts /etc/cron.weekly)  
+Sep 29 04:22:35 bridge anacron[7137]: Updated timestamp for job `cron.weekly' to 2002-09-29 
+Sep 29 04:56:55 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 29 05:01:00 bastion CROND[9049]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 29 05:01:36 bridge CROND[11562]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 29 05:02:00 bastion CROND[9055]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 29 05:56:55 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 29 06:01:00 bastion CROND[9071]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 29 06:01:35 bridge CROND[11568]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 29 06:02:00 bastion CROND[9077]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 29 06:56:55 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 29 07:01:00 bastion CROND[9093]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 29 07:01:35 bridge CROND[11574]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 29 07:02:00 bastion CROND[9099]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 29 07:56:56 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 29 08:01:00 bastion CROND[9115]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 29 08:01:36 bridge CROND[11580]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 29 08:02:01 bastion CROND[9121]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 29 08:56:56 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 29 09:01:00 bastion CROND[9137]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 29 09:01:36 bridge CROND[11586]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 29 09:02:00 bastion CROND[9143]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 29 09:56:56 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 29 10:01:00 bastion CROND[9159]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 29 10:01:36 bridge CROND[11592]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 29 10:02:00 bastion CROND[9165]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 29 10:56:56 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 29 11:01:00 bastion CROND[9181]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 29 11:01:36 bridge CROND[11598]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 29 11:02:00 bastion CROND[9187]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 29 11:56:56 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 29 12:01:00 bastion CROND[9203]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 29 12:01:36 bridge CROND[11604]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 29 12:02:00 bastion CROND[9209]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 29 12:56:56 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 29 13:01:00 bastion CROND[9225]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 29 13:01:36 bridge CROND[11610]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 29 13:02:00 bastion CROND[9231]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 29 13:56:56 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 29 14:01:00 bastion CROND[9247]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 29 14:01:36 bridge CROND[11616]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 29 14:02:00 bastion CROND[9253]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 29 14:56:56 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 29 15:01:00 bastion CROND[9269]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 29 15:01:37 bridge CROND[11622]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 29 15:02:00 bastion CROND[9275]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 29 15:56:56 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 29 16:01:00 bastion CROND[9291]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 29 16:01:36 bridge CROND[11628]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 29 16:02:00 bastion CROND[9297]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 29 16:56:56 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 29 17:01:00 bastion CROND[9313]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 29 17:01:36 bridge CROND[11634]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 29 17:02:00 bastion CROND[9319]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 29 17:56:56 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 29 18:01:00 bastion CROND[9335]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 29 18:01:37 bridge CROND[11640]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 29 18:02:00 bastion CROND[9341]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 29 18:56:56 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 29 19:01:00 bastion CROND[9357]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 29 19:01:36 bridge CROND[11646]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 29 19:02:00 bastion CROND[9363]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 29 19:56:56 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 29 20:01:00 bastion CROND[9379]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 29 20:01:36 bridge CROND[11652]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 29 20:02:00 bastion CROND[9385]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 29 20:56:56 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 29 21:01:00 bastion CROND[9401]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 29 21:01:37 bridge CROND[11658]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 29 21:02:00 bastion CROND[9407]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 29 21:56:56 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 29 22:01:00 bastion CROND[9423]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 29 22:01:36 bridge CROND[11664]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 29 22:02:00 bastion CROND[9429]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 29 22:56:56 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 29 23:01:00 bastion CROND[9445]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 29 23:01:37 bridge CROND[11670]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 29 23:02:00 bastion CROND[9451]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 29 23:56:56 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 30 00:01:00 bastion CROND[9467]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 30 00:01:37 bridge CROND[11676]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 30 00:02:00 bastion CROND[9473]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 30 00:56:56 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 30 01:01:00 bastion CROND[9489]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 30 01:01:36 bridge CROND[11682]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 30 01:02:00 bastion CROND[9495]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 30 01:56:57 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 30 02:01:00 bastion CROND[9511]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 30 02:01:37 bridge CROND[11688]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 30 02:02:00 bastion CROND[9517]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 30 02:56:57 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 30 03:01:00 bastion CROND[9533]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 30 03:01:37 bridge CROND[11694]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 30 03:02:00 bastion CROND[9539]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 30 03:56:57 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 30 04:01:00 bastion CROND[9555]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 30 04:01:36 bridge CROND[11700]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 30 04:02:00 bastion CROND[9562]: (root) CMD (run-parts /etc/cron.daily) 
+Sep 30 04:02:00 bastion CROND[9563]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 30 04:02:00 bastion anacron[9729]: Updated timestamp for job `cron.daily' to 2002-09-30
+Sep 30 04:02:36 bridge CROND[11706]: (root) CMD (run-parts /etc/cron.daily)  
+Sep 30 04:02:37 bridge anacron[11858]: Updated timestamp for job `cron.daily' to 2002-09-30 
+Sep 30 04:56:57 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 30 05:01:00 bastion CROND[9933]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 30 05:01:37 bridge CROND[12062]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 30 05:02:00 bastion CROND[9939]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 30 05:56:57 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 30 06:01:00 bastion CROND[9955]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 30 06:01:37 bridge CROND[12068]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 30 06:02:00 bastion CROND[9961]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 30 06:56:57 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 30 07:01:00 bastion CROND[9977]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 30 07:01:37 bridge CROND[12074]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 30 07:02:00 bastion CROND[9983]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 30 07:56:57 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 30 08:01:00 bastion CROND[9999]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 30 08:01:37 bridge CROND[12080]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 30 08:02:00 bastion CROND[10005]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 30 08:56:57 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 30 09:01:00 bastion CROND[10021]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 30 09:01:37 bridge CROND[12086]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 30 09:02:00 bastion CROND[10027]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 30 09:56:57 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 30 10:01:00 bastion CROND[10043]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 30 10:01:37 bridge CROND[12092]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 30 10:02:00 bastion CROND[10049]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 30 10:56:57 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 30 11:01:00 bastion CROND[10065]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 30 11:01:37 bridge CROND[12098]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 30 11:02:00 bastion CROND[10071]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 30 11:56:57 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 30 12:01:00 bastion CROND[10087]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 30 12:01:37 bridge CROND[12104]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 30 12:02:00 bastion CROND[10093]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 30 12:56:57 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 30 13:01:00 bastion CROND[10109]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 30 13:01:38 bridge CROND[12110]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 30 13:02:00 bastion CROND[10115]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 30 13:46:11 bastion kernel: device usb0 entered promiscuous mode
+Sep 30 13:46:12 bastion kernel: device usb0 left promiscuous mode
+Sep 30 13:51:31 bastion sshd[10340]: Could not reverse map address 146.127.98.55.
+Sep 30 13:51:32 bastion sshd[10340]: Accepted publickey for anton from 146.127.98.55 port 53725 ssh2
+Sep 30 13:51:32 bastion sshd(pam_unix)[10340]: session opened for user anton by (uid=0)
+Sep 30 13:51:34 bastion sshd(pam_unix)[10340]: session closed for user anton
+Sep 30 13:52:22 bastion sshd[10361]: Could not reverse map address 146.127.98.55.
+Sep 30 13:52:22 bastion sshd[10361]: Accepted publickey for anton from 146.127.98.55 port 53729 ssh2
+Sep 30 13:52:22 bastion sshd(pam_unix)[10361]: session opened for user anton by (uid=0)
+Sep 30 13:52:22 bastion sshd(pam_unix)[10361]: session closed for user anton
+Sep 30 13:52:31 bastion sshd[10369]: Could not reverse map address 146.127.98.55.
+Sep 30 13:52:31 bastion sshd[10369]: Accepted publickey for anton from 146.127.98.55 port 53730 ssh2
+Sep 30 13:52:31 bastion sshd(pam_unix)[10369]: session opened for user anton by (uid=0)
+Sep 30 13:52:31 bastion sshd(pam_unix)[10369]: session closed for user anton
+Sep 30 13:56:57 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 30 14:01:00 bastion CROND[10429]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 30 14:01:37 bridge CROND[12116]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 30 14:02:00 bastion CROND[10435]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 30 14:14:20 bastion mysql_install_db: Preparing db table
+Sep 30 14:14:20 bastion mysql_install_db: Preparing host table
+Sep 30 14:14:20 bastion mysql_install_db: Preparing user table
+Sep 30 14:14:20 bastion mysql_install_db: Preparing func table
+Sep 30 14:14:20 bastion mysql_install_db: Preparing tables_priv table
+Sep 30 14:14:20 bastion mysql_install_db: Preparing columns_priv table
+Sep 30 14:14:20 bastion mysql_install_db: Installing all prepared tables
+Sep 30 14:14:20 bastion mysql_install_db: 020930 14:14:20  
+Sep 30 14:14:20 bastion mysql_install_db: 
+Sep 30 14:14:20 bastion mysql_install_db: To start mysqld at boot time you have to copy support-files/mysql.server
+Sep 30 14:14:20 bastion mysql_install_db: to the right place for your system
+Sep 30 14:14:20 bastion mysql_install_db: 
+Sep 30 14:14:20 bastion mysql_install_db: PLEASE REMEMBER TO SET A PASSWORD FOR THE MySQL root USER !
+Sep 30 14:14:20 bastion mysql_install_db: This is done with:
+Sep 30 14:14:20 bastion mysql_install_db: /usr/bin/mysqladmin -u root -p password 'new-password'
+Sep 30 14:14:20 bastion mysql_install_db: /usr/bin/mysqladmin -u root -h bastion -p password 'new-password'
+Sep 30 14:14:20 bastion mysql_install_db: See the manual for more instructions.
+Sep 30 14:14:20 bastion mysql_install_db: 
+Sep 30 14:14:20 bastion mysql_install_db: You can start the MySQL daemon with:
+Sep 30 14:14:20 bastion mysql_install_db: cd /usr ; /usr/bin/safe_mysqld &
+Sep 30 14:14:20 bastion mysql_install_db: 
+Sep 30 14:14:20 bastion mysql_install_db: You can test the MySQL daemon with the benchmarks in the 'sql-bench' directory:
+Sep 30 14:14:20 bastion mysql_install_db: cd sql-bench ; run-all-tests
+Sep 30 14:14:20 bastion mysql_install_db: 
+Sep 30 14:14:20 bastion mysql_install_db: Please report any problems with the /usr/bin/mysqlbug script!
+Sep 30 14:14:20 bastion mysql_install_db: 
+Sep 30 14:14:20 bastion mysql_install_db: The latest information about MySQL is available on the web at
+Sep 30 14:14:20 bastion mysql_install_db: http://www.mysql.com
+Sep 30 14:14:20 bastion mysql_install_db: Support MySQL by buying support/licenses at https://order.mysql.com
+Sep 30 14:14:20 bastion mysql_install_db: 
+Sep 30 14:14:20 bastion mysql_install_db: /usr/libexec/mysqld: Shutdown Complete
+Sep 30 14:14:20 bastion mysql_install_db: 
+Sep 30 14:14:20 bastion mysqld: Initializing MySQL database:  succeeded
+Sep 30 14:14:20 bastion mysqld: Starting MySQL:  succeeded
+Sep 30 14:14:35 bastion adduser[10532]: new group: name=snort, gid=501 
+Sep 30 14:14:35 bastion adduser[10532]: new user: name=snort, uid=501, gid=501, home=/home/snort, shell=/bin/bash 
+Sep 30 14:16:55 bastion kernel: device eth1 entered promiscuous mode
+Sep 30 14:16:55 bastion snort: WARNING: OpenPcap() device eth1 network lookup:  ^Ieth1: no IPv4 address assigned 
+Sep 30 14:16:55 bastion snort: Initializing daemon mode 
+Sep 30 14:16:55 bastion snortd: snort startup succeeded
+Sep 30 14:16:55 bastion snort: PID stat checked out ok, PID set to /var/run/ 
+Sep 30 14:16:55 bastion snort: Writing PID file to "/var/run/" 
+Sep 30 14:16:55 bastion snort: FATAL ERROR: ERROR /etc/snort/snort.conf(243) => Unknown argument to http_decode preprocessor: "unicode" 
+Sep 30 14:16:55 bastion kernel: device eth1 left promiscuous mode
+Sep 30 14:21:24 bastion kernel: device eth1 entered promiscuous mode
+Sep 30 14:21:24 bastion snort: WARNING: OpenPcap() device eth1 network lookup:  ^Ieth1: no IPv4 address assigned 
+Sep 30 14:21:24 bastion snort: Initializing daemon mode 
+Sep 30 14:21:24 bastion snortd: snort startup succeeded
+Sep 30 14:21:24 bastion snort: PID stat checked out ok, PID set to /var/run/ 
+Sep 30 14:21:24 bastion snort: Writing PID file to "/var/run/" 
+Sep 30 14:21:24 bastion snort: Snort initialization completed successfully, Snort running
+Sep 30 14:21:47 bastion snort: Snort received signal 15, exiting 
+Sep 30 14:21:47 bastion snortd: snort shutdown succeeded
+Sep 30 14:21:49 bastion snort: WARNING: OpenPcap() device eth1 network lookup:  ^Ieth1: no IPv4 address assigned 
+Sep 30 14:21:49 bastion snort: Initializing daemon mode 
+Sep 30 14:21:49 bastion snortd: snort startup succeeded
+Sep 30 14:21:49 bastion snort: PID stat checked out ok, PID set to /var/run/ 
+Sep 30 14:21:49 bastion snort: Writing PID file to "/var/run/" 
+Sep 30 14:21:49 bastion snort: Snort initialization completed successfully, Snort running
+Sep 30 14:22:50 bastion useradd[10776]: new group: name=apache, gid=48 
+Sep 30 14:22:50 bastion useradd[10776]: new user: name=apache, uid=48, gid=48, home=/var/www, shell=/bin/false 
+Sep 30 14:30:26 bastion sshd[10910]: Could not reverse map address 146.127.98.55.
+Sep 30 14:30:26 bastion sshd[10910]: Accepted publickey for anton from 146.127.98.55 port 53804 ssh2
+Sep 30 14:30:26 bastion sshd(pam_unix)[10910]: session opened for user anton by (uid=0)
+Sep 30 14:30:27 bastion sshd(pam_unix)[10910]: session closed for user anton
+Sep 30 14:32:18 bastion sshd[10918]: Could not reverse map address 146.127.98.55.
+Sep 30 14:32:18 bastion sshd[10918]: Accepted publickey for anton from 146.127.98.55 port 53824 ssh2
+Sep 30 14:32:18 bastion sshd(pam_unix)[10918]: session opened for user anton by (uid=0)
+Sep 30 14:32:19 bastion sshd(pam_unix)[10918]: session closed for user anton
+Sep 30 14:33:47 bastion crontab[10959]: (root) BEGIN EDIT (root) 
+Sep 30 14:33:51 bastion crontab[10959]: (root) END EDIT (root) 
+Sep 30 14:33:59 bastion crontab[10961]: (root) BEGIN EDIT (root) 
+Sep 30 14:34:18 bastion crontab[10961]: (root) REPLACE (root) 
+Sep 30 14:34:18 bastion crontab[10961]: (root) END EDIT (root) 
+Sep 30 14:34:23 bastion crontab[10963]: (root) BEGIN EDIT (root) 
+Sep 30 14:35:00 bastion crond[764]: (root) RELOAD (cron/root) 
+Sep 30 14:35:48 bastion crontab[10963]: (root) REPLACE (root) 
+Sep 30 14:35:48 bastion crontab[10963]: (root) END EDIT (root) 
+Sep 30 14:35:49 bastion crontab[10965]: (root) BEGIN EDIT (root) 
+Sep 30 14:35:51 bastion crontab[10965]: (root) END EDIT (root) 
+Sep 30 14:36:00 bastion crond[764]: (root) RELOAD (cron/root) 
+Sep 30 14:36:15 bastion crontab[10967]: (root) BEGIN EDIT (root) 
+Sep 30 14:36:16 bastion crontab[10967]: (root) END EDIT (root) 
+Sep 30 14:38:41 bastion sendmail[11010]: My unqualified host name (bastion) unknown; sleeping for retry
+Sep 30 14:39:41 bastion sendmail[11010]: unable to qualify my own domain name (bastion) -- using short name
+Sep 30 14:39:41 bastion sendmail[11010]: alias database /etc/aliases rebuilt by root
+Sep 30 14:39:41 bastion sendmail[11010]: /etc/aliases: 40 aliases, longest 10 bytes, 395 bytes total
+Sep 30 14:50:37 bastion adduser[11075]: new group: name=acid, gid=502 
+Sep 30 14:50:37 bastion adduser[11075]: new user: name=acid, uid=502, gid=502, home=/home/acid, shell=/bin/bash 
+Sep 30 14:56:57 bridge ntpd[5902]: offset 0.000000 sec freq 0.000 ppm error 0.000011 poll 6 
+Sep 30 15:01:00 bastion CROND[11078]: (root) CMD (run-parts /etc/cron.hourly) 
+Sep 30 15:01:37 bridge CROND[12122]: (root) CMD (run-parts /etc/cron.hourly)  
+Sep 30 15:02:00 bastion CROND[11084]: (root) CMD (/bin/sh /usr/local/etc/logcheck.sh) 
+Sep 30 15:02:00 bastion sendmail[11097]: My unqualified host name (bastion) unknown; sleeping for retry
+Sep 30 15:03:00 bastion sendmail[11097]: unable to qualify my own domain name (bastion) -- using short name
+Sep 30 15:03:00 bastion sendmail[11097]: g8UJ30J11097: from=root, size=7346, class=0, nrcpts=1, msgid=<200209301903.g8UJ30J11097@bastion>, relay=root@localhost
+Sep 30 15:03:00 bastion sendmail[11101]: g8UJ30J11097: to=anton, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=37346, dsn=2.0.0, stat=Sent
+Sep 30 15:08:59 bastion httpd: [Mon Sep 30 15:08:59 2002] [alert] httpd: Could not determine the server's fully qualified domain name, using 10.2.1.2 for ServerName
+Sep 30 15:08:59 bastion httpd: 
+Sep 30 15:08:59 bastion httpd: httpd startup succeeded
+Sep 30 15:09:16 bastion httpd: httpd shutdown succeeded
+Sep 30 15:10:00 bastion httpd: [Mon Sep 30 15:10:00 2002] [alert] httpd: Could not determine the server's fully qualified domain name, using 10.2.1.2 for ServerName
+Sep 30 15:10:00 bastion httpd: 
+Sep 30 15:10:01 bastion httpd: httpd startup succeeded
+Sep 30 15:10:25 bastion httpd: httpd shutdown failed
+Sep 30 15:10:27 bastion httpd: [Mon Sep 30 15:10:27 2002] [alert] httpd: Could not determine the server's fully qualified domain name, using 146.127.98.234 for ServerName
+Sep 30 15:10:27 bastion httpd: 
+Sep 30 15:10:28 bastion httpd: httpd startup succeeded
+Sep 30 15:10:41 bastion httpd: httpd shutdown failed
+Sep 30 15:11:31 bastion httpd: httpd shutdown failed
+Sep 30 15:11:33 bastion httpd: httpd startup succeeded
+Sep 30 15:13:49 bastion httpd: httpd shutdown failed
+Sep 30 15:15:18 bastion httpd: httpd startup succeeded
+Sep 30 15:18:30 bastion httpd: httpd shutdown failed
+Sep 30 15:18:32 bastion httpd: httpd startup succeeded
+Sep 30 15:27:10 bastion sshd[11538]: Could not reverse map address 146.127.98.55.
+Sep 30 15:27:10 bastion sshd[11538]: Accepted publickey for anton from 146.127.98.55 port 54053 ssh2

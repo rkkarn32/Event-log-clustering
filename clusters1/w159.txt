@@ -1,0 +1,1 @@
+14041   ReDate ReTime bastion kernel Checking hlt instruction... OK.

@@ -1,0 +1,16 @@
+Oct  4 13:59:07  KERNEL(00:24:6c:c7:fa:31@192.168.1.60): vap aruba001 vlan is 0. discovering tunnel vlan
+Oct  4 13:59:07  KERNEL(00:24:6c:c7:fa:0d@192.168.1.63): vap aruba001 vlan is 0. discovering tunnel vlan
+Oct  4 13:59:07  KERNEL(00:24:6c:c7:fa:0e@192.168.1.66): vap aruba001 vlan is 0. discovering tunnel vlan
+Oct  4 13:59:07  KERNEL(00:24:6c:c7:fa:34@192.168.1.67): vap aruba001 vlan is 0. discovering tunnel vlan
+Oct  4 13:59:07  KERNEL(00:24:6c:c7:fa:0b@192.168.1.64): vap aruba001 vlan is 0. discovering tunnel vlan
+Oct  4 13:59:07  KERNEL(00:24:6c:c7:fa:11@192.168.1.61): vap aruba001 vlan is 0. discovering tunnel vlan
+Oct  4 13:59:07  KERNEL(00:24:6c:c7:fa:10@192.168.1.68): vap aruba001 vlan is 0. discovering tunnel vlan
+Oct  4 13:59:07  KERNEL(00:24:6c:c7:fa:29@192.168.1.62): vap aruba001 vlan is 0. discovering tunnel vlan
+Oct  4 17:34:18  KERNEL(00:24:6c:c7:fa:31@192.168.1.60): vap aruba002 vlan is 0. discovering tunnel vlan
+Oct  4 17:34:18  KERNEL(00:24:6c:c7:fa:29@192.168.1.62): vap aruba002 vlan is 0. discovering tunnel vlan
+Oct  4 17:34:18  KERNEL(00:24:6c:c7:fa:0b@192.168.1.64): vap aruba002 vlan is 0. discovering tunnel vlan
+Oct  4 17:34:18  KERNEL(00:24:6c:c7:fa:11@192.168.1.61): vap aruba002 vlan is 0. discovering tunnel vlan
+Oct  4 17:34:18  KERNEL(00:24:6c:c7:fa:0d@192.168.1.63): vap aruba002 vlan is 0. discovering tunnel vlan
+Oct  4 17:34:18  KERNEL(00:24:6c:c7:fa:0e@192.168.1.66): vap aruba002 vlan is 0. discovering tunnel vlan
+Oct  4 17:34:18  KERNEL(00:24:6c:c7:fa:34@192.168.1.67): vap aruba002 vlan is 0. discovering tunnel vlan
+Oct  4 17:34:18  KERNEL(00:24:6c:c7:fa:10@192.168.1.68): vap aruba001 vlan is 0. discovering tunnel vlan

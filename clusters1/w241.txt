@@ -1,0 +1,2 @@
+7936   ReDate ReTime bridge syslog (** klogd=10 **) startup succeeded
+7936   ReDate ReTime bridge syslog (** klogd=10 **) startup succeeded

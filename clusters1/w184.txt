@@ -1,0 +1,16 @@
+11356   ReDate ReTime bridge kernel br**: port (** 2(**)=16 **) entering (** disabled=9 **) state
+11356   ReDate ReTime bridge kernel br**: port (** 1(**)=16 **) entering (** disabled=9 **) state
+11356   ReDate ReTime bridge kernel br**: port (** 2(**)=16 **) entering (** listening=9 **) state
+11356   ReDate ReTime bridge kernel br**: port (** 1(**)=16 **) entering (** listening=9 **) state
+11356   ReDate ReTime bridge kernel br**: port (** 2(**)=16 **) entering (** disabled=9 **) state
+11356   ReDate ReTime bridge kernel br**: port (** 1(**)=16 **) entering (** disabled=9 **) state
+11356   ReDate ReTime bridge kernel br**: port (** 2(**)=16 **) entering (** listening=9 **) state
+11356   ReDate ReTime bridge kernel br**: port (** 1(**)=16 **) entering (** listening=9 **) state
+11356   ReDate ReTime bridge kernel br**: port (** 2(**)=16 **) entering (** disabled=9 **) state
+11356   ReDate ReTime bridge kernel br**: port (** 1(**)=16 **) entering (** disabled=9 **) state
+11356   ReDate ReTime bridge kernel br**: port (** 2(**)=16 **) entering (** listening=9 **) state
+11356   ReDate ReTime bridge kernel br**: port (** 1(**)=16 **) entering (** listening=9 **) state
+11356   ReDate ReTime bridge kernel br**: port (** 2(**)=16 **) entering (** disabled=9 **) state
+11356   ReDate ReTime bridge kernel br**: port (** 1(**)=16 **) entering (** disabled=9 **) state
+11356   ReDate ReTime bridge kernel br**: port (** 2(**)=16 **) entering (** listening=9 **) state
+11356   ReDate ReTime bridge kernel br**: port (** 1(**)=16 **) entering (** listening=9 **) state

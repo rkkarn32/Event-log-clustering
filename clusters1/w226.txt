@@ -1,0 +1,1 @@
+8636   ReDate ReTime bridge syslog (** klogd=10 **) shutdown succeeded

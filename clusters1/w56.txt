@@ -1,0 +1,1 @@
+29032   ReDate ReTime bastion useradd[**] new user: name=ntp (** uid=3**=2 **) gid=3** home=RePath shell=RePath

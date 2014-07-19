@@ -1,0 +1,8 @@
+23877808    ReDate   ReTime   authmgr[1453]:  ****  <INFO> |authmgr|  MAC= ReMAC  IP= ReIP  User entry  ****  reason=user request
+23877808    ReDate   ReTime   authmgr[1453]:  ****  <INFO> |authmgr|  MAC= ReMAC  IP= ReIP  User entry  ****  reason=user request
+23830968    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****  ReIP  ****   ****   ****   ****   authenticated    **** 
+23830968    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****  ReIP  ****   ****   ****   ****   authenticated    **** 
+23830968    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****  ReIP  ****   ****   ****   ****   authenticated    **** 
+23830968    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****  ReIP  ****   ****   ****   ****   authenticated    **** 
+23774368    ReDate   ReTime   authmgr[1453]:  ****  <INFO> |authmgr|  MAC= ReMAC  IP= ReIP  User  ****  ingress= **** , VLAN=2
+23774368    ReDate   ReTime   authmgr[1453]:  ****  <INFO> |authmgr|  MAC= ReMAC  IP= ReIP  User  ****  ingress= **** , VLAN=2

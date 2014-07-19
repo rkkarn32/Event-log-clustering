@@ -1,0 +1,2 @@
+9592   ReDate ReTime bastion kernel Serial (** sub-system=2 **) self-test: passed.
+9592   ReDate ReTime bastion kernel Serial (** sub-system=2 **) self-test: passed.

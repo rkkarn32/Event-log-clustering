@@ -1,0 +1,32 @@
+Oct  4 08:16:02  stm[808]: <501068> <WARN> |AP TestAP@192.168.101.60 stm|  Source: 00:23:68:bd:64:91 Failed AP 192.168.101.60-00:24:6c:ff:9a:80-TestAP Multicast Encryption Mismatch
+Oct  4 08:16:02  stm[808]: <501068> <WARN> |AP 00:24:6c:cb:a4:fe@192.168.101.66 stm|  Source: 00:23:68:bd:66:44 Failed AP 192.168.101.66-00:24:6c:3a:4f:e0-00:24:6c:cb:a4:fe Multicast Encryption Mismatch
+Oct  4 08:16:02  stm[808]: <501068> <WARN> |AP 00:24:6c:c7:f9:6d@192.168.101.64 stm|  Source: 00:23:68:ac:b7:33 Failed AP 192.168.101.64-00:24:6c:ff:96:d0-00:24:6c:c7:f9:6d Multicast Encryption Mismatch
+Oct  4 08:16:04  stm[808]: <501068> <WARN> |AP 00:24:6c:cb:a4:fe@192.168.101.66 stm|  Source: 00:23:68:bd:66:44 Failed AP 192.168.101.66-00:24:6c:3a:4f:e0-00:24:6c:cb:a4:fe Multicast Encryption Mismatch
+Oct  4 08:16:05  stm[808]: <501068> <WARN> |AP 00:24:6c:cb:a4:67@192.168.101.56 stm|  Source: 00:23:68:ac:b7:33 Failed AP 192.168.101.56-00:24:6c:3a:46:70-00:24:6c:cb:a4:67 Multicast Encryption Mismatch
+Oct  4 08:16:06  stm[808]: <501068> <WARN> |AP 00:24:6c:cb:a4:fe@192.168.101.66 stm|  Source: 00:23:68:bd:66:44 Failed AP 192.168.101.66-00:24:6c:3a:4f:e0-00:24:6c:cb:a4:fe Multicast Encryption Mismatch
+Oct  4 08:16:07  stm[808]: <501068> <WARN> |AP 00:24:6c:cb:a4:67@192.168.101.56 stm|  Source: 00:23:68:ac:b7:33 Failed AP 192.168.101.56-00:24:6c:3a:46:70-00:24:6c:cb:a4:67 Multicast Encryption Mismatch
+Oct  4 08:16:07  stm[808]: <501068> <WARN> |AP 00:24:6c:cb:a4:fe@192.168.101.66 stm|  Source: 00:23:68:bd:66:44 Failed AP 192.168.101.66-00:24:6c:3a:4f:e0-00:24:6c:cb:a4:fe Multicast Encryption Mismatch
+Oct  4 08:16:08  stm[808]: <501068> <WARN> |AP 00:24:6c:cb:a4:67@192.168.101.56 stm|  Source: 00:23:68:ac:b7:33 Failed AP 192.168.101.56-00:24:6c:3a:46:70-00:24:6c:cb:a4:67 Multicast Encryption Mismatch
+Oct  4 08:16:09  stm[808]: <501068> <WARN> |AP 00:24:6c:cb:a4:fe@192.168.101.66 stm|  Source: 00:23:68:bd:66:44 Failed AP 192.168.101.66-00:24:6c:3a:4f:e0-00:24:6c:cb:a4:fe Multicast Encryption Mismatch
+Oct  4 08:16:09  stm[808]: <501068> <WARN> |AP 00:24:6c:cb:a4:67@192.168.101.56 stm|  Source: 00:23:68:ac:b7:33 Failed AP 192.168.101.56-00:24:6c:3a:46:70-00:24:6c:cb:a4:67 Multicast Encryption Mismatch
+Oct  4 08:16:10  stm[808]: <501068> <WARN> |AP 00:24:6c:cb:a4:fe@192.168.101.66 stm|  Source: 00:23:68:bd:66:44 Failed AP 192.168.101.66-00:24:6c:3a:4f:e0-00:24:6c:cb:a4:fe Multicast Encryption Mismatch
+Oct  4 08:16:11  stm[808]: <501068> <WARN> |AP 00:24:6c:cb:a4:67@192.168.101.56 stm|  Source: 00:23:68:ac:b7:33 Failed AP 192.168.101.56-00:24:6c:3a:46:70-00:24:6c:cb:a4:67 Multicast Encryption Mismatch
+Oct  4 08:16:25  stm[808]: <501068> <WARN> |AP TestAP@192.168.101.60 stm|  Source: 00:23:68:bd:65:37 Failed AP 192.168.101.60-00:24:6c:ff:9a:80-TestAP Multicast Encryption Mismatch
+Oct  4 08:16:26  stm[808]: <501068> <WARN> |AP 00:24:6c:c7:f9:74@192.168.101.55 stm|  Source: 00:23:68:bd:74:4f Failed AP 192.168.101.55-00:24:6c:ff:97:40-00:24:6c:c7:f9:74 Multicast Encryption Mismatch
+Oct  4 08:16:29  stm[808]: <501068> <WARN> |AP 00:24:6c:cb:a4:67@192.168.101.56 stm|  Source: 00:23:68:bd:65:37 Failed AP 192.168.101.56-00:24:6c:3a:46:70-00:24:6c:cb:a4:67 Multicast Encryption Mismatch
+Oct  4 08:16:29  stm[808]: <501068> <WARN> |AP 00:24:6c:c7:f9:74@192.168.101.55 stm|  Source: 00:23:68:bd:74:4f Failed AP 192.168.101.55-00:24:6c:ff:97:40-00:24:6c:c7:f9:74 Multicast Encryption Mismatch
+Oct  4 08:16:30  stm[808]: <501068> <WARN> |AP 00:24:6c:cb:a4:67@192.168.101.56 stm|  Source: 00:23:68:bd:65:37 Failed AP 192.168.101.56-00:24:6c:3a:46:70-00:24:6c:cb:a4:67 Multicast Encryption Mismatch
+Oct  4 08:16:30  stm[808]: <501068> <WARN> |AP 00:24:6c:c7:f9:74@192.168.101.55 stm|  Source: 00:23:68:bd:74:4f Failed AP 192.168.101.55-00:24:6c:ff:97:40-00:24:6c:c7:f9:74 Multicast Encryption Mismatch
+Oct  4 08:16:31  stm[808]: <501068> <WARN> |AP 00:24:6c:cb:a4:67@192.168.101.56 stm|  Source: 00:23:68:bd:65:37 Failed AP 192.168.101.56-00:24:6c:3a:46:70-00:24:6c:cb:a4:67 Multicast Encryption Mismatch
+Oct  4 08:16:31  stm[808]: <501068> <WARN> |AP 00:24:6c:c7:f9:74@192.168.101.55 stm|  Source: 00:23:68:bd:74:4f Failed AP 192.168.101.55-00:24:6c:ff:97:40-00:24:6c:c7:f9:74 Multicast Encryption Mismatch
+Oct  4 08:16:32  stm[808]: <501068> <WARN> |AP 00:24:6c:cb:a4:67@192.168.101.56 stm|  Source: 00:23:68:bd:65:37 Failed AP 192.168.101.56-00:24:6c:3a:46:70-00:24:6c:cb:a4:67 Multicast Encryption Mismatch
+Oct  4 08:16:33  stm[808]: <501068> <WARN> |AP 00:24:6c:c7:f9:74@192.168.101.55 stm|  Source: 00:23:68:bd:74:4f Failed AP 192.168.101.55-00:24:6c:ff:97:40-00:24:6c:c7:f9:74 Multicast Encryption Mismatch
+Oct  4 08:17:17  stm[808]: <501068> <WARN> |AP 00:24:6c:c7:f9:74@192.168.101.55 stm|  Source: 00:23:68:bd:74:4f Failed AP 192.168.101.55-00:24:6c:ff:97:40-00:24:6c:c7:f9:74 Multicast Encryption Mismatch
+Oct  4 12:56:01  stm[1454]: <501068> <WARN> |stm|  Source: 00:23:68:ac:b7:64 Failed AP 192.168.1.62-00:24:6c:ff:a2:93-00:24:6c:c7:fa:29 Multicast Encryption Mismatch
+Oct  4 13:03:03  stm[809]: <501068> <WARN> |AP 00:24:6c:c7:fa:29@192.168.1.62 stm|  Source: 00:23:68:ac:b7:64 Failed AP 192.168.1.62-00:24:6c:ff:a2:93-00:24:6c:c7:fa:29 Multicast Encryption Mismatch
+Oct  4 13:12:10  stm[809]: <501068> <WARN> |AP 00:24:6c:c7:fa:10@192.168.1.68 stm|  Source: 00:23:68:ac:b7:64 Failed AP 192.168.1.68-00:24:6c:ff:a1:03-00:24:6c:c7:fa:10 Multicast Encryption Mismatch
+Oct  4 14:44:46  stm[1454]: <501074> <WARN> |stm|  wifi_deauth_sta: bad data, dropping. mac: 00:23:68:bd:64:91 bssid: 00:24:6c:ff:96:d2
+Oct  4 17:25:48  stm[1454]: <501074> <WARN> |stm|  wifi_deauth_sta: bad data, dropping. mac: 00:23:68:ac:b7:64 bssid: 00:24:6c:ff:a0:e3
+Oct  4 17:25:56  stm[1454]: <501074> <WARN> |stm|  wifi_deauth_sta: bad data, dropping. mac: 00:23:68:ac:b8:b7 bssid: 00:24:6c:ff:a0:e3
+Oct  4 17:26:04  stm[1454]: <501074> <WARN> |stm|  wifi_deauth_sta: bad data, dropping. mac: 00:18:de:b3:a9:af bssid: 00:24:6c:ff:a2:93
+Oct  4 18:30:07  sysmgr: PAPI RxPacket: ACK to invalid packet type 0x00000043 

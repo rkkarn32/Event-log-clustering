@@ -1,0 +1,1 @@
+21912   ReDate ReTime bastion mysqld Initializing MySQL (** database:=1 **) succeeded

@@ -1,0 +1,3 @@
+16673   ReDate ReTime bastion login(**)[**] session closed for user (** root=23 **)
+16673   ReDate ReTime bastion login(**)[**] session closed for user (** root=23 **)
+16673   ReDate ReTime bastion login(**)[**] session closed for user (** root=23 **)

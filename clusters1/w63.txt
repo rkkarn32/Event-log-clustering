@@ -1,0 +1,1 @@
+27938   ReDate ReTime bastion kernel BIOS-e82**: 000000001fff800** - ReDigit (ACPI (** NVS)=1 **)

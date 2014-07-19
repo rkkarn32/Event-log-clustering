@@ -1,0 +1,400 @@
+36184200   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid=ReMAC,  **** ,  **** 
+36184200   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid=ReMAC,  **** ,  **** 
+36184200   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid=ReMAC,  **** ,  **** 
+36184200   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid=ReMAC,  **** ,  **** 
+36184200   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid=ReMAC,  **** ,  **** 
+36184200   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid=ReMAC,  **** ,  **** 
+36184200   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid=ReMAC,  **** ,  **** 
+36184200   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid=ReMAC,  **** ,  **** 
+36184200   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid=ReMAC,  **** ,  **** 
+36184200   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid=ReMAC,  **** ,  **** 
+36184200   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid=ReMAC,  **** ,  **** 
+36184200   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid=ReMAC,  **** ,  **** 
+36184200   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid=ReMAC,  **** ,  **** 
+36184200   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid=ReMAC,  **** ,  **** 
+36184200   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid=ReMAC,  **** ,  **** 
+36184200   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid=ReMAC,  **** ,  **** 
+36184200   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid=ReMAC,  **** ,  **** 
+36184200   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid=ReMAC,  **** ,  **** 
+36184200   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid=ReMAC,  **** ,  **** 
+36184200   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid=ReMAC,  **** ,  **** 
+36184200   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid=ReMAC,  **** ,  **** 
+36184200   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid=ReMAC,  **** ,  **** 
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+34740480   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC Station  ****  BSSID=ReMAC ESSID=MFIVAN  ****  AP-name=ReMAC
+33876280   ReDate ReTime  mobileip[1459]: <500511> <DBUG> |mobileip|  Station ReMAC, ReIP: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC, phy g, VLANReDigit
+33876280   ReDate ReTime  mobileip[1459]: <500511> <DBUG> |mobileip|  Station ReMAC, ReIP: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC, phy g, VLANReDigit
+33876280   ReDate ReTime  mobileip[1459]: <500511> <DBUG> |mobileip|  Station ReMAC, ReIP: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC, phy g, VLANReDigit
+33876280   ReDate ReTime  mobileip[1459]: <500511> <DBUG> |mobileip|  Station ReMAC, ReIP: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC, phy g, VLANReDigit
+33876280   ReDate ReTime  mobileip[1459]: <500511> <DBUG> |mobileip|  Station ReMAC, ReIP: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC, phy g, VLANReDigit
+33876280   ReDate ReTime  mobileip[1459]: <500511> <DBUG> |mobileip|  Station ReMAC, ReIP: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC, phy g, VLANReDigit
+33876280   ReDate ReTime  mobileip[1459]: <500511> <DBUG> |mobileip|  Station ReMAC, ReIP: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC, phy g, VLANReDigit
+33876280   ReDate ReTime  mobileip[1459]: <500511> <DBUG> |mobileip|  Station ReMAC, ReIP: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC, phy g, VLANReDigit
+33876280   ReDate ReTime  mobileip[1459]: <500511> <DBUG> |mobileip|  Station ReMAC, ReIP: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC, phy g, VLANReDigit
+33876280   ReDate ReTime  mobileip[1459]: <500511> <DBUG> |mobileip|  Station ReMAC, ReIP: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC, phy g, VLANReDigit
+33876280   ReDate ReTime  mobileip[1459]: <500511> <DBUG> |mobileip|  Station ReMAC, ReIP: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC, phy g, VLANReDigit
+33876280   ReDate ReTime  mobileip[1459]: <500511> <DBUG> |mobileip|  Station ReMAC, ReIP: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC, phy g, VLANReDigit
+33876280   ReDate ReTime  mobileip[1459]: <500511> <DBUG> |mobileip|  Station ReMAC, ReIP: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC, phy g, VLANReDigit
+33876280   ReDate ReTime  mobileip[1459]: <500511> <DBUG> |mobileip|  Station ReMAC, ReIP: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC, phy g, VLANReDigit
+33876280   ReDate ReTime  mobileip[1459]: <500511> <DBUG> |mobileip|  Station ReMAC, ReIP: Received association on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC, phy g, VLANReDigit
+33764720   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****  Station  ****   ****  to mobility
+33764720   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****  Station  ****   ****  to mobility
+33764720   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****  Station  ****   ****  to mobility
+33764720   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****  Station  ****   ****  to mobility
+33764720   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****  Station  ****   ****  to mobility
+33764720   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****  Station  ****   ****  to mobility
+33764720   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****  Station  ****   ****  to mobility
+33764720   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****  Station  ****   ****  to mobility
+33764720   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****  Station  ****   ****  to mobility
+33764720   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****  Station  ****   ****  to mobility
+33764720   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****  Station  ****   ****  to mobility
+33764720   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****  Station  ****   ****  to mobility
+33764720   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****  Station  ****   ****  to mobility
+33764720   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****  Station  ****   ****  to mobility
+33764720   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****  Station  ****   ****  to mobility
+31618200   ReDate ReTime  mobileip[1459]: <500511> <DBUG> |mobileip|  Station ReMAC, ReIP: Received  ****  on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC, phy g, VLANReDigit
+31618200   ReDate ReTime  mobileip[1459]: <500511> <DBUG> |mobileip|  Station ReMAC, ReIP: Received  ****  on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC, phy g, VLANReDigit
+31618200   ReDate ReTime  mobileip[1459]: <500511> <DBUG> |mobileip|  Station ReMAC, ReIP: Received  ****  on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC, phy g, VLANReDigit
+31618200   ReDate ReTime  mobileip[1459]: <500511> <DBUG> |mobileip|  Station ReMAC, ReIP: Received  ****  on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC, phy g, VLANReDigit
+31618200   ReDate ReTime  mobileip[1459]: <500511> <DBUG> |mobileip|  Station ReMAC, ReIP: Received  ****  on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC, phy g, VLANReDigit
+31618200   ReDate ReTime  mobileip[1459]: <500511> <DBUG> |mobileip|  Station ReMAC, ReIP: Received  ****  on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC, phy g, VLANReDigit
+31618200   ReDate ReTime  mobileip[1459]: <500511> <DBUG> |mobileip|  Station ReMAC, ReIP: Received  ****  on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC, phy g, VLANReDigit
+31618200   ReDate ReTime  mobileip[1459]: <500511> <DBUG> |mobileip|  Station ReMAC, ReIP: Received  ****  on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC, phy g, VLANReDigit
+31618200   ReDate ReTime  mobileip[1459]: <500511> <DBUG> |mobileip|  Station ReMAC, ReIP: Received  ****  on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC, phy g, VLANReDigit
+31618200   ReDate ReTime  mobileip[1459]: <500511> <DBUG> |mobileip|  Station ReMAC, ReIP: Received  ****  on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC, phy g, VLANReDigit
+31618200   ReDate ReTime  mobileip[1459]: <500511> <DBUG> |mobileip|  Station ReMAC, ReIP: Received  ****  on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC, phy g, VLANReDigit
+31618200   ReDate ReTime  mobileip[1459]: <500511> <DBUG> |mobileip|  Station ReMAC, ReIP: Received  ****  on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC, phy g, VLANReDigit
+31618200   ReDate ReTime  mobileip[1459]: <500511> <DBUG> |mobileip|  Station ReMAC, ReIP: Received  ****  on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC, phy g, VLANReDigit
+31618200   ReDate ReTime  mobileip[1459]: <500511> <DBUG> |mobileip|  Station ReMAC, ReIP: Received  ****  on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name ReMAC Group Mazin-Vancouver BSSID ReMAC, phy g, VLANReDigit
+30975520   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****  bssid=ReMAC,  **** ,  **** 
+30975520   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****  bssid=ReMAC,  **** ,  **** 
+30975520   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****  bssid=ReMAC,  **** ,  **** 
+30975520   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****  bssid=ReMAC,  **** ,  **** 
+30975520   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****  bssid=ReMAC,  **** ,  **** 
+30975520   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****  bssid=ReMAC,  **** ,  **** 
+30975520   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****  bssid=ReMAC,  **** ,  **** 
+30975520   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****  bssid=ReMAC,  **** ,  **** 
+30975520   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****  bssid=ReMAC,  **** ,  **** 
+30975520   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****  bssid=ReMAC,  **** ,  **** 
+30975520   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****  bssid=ReMAC,  **** ,  **** 
+30975520   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****  bssid=ReMAC,  **** ,  **** 
+30975520   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****  bssid=ReMAC,  **** ,  **** 
+30975520   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****  bssid=ReMAC,  **** ,  **** 
+30975520   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****  bssid=ReMAC,  **** ,  **** 
+30975520   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****  bssid=ReMAC,  **** ,  **** 
+30975520   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****  bssid=ReMAC,  **** ,  **** 
+30975520   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****  bssid=ReMAC,  **** ,  **** 
+30975520   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****  bssid=ReMAC,  **** ,  **** 
+30975520   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****  bssid=ReMAC,  **** ,  **** 
+30876776   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type: local, FW mode: 0, AP IP: ReIP
+30876776   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type: local, FW mode: 0, AP IP: ReIP
+30876776   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type: local, FW mode: 0, AP IP: ReIP
+30876776   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type: local, FW mode: 0, AP IP: ReIP
+30876776   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type: local, FW mode: 0, AP IP: ReIP
+30876776   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type: local, FW mode: 0, AP IP: ReIP
+30876776   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type: local, FW mode: 0, AP IP: ReIP
+30876776   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type: local, FW mode: 0, AP IP: ReIP
+30876776   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type: local, FW mode: 0, AP IP: ReIP
+30635816   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type:  **** , FW mode: 1, AP IP: ReIP
+30635816   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type:  **** , FW mode: 1, AP IP: ReIP
+30635816   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type:  **** , FW mode: 1, AP IP: ReIP
+30635816   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type:  **** , FW mode: 1, AP IP: ReIP
+30635816   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type:  **** , FW mode: 1, AP IP: ReIP
+30635816   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type:  **** , FW mode: 1, AP IP: ReIP
+30635816   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type:  **** , FW mode: 1, AP IP: ReIP
+30635816   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type:  **** , FW mode: 1, AP IP: ReIP
+30635816   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type:  **** , FW mode: 1, AP IP: ReIP
+30635816   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type:  **** , FW mode: 1, AP IP: ReIP
+30635816   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type:  **** , FW mode: 1, AP IP: ReIP
+30632816   ReDate ReTime  authmgr[1453]: <522 **** 04> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type:  **** , FW mode: 0, AP IP: ReIP
+30632816   ReDate ReTime  authmgr[1453]: <522 **** 04> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type:  **** , FW mode: 0, AP IP: ReIP
+30632816   ReDate ReTime  authmgr[1453]: <522 **** 04> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type:  **** , FW mode: 0, AP IP: ReIP
+30632816   ReDate ReTime  authmgr[1453]: <522 **** 04> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type:  **** , FW mode: 0, AP IP: ReIP
+30632816   ReDate ReTime  authmgr[1453]: <522 **** 04> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type:  **** , FW mode: 0, AP IP: ReIP
+30632816   ReDate ReTime  authmgr[1453]: <522 **** 04> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type:  **** , FW mode: 0, AP IP: ReIP
+30632816   ReDate ReTime  authmgr[1453]: <522 **** 04> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type:  **** , FW mode: 0, AP IP: ReIP
+30632816   ReDate ReTime  authmgr[1453]: <522 **** 04> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type:  **** , FW mode: 0, AP IP: ReIP
+30632816   ReDate ReTime  authmgr[1453]: <522 **** 04> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type:  **** , FW mode: 0, AP IP: ReIP
+30632816   ReDate ReTime  authmgr[1453]: <522 **** 04> <DBUG> |authmgr|  MAC=ReMAC ingress  ****  (tunnel  **** , u_encr 1, m_encr 1, slotport 0x1040 , type:  **** , FW mode: 0, AP IP: ReIP
+30402280   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****  IP=ReIP  ****  essid: MFIVAN  ****  type:  ****   **** 
+30402280   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****  IP=ReIP  ****  essid: MFIVAN  ****  type:  ****   **** 
+30402280   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****  IP=ReIP  ****  essid: MFIVAN  ****  type:  ****   **** 
+30402280   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****  IP=ReIP  ****  essid: MFIVAN  ****  type:  ****   **** 
+29361560   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****   ****  mobility  ****  message,  **** 
+29361560   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****   ****  mobility  ****  message,  **** 
+29361560   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****   ****  mobility  ****  message,  **** 
+29361560   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****   ****  mobility  ****  message,  **** 
+29361560   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****   ****  mobility  ****  message,  **** 
+29286320   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  Station  ****  IP=ReIP  ****   ****  essid:   ****   **** 
+29286320   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  Station  ****  IP=ReIP  ****   ****  essid:   ****   **** 
+29286320   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  Station  ****  IP=ReIP  ****   ****  essid:   ****   **** 
+29286320   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  Station  ****  IP=ReIP  ****   ****  essid:   ****   **** 
+29234560   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  ReMAC: station  ****   ****   **** 
+29234560   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  ReMAC: station  ****   ****   **** 
+29234560   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  ReMAC: station  ****   ****   **** 
+29234560   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  ReMAC: station  ****   ****   **** 
+29234560   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  ReMAC: station  ****   ****   **** 
+29234560   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  ReMAC: station  ****   ****   **** 
+29234560   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  ReMAC: station  ****   ****   **** 
+28215240   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****   ****  station  ****   ****  to  **** ,  **** ,  ****  Bssid: ReMAC ,  ****   **** 
+27744160   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****  station  **** 
+27744160   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****  station  **** 
+27744160   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****  station  **** 
+27744160   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****  station  **** 
+27744160   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****  station  **** 
+27744160   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****  station  **** 
+25509000   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****   **** 
+25509000   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****   **** 
+25509000   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****   **** 
+25509000   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****   **** 
+25509000   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****   **** 
+25509000   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****   **** 
+25509000   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****   **** 
+25509000   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****   **** 
+25509000   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****   **** 
+25509000   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****   **** 
+25509000   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  MAC=ReMAC  ****   **** 
+25451680   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC IP=ReIP User entry  ****   ****  request
+25451680   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC IP=ReIP User entry  ****   ****  request
+24614560   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC IP=ReIP User entry  ****  reason=User  ****   **** 
+24614560   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC IP=ReIP User entry  ****   **** 
+24614560   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC IP=ReIP User entry  ****  reason=User  ****   **** 
+24614560   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC IP=ReIP User entry  ****  reason=User  ****   **** 
+24614560   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC IP=ReIP User entry  ****   **** 
+24614560   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC IP=ReIP User entry  ****   **** 
+24614560   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC IP=ReIP User entry  ****   **** 
+24491400   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC IP=ReIP User  ****   **** , VLAN=2
+24491400   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC IP=ReIP User  ****   **** , VLAN=2
+24490720   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC IP=ReIP User  ****   **** , VLAN=1
+24490720   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC IP=ReIP User  ****   **** , VLAN=1
+24394920   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC IP=ReIP  ****  Bridge Entry
+24394920   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC IP=ReIP  ****  Bridge Entry
+24394920   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC IP=ReIP  ****  Bridge Entry
+24394920   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC IP=ReIP  ****  Bridge Entry
+24394920   ReDate ReTime  authmgr[1453]:  ****  <INFO> |authmgr|  MAC=ReMAC IP=ReIP  ****  Bridge Entry
+24038720   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****  from  ****  to  ****   ****  IP=ReIP
+24038720   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****   ****  from  ****  to  ****   ****  IP=ReIP
+24038720   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****   ****  from  ****  to  ****   ****  IP=ReIP
+24038720   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****   ****  from  ****  to  ****   ****  IP=ReIP
+23822176   ReDate ReTime  authmgr[1453] ****  <522004> <DBUG> |authmgr|   ****   ****   ****   ****  user ReIP  ****  to AP : ReMAC,  ****  Bssid: ReMAC
+23822176   ReDate ReTime  authmgr[1453] ****  <522004> <DBUG> |authmgr|   ****   ****   ****   ****  user ReIP  ****  to AP : ReMAC,  ****  Bssid: ReMAC
+23696096   ReDate ReTime  authmgr[1453] ****  <522004> <DBUG> |authmgr|   ****   ****   ****   ****  user ReIP  ****  to AP : ,  ****  Bssid: ReMAC
+23696096   ReDate ReTime  authmgr[1453] ****  <522004> <DBUG> |authmgr|   ****   ****   ****   ****  user ReIP  ****  to AP : ,  ****  Bssid: ReMAC
+23696096   ReDate ReTime  authmgr[1453] ****  <522004> <DBUG> |authmgr|   ****   ****   ****   ****  user ReIP  ****  to AP : ,  ****  Bssid: ReMAC
+23426440   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****   ****  IP=ReIP  **** ,  ****   **** ,  ****   **** 
+23426440   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****   ****  IP=ReIP  **** ,  ****   **** ,  ****   **** 
+23426440   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****   ****  IP=ReIP  **** ,  ****   **** ,  ****   **** 
+23426440   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****  ip=ReIP  ****   **** ,  **** ,  ****   **** ,  **** ,  **** ,  **** ,  **** 
+23426440   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****  ip=ReIP  ****   **** ,  **** ,  ****   **** ,  **** ,  **** ,  **** ,  **** 
+23426440   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****  ip=ReIP  ****   **** ,  **** ,  ****   **** ,  **** ,  **** ,  **** ,  **** 
+23426440   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****   ****  IP=ReIP  **** ,  ****   **** ,  ****   **** 
+23426440   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****  ip=ReIP  ****   **** ,  **** ,  ****   **** ,  **** ,  **** ,  **** ,  **** 
+22880480   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  no  ****  to cleanup
+22880480   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|  no  ****  to cleanup
+22755120   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****  wireless  ****  user  ****   ****   **** 
+22535480   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   **** ,  **** ,  **** ,  ****   ****   ****   ****   ****   ****   **** 
+22535480   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   **** ,  **** ,  **** ,  ****   ****   ****   ****   ****   ****   **** 
+22535480   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****   **** ,  **** 
+22535480   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****   ****   **** 
+22535480   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****   ****   **** 
+22535480   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****   ****   **** 
+22535480   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   **** ,  **** ,  **** ,  ****   ****   ****   ****   ****   ****   **** 
+22535480   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****   ****   **** 
+22535480   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****   ****   ****    ****     **** 
+22535480   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****   ****   ****    ****     **** 
+22535480   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****   ****   **** 
+22535480   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****   **** ,  **** 
+22535480   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****   ****   ****    ****     **** 
+22535480   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****   **** ,  **** 
+22535480   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****   **** ,  **** 
+22535480   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****   **** ,  **** 
+22535480   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****   ****   ****    ****     **** 
+22535480   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   **** ,  **** ,  **** ,  ****   ****   ****   ****   ****   ****   **** 
+22535480   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   ****   **** ,  **** 
+22535480   ReDate ReTime  authmgr[1453]: <522004> <DBUG> |authmgr|   **** ,  **** ,  **** ,  ****   ****   ****   ****   ****   ****   **** 
+18239080   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|  Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN  **** , wmm:1, rsn_cap:0
+18239080   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|  Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN  **** , wmm:1, rsn_cap:0
+18239080   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|  Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN  **** , wmm:1, rsn_cap:0
+18239080   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|  Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN  **** , wmm:1, rsn_cap:0
+18239080   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|  Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN  **** , wmm:1, rsn_cap:0
+18239080   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|  Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN  **** , wmm:1, rsn_cap:0
+18239080   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|  Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN  **** , wmm:1, rsn_cap:0
+18239080   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|  Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN  **** , wmm:1, rsn_cap:0
+18239080   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|  Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN  **** , wmm:1, rsn_cap:0
+18239080   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|  Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN  **** , wmm:1, rsn_cap:0
+18239080   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|  Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN  **** , wmm:1, rsn_cap:0
+18239080   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|  Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN  **** , wmm:1, rsn_cap:0
+18239080   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|  Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN  **** , wmm:1, rsn_cap:0
+18239080   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|  Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN  **** , wmm:1, rsn_cap:0
+18239080   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|  Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN  **** , wmm:1, rsn_cap:0
+18239080   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|  Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN  **** , wmm:1, rsn_cap:0
+18239080   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|  Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN  **** , wmm:1, rsn_cap:0
+18239080   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|  Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN  **** , wmm:1, rsn_cap:0
+18239080   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|  Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN  **** , wmm:1, rsn_cap:0
+18239080   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|  Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN  **** , wmm:1, rsn_cap:0
+18239080   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|  Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN  **** , wmm:1, rsn_cap:0
+18239080   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|  Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN  **** , wmm:1, rsn_cap:0
+18239080   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|  Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN  **** , wmm:1, rsn_cap:0
+18239080   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|  Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN  **** , wmm:1, rsn_cap:0
+18239080   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|  Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN  **** , wmm:1, rsn_cap:0
+18239080   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|  Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN  **** , wmm:1, rsn_cap:0
+18239080   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|  Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN  **** , wmm:1, rsn_cap:0
+18239080   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|  Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN  **** , wmm:1, rsn_cap:0
+18239080   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|  Sending STA ReMAC message to Auth and Mobility Unicast Encr Open Multicast Encr Open VLAN  **** , wmm:1, rsn_cap:0
+17358160   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC  ****  STA  ****   ****  and  ****   **** 
+17358160   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC  ****  STA  ****   ****  and  ****   **** 
+17358160   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC  ****  STA  ****   ****  and  ****   **** 
+17358160   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC  ****  STA  ****   ****  and  ****   **** 
+17358160   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC  ****  STA  ****   ****  and  ****   **** 
+17358160   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC  ****  STA  ****   ****  and  ****   **** 
+17358160   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC  ****  STA  ****   ****  and  ****   **** 
+17358160   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC  ****  STA  ****   ****  and  ****   **** 
+17358160   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC  ****  STA  ****   ****  and  ****   **** 
+17358160   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC  ****  STA  ****   ****  and  ****   **** 
+17358160   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC  ****  STA  ****   ****  and  ****   **** 
+17266200   ReDate ReTime  stm[806]: <501105> <NOTI> |AP ReMAC@ReIP stm|  Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC Reason  ****   ****  is  ****   **** 
+17266200   ReDate ReTime  stm[806]: <501105> <NOTI> |AP ReMAC@ReIP stm|  Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC Reason  ****   ****  is  ****   **** 
+17266200   ReDate ReTime  stm[806]: <501105> <NOTI> |AP ReMAC@ReIP stm|  Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC Reason  ****   ****  is  ****   **** 
+17266200   ReDate ReTime  stm[806]: <501105> <NOTI> |AP ReMAC@ReIP stm|  Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC Reason  ****   ****  is  ****   **** 
+16653840   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+16653840   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+16653840   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+16653840   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+16653840   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+16653840   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+16653840   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+16653840   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+16653840   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+16653840   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+16653840   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+16653840   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+16653840   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+16653840   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+16653840   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+16322240   ReDate ReTime  stm[806]: <501095> <NOTI> |AP ReMAC@ReIP stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+16322240   ReDate ReTime  stm[806]: <501095> <NOTI> |AP ReMAC@ReIP stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+16322240   ReDate ReTime  stm[806]: <501095> <NOTI> |AP ReMAC@ReIP stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+16322240   ReDate ReTime  stm[806]: <501095> <NOTI> |AP ReMAC@ReIP stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+16322240   ReDate ReTime  stm[806]: <501095> <NOTI> |AP ReMAC@ReIP stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+16322240   ReDate ReTime  stm[806]: <501095> <NOTI> |AP ReMAC@ReIP stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+16322240   ReDate ReTime  stm[806]: <501095> <NOTI> |AP ReMAC@ReIP stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+16322240   ReDate ReTime  stm[806]: <501095> <NOTI> |AP ReMAC@ReIP stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+16322240   ReDate ReTime  stm[806]: <501095> <NOTI> |AP ReMAC@ReIP stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+16322240   ReDate ReTime  stm[806]: <501095> <NOTI> |AP ReMAC@ReIP stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+16322240   ReDate ReTime  stm[806]: <501095> <NOTI> |AP ReMAC@ReIP stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+16322240   ReDate ReTime  stm[806]: <501095> <NOTI> |AP ReMAC@ReIP stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+16322240   ReDate ReTime  stm[806]: <501095> <NOTI> |AP ReMAC@ReIP stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+16322240   ReDate ReTime  stm[806]: <501095> <NOTI> |AP ReMAC@ReIP stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+16322240   ReDate ReTime  stm[806]: <501095> <NOTI> |AP ReMAC@ReIP stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+16116960   ReDate ReTime  stm[1454]:  ****  <NOTI> |stm|  Deauth to sta: ReMAC:  ****  AP ReIP-ReMAC-ReMAC STA  ****   ****  and  ****   **** 
+16116960   ReDate ReTime  stm[1454]:  ****  <NOTI> |stm|  Deauth to sta: ReMAC:  ****  AP ReIP-ReMAC-ReMAC STA  ****   ****  and  ****   **** 
+16116960   ReDate ReTime  stm[1454]:  ****  <NOTI> |stm|  Deauth to sta: ReMAC:  ****  AP ReIP-ReMAC-ReMAC STA  ****   ****  and  ****   **** 
+16096496   ReDate ReTime  mobileip[1459]:  ****  <NOTI> |mobileip|  Station ReMAC, ReIP: Mobility  **** , on  ****  ReIP, VLAN 1, AP ReMAC,  **** 
+16096496   ReDate ReTime  mobileip[1459]:  ****  <NOTI> |mobileip|  Station ReMAC, ReIP: Mobility  **** , on  ****  ReIP, VLAN 1, AP ReMAC,  **** 
+16096496   ReDate ReTime  mobileip[1459]:  ****  <NOTI> |mobileip|  Station ReMAC, ReIP: Mobility  **** , on  ****  ReIP, VLAN 1, AP ReMAC,  **** 
+16096496   ReDate ReTime  mobileip[1459]:  ****  <NOTI> |mobileip|  Station ReMAC, ReIP: Mobility  **** , on  ****  ReIP, VLAN 1, AP ReMAC,  **** 
+16093496   ReDate ReTime  mobileip[1459]:  ****  <NOTI> |mobileip|  Station ReMAC, ReIP: Mobility  **** , on  ****  ReIP, VLAN  **** , AP ReMAC,  **** 
+16093496   ReDate ReTime  mobileip[1459]:  ****  <NOTI> |mobileip|  Station ReMAC, ReIP: Mobility  **** , on  ****  ReIP, VLAN  **** , AP ReMAC,  **** 
+16093496   ReDate ReTime  mobileip[1459]:  ****  <NOTI> |mobileip|  Station ReMAC, ReIP: Mobility  **** , on  ****  ReIP, VLAN  **** , AP ReMAC,  **** 
+16093496   ReDate ReTime  mobileip[1459]:  ****  <NOTI> |mobileip|  Station ReMAC, ReIP: Mobility  **** , on  ****  ReIP, VLAN  **** , AP ReMAC,  **** 
+16093496   ReDate ReTime  mobileip[1459]:  ****  <NOTI> |mobileip|  Station ReMAC, ReIP: Mobility  **** , on  ****  ReIP, VLAN  **** , AP ReMAC,  **** 
+16093496   ReDate ReTime  mobileip[1459]:  ****  <NOTI> |mobileip|  Station ReMAC, ReIP: Mobility  **** , on  ****  ReIP, VLAN  **** , AP ReMAC,  **** 
+16093496   ReDate ReTime  mobileip[1459]:  ****  <NOTI> |mobileip|  Station ReMAC, ReIP: Mobility  **** , on  ****  ReIP, VLAN  **** , AP ReMAC,  **** 
+16039240   ReDate ReTime  stm[1454]:  ****  <NOTI> |stm|  Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC  ****  STA  ****   ****  and  ****   **** 
+16039240   ReDate ReTime  stm[1454]:  ****  <NOTI> |stm|  Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC  ****  STA  ****   ****  and  ****   **** 
+15947280   ReDate ReTime  stm[1454]: <501105> <NOTI> |stm|  Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC Reason  ****   ****  is  ****   **** 
+15947280   ReDate ReTime  stm[1454]: <501105> <NOTI> |stm|  Deauth from sta: ReMAC: AP ReIP-ReMAC-ReMAC Reason  ****   ****  is  ****   **** 
+15580080   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Station ReMAC:  ****   ****  found  ****  to  ****  to BSSID ReMAC on AP ReMAC
+15580080   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Station ReMAC:  ****   ****  found  ****  to  ****  to BSSID ReMAC on AP ReMAC
+15580080   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Station ReMAC:  ****   ****  found  ****  to  ****  to BSSID ReMAC on AP ReMAC
+15580080   ReDate ReTime  stm[806]:  ****  <NOTI> |AP ReMAC@ReIP stm|  Station ReMAC:  ****   ****  found  ****  to  ****  to BSSID ReMAC on AP ReMAC
+15553560   ReDate ReTime  stm[1454]:  ****  <NOTI> |stm|  Deauth to sta: ReMAC:  ****  AP ReIP-ReMAC-ReMAC  ****   **** 
+15553560   ReDate ReTime  stm[1454]:  ****  <NOTI> |stm|  Deauth to sta: ReMAC:  ****  AP ReIP-ReMAC-ReMAC  ****   **** 
+15553560   ReDate ReTime  stm[1454]:  ****  <NOTI> |stm|  Deauth to sta: ReMAC:  ****  AP ReIP-ReMAC-ReMAC  ****   **** 
+15553560   ReDate ReTime  stm[1454]:  ****  <NOTI> |stm|  Deauth to sta: ReMAC:  ****  AP ReIP-ReMAC-ReMAC  ****   **** 
+15553560   ReDate ReTime  stm[1454]:  ****  <NOTI> |stm|  Deauth to sta: ReMAC:  ****  AP ReIP-ReMAC-ReMAC  ****   **** 
+15334920   ReDate ReTime  stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+15334920   ReDate ReTime  stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+15334920   ReDate ReTime  stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+15334920   ReDate ReTime  stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+15334920   ReDate ReTime  stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+15334920   ReDate ReTime  stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+15334920   ReDate ReTime  stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+15334920   ReDate ReTime  stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+15334920   ReDate ReTime  stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+15334920   ReDate ReTime  stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+15334920   ReDate ReTime  stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+15334920   ReDate ReTime  stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+15334920   ReDate ReTime  stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+15334920   ReDate ReTime  stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+15334920   ReDate ReTime  stm[1454]:  ****  <NOTI> |stm|  Assoc  ****  @  ****  ReMAC: AP ReIP-ReMAC-ReMAC
+15003320   ReDate ReTime  stm[1454]: <501095> <NOTI> |stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+15003320   ReDate ReTime  stm[1454]: <501095> <NOTI> |stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+15003320   ReDate ReTime  stm[1454]: <501095> <NOTI> |stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+15003320   ReDate ReTime  stm[1454]: <501095> <NOTI> |stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+15003320   ReDate ReTime  stm[1454]: <501095> <NOTI> |stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+15003320   ReDate ReTime  stm[1454]: <501095> <NOTI> |stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+15003320   ReDate ReTime  stm[1454]: <501095> <NOTI> |stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+15003320   ReDate ReTime  stm[1454]: <501095> <NOTI> |stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+15003320   ReDate ReTime  stm[1454]: <501095> <NOTI> |stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+15003320   ReDate ReTime  stm[1454]: <501095> <NOTI> |stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+15003320   ReDate ReTime  stm[1454]: <501095> <NOTI> |stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+15003320   ReDate ReTime  stm[1454]: <501095> <NOTI> |stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+15003320   ReDate ReTime  stm[1454]: <501095> <NOTI> |stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+15003320   ReDate ReTime  stm[1454]: <501095> <NOTI> |stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+15003320   ReDate ReTime  stm[1454]: <501095> <NOTI> |stm|  Assoc request @  ****  ReMAC (SN  ****  AP ReIP-ReMAC-ReMAC
+14625160   ReDate ReTime  stm[806]:  ****  <DBUG> |AP ReMAC@ReIP stm|  Station ReMAC:  ****   **** 
+14625160   ReDate ReTime  stm[806]:  ****  <DBUG> |AP ReMAC@ReIP stm|  Station ReMAC:  ****   **** 
+14625160   ReDate ReTime  stm[806]:  ****  <DBUG> |AP ReMAC@ReIP stm|  Station ReMAC:  ****   **** 
+14625160   ReDate ReTime  stm[806]:  ****  <DBUG> |AP ReMAC@ReIP stm|  Station ReMAC:  ****   **** 
+14625160   ReDate ReTime  stm[806]:  ****  <DBUG> |AP ReMAC@ReIP stm|  Station ReMAC:  ****   **** 
+14625160   ReDate ReTime  stm[806]:  ****  <DBUG> |AP ReMAC@ReIP stm|  Station ReMAC:  ****   **** 
+14625160   ReDate ReTime  stm[806]:  ****  <DBUG> |AP ReMAC@ReIP stm|  Station ReMAC:  ****   **** 
+14625160   ReDate ReTime  stm[806]:  ****  <DBUG> |AP ReMAC@ReIP stm|  Station ReMAC:  ****   **** 
+14625160   ReDate ReTime  stm[806]:  ****  <DBUG> |AP ReMAC@ReIP stm|  Station ReMAC:  ****   **** 
+14625160   ReDate ReTime  stm[806]:  ****  <DBUG> |AP ReMAC@ReIP stm|  Station ReMAC:  ****   **** 
+14625160   ReDate ReTime  stm[806]:  ****  <DBUG> |AP ReMAC@ReIP stm|  Station ReMAC:  ****   **** 
+13306240   ReDate ReTime  stm[1454]:  ****  <DBUG> |stm|  Station ReMAC:  ****   **** 
+13306240   ReDate ReTime  stm[1454]:  ****  <DBUG> |stm|  Station ReMAC:  ****   **** 
+13306240   ReDate ReTime  stm[1454]:  ****  <DBUG> |stm|  Station ReMAC:  ****   **** 
+13306240   ReDate ReTime  stm[1454]:  ****  <DBUG> |stm|  Station ReMAC:  ****   **** 
+13306240   ReDate ReTime  stm[1454]:  ****  <DBUG> |stm|  Station ReMAC:  ****   **** 
+13306240   ReDate ReTime  stm[1454]:  ****  <DBUG> |stm|  Station ReMAC:  ****   **** 
+13306240   ReDate ReTime  stm[1454]:  ****  <DBUG> |stm|  Station ReMAC:  ****   **** 
+13306240   ReDate ReTime  stm[1454]:  ****  <DBUG> |stm|  Station ReMAC:  ****   **** 
+13306240   ReDate ReTime  stm[1454]:  ****  <DBUG> |stm|  Station ReMAC:  ****   **** 
+13306240   ReDate ReTime  stm[1454]:  ****  <DBUG> |stm|  Station ReMAC:  ****   **** 
+13306240   ReDate ReTime  stm[1454]:  ****  <DBUG> |stm|  Station ReMAC:  ****   **** 
+8280320   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|   ****  ReMAC  ****   ****  AP ReMAC to AP ReMAC
+8280320   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|   ****  ReMAC  ****   ****  AP ReMAC to AP ReMAC
+8280320   ReDate ReTime  stm[1454]: <501065> <DBUG> |stm|   ****  ReMAC  ****   ****  AP ReMAC to AP ReMAC
+4278200   ReDate ReTime  stm[1454]:  ****   ****  |stm|   ****   ****   **** ,  ****   ****  ReMAC bssid: ReMAC
+4278200   ReDate ReTime  stm[1454]:  ****   ****  |stm|   ****   ****   **** ,  ****   ****  ReMAC bssid: ReMAC

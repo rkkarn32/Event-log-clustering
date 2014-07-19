@@ -1,0 +1,16 @@
+31980376    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****   ****  station  ****  ReMAC  ****   ****  to AP: ReMAC ,  ****  ReIP  ****  ReIP  **** ,  ****  Bssid:  ReMAC  ,  ****  : ReDigit  **** 
+31907640    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC   ****  Station  ****   ****  to mobility
+31907640    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC   ****  Station  ****   ****  to mobility
+31907640    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC   ****  Station  ****   ****  to mobility
+31907640    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC   ****  Station  ****   ****  to mobility
+31907640    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC   ****  Station  ****   ****  to mobility
+31907640    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC   ****  Station  ****   ****  to mobility
+31907640    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC   ****  Station  ****   ****  to mobility
+31907640    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC   ****  Station  ****   ****  to mobility
+31907640    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC   ****  Station  ****   ****  to mobility
+31907640    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC   ****  Station  ****   ****  to mobility
+31907640    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC   ****  Station  ****   ****  to mobility
+31907640    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC   ****  Station  ****   ****  to mobility
+31907640    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC   ****  Station  ****   ****  to mobility
+31907640    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC   ****  Station  ****   ****  to mobility
+31907640    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC   ****  Station  ****   ****  to mobility

@@ -1,0 +1,1 @@
+12785   ReDate ReTime bridge sshd[**] Received signal (** 1**;=1 **) terminating.

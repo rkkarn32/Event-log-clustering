@@ -1,0 +1,26 @@
+9563408    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Deauth from sta:  ReMAC : AP  ReIP - ReMAC - ReMAC  Reason  ****   ****   ****   ****  valid
+9563408    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Deauth from sta:  ReMAC : AP  ReIP - ReMAC - ReMAC  Reason  ****   ****   ****   ****  valid
+9483608    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Deauth from sta:  ReMAC : AP  ReIP - ReMAC - ReMAC  Reason STA  ****   ****  and  ****   **** 
+9483608    ReDate   ReTime   stm[1454]:  ****  <NOTI> |stm|  Deauth from sta:  ReMAC : AP  ReIP - ReMAC - ReMAC  Reason STA  ****   ****  and  ****   **** 
+9418880    ReDate   ReTime   stm[1454]: <501065> <DBUG> |stm|   ****   ReMAC   ****   ****  AP  ReMAC  to AP  ReMAC 
+9418880    ReDate   ReTime   stm[1454]: <501065> <DBUG> |stm|   ****   ReMAC   ****   ****  AP  ReMAC  to AP  ReMAC 
+9418880    ReDate   ReTime   stm[1454]: <501065> <DBUG> |stm|   ****   ReMAC   ****   ****  AP  ReMAC  to AP  ReMAC 
+9408176    ReDate   ReTime   stm[806]: <501095> <NOTI> |AP  ReMAC @ ReIP  stm|  Assoc request @  ReTime  ****   ReMAC  (SN  ****  AP  ReIP - ReMAC - ReMAC 
+9408176    ReDate   ReTime   stm[806]: <501095> <NOTI> |AP  ReMAC @ ReIP  stm|  Assoc request @  ReTime  ****   ReMAC  (SN  ****  AP  ReIP - ReMAC - ReMAC 
+9408176    ReDate   ReTime   stm[806]: <501095> <NOTI> |AP  ReMAC @ ReIP  stm|  Assoc request @  ReTime  ****   ReMAC  (SN  ****  AP  ReIP - ReMAC - ReMAC 
+9408176    ReDate   ReTime   stm[806]: <501095> <NOTI> |AP  ReMAC @ ReIP  stm|  Assoc request @  ReTime  ****   ReMAC  (SN  ****  AP  ReIP - ReMAC - ReMAC 
+9408176    ReDate   ReTime   stm[806]: <501095> <NOTI> |AP  ReMAC @ ReIP  stm|  Assoc request @  ReTime  ****   ReMAC  (SN  ****  AP  ReIP - ReMAC - ReMAC 
+9408176    ReDate   ReTime   stm[806]: <501095> <NOTI> |AP  ReMAC @ ReIP  stm|  Assoc request @  ReTime  ****   ReMAC  (SN  ****  AP  ReIP - ReMAC - ReMAC 
+9408176    ReDate   ReTime   stm[806]: <501095> <NOTI> |AP  ReMAC @ ReIP  stm|  Assoc request @  ReTime  ****   ReMAC  (SN  ****  AP  ReIP - ReMAC - ReMAC 
+9408176    ReDate   ReTime   stm[806]: <501095> <NOTI> |AP  ReMAC @ ReIP  stm|  Assoc request @  ReTime  ****   ReMAC  (SN  ****  AP  ReIP - ReMAC - ReMAC 
+9408176    ReDate   ReTime   stm[806]: <501095> <NOTI> |AP  ReMAC @ ReIP  stm|  Assoc request @  ReTime  ****   ReMAC  (SN  ****  AP  ReIP - ReMAC - ReMAC 
+9408176    ReDate   ReTime   stm[806]: <501095> <NOTI> |AP  ReMAC @ ReIP  stm|  Assoc request @  ReTime  ****   ReMAC  (SN  ****  AP  ReIP - ReMAC - ReMAC 
+9408176    ReDate   ReTime   stm[806]: <501095> <NOTI> |AP  ReMAC @ ReIP  stm|  Assoc request @  ReTime  ****   ReMAC  (SN  ****  AP  ReIP - ReMAC - ReMAC 
+9408176    ReDate   ReTime   stm[806]: <501095> <NOTI> |AP  ReMAC @ ReIP  stm|  Assoc request @  ReTime  ****   ReMAC  (SN  ****  AP  ReIP - ReMAC - ReMAC 
+9408176    ReDate   ReTime   stm[806]: <501095> <NOTI> |AP  ReMAC @ ReIP  stm|  Assoc request @  ReTime  ****   ReMAC  (SN  ****  AP  ReIP - ReMAC - ReMAC 
+9408176    ReDate   ReTime   stm[806]: <501095> <NOTI> |AP  ReMAC @ ReIP  stm|  Assoc request @  ReTime  ****   ReMAC  (SN  ****  AP  ReIP - ReMAC - ReMAC 
+9408176    ReDate   ReTime   stm[806]: <501095> <NOTI> |AP  ReMAC @ ReIP  stm|  Assoc request @  ReTime  ****   ReMAC  (SN  ****  AP  ReIP - ReMAC - ReMAC 
+9317256    ReDate   ReTime   stm[806]:  ****  <NOTI> |AP  ReMAC @ ReIP  stm|  Deauth from sta:  ReMAC : AP  ReIP - ReMAC - ReMAC  Reason  ****   ****  is  ****  valid
+9317256    ReDate   ReTime   stm[806]:  ****  <NOTI> |AP  ReMAC @ ReIP  stm|  Deauth from sta:  ReMAC : AP  ReIP - ReMAC - ReMAC  Reason  ****   ****  is  ****  valid
+9317256    ReDate   ReTime   stm[806]:  ****  <NOTI> |AP  ReMAC @ ReIP  stm|  Deauth from sta:  ReMAC : AP  ReIP - ReMAC - ReMAC  Reason  ****   ****  is  ****  valid
+9317256    ReDate   ReTime   stm[806]:  ****  <NOTI> |AP  ReMAC @ ReIP  stm|  Deauth from sta:  ReMAC : AP  ReIP - ReMAC - ReMAC  Reason  ****   ****  is  ****  valid

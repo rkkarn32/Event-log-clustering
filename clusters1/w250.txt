@@ -1,0 +1,2 @@
+7171   ReDate ReTime bridge apmd (** apmd=4 **) shutdown succeeded
+7171   ReDate ReTime bastion crond (** crond=4 **) startup succeeded

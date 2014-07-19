@@ -1,0 +1,3 @@
+10315   ReDate ReTime bastion snortd snort startup succeeded
+10315   ReDate ReTime bastion snortd snort startup succeeded
+10315   ReDate ReTime bastion snortd snort startup succeeded

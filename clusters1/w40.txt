@@ -1,0 +1,1 @@
+43761   ReDate ReTime bastion kernel ide**: BM-DMA at 0xffa**-0xffa** BIOS settings: hda:DMA hdb:DMA

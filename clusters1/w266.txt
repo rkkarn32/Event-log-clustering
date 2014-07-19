@@ -1,0 +1,2 @@
+6679   ReDate ReTime bridge ntpd (** ntpd=12 **) startup succeeded
+6679   ReDate ReTime bridge ntpd (** ntpd=12 **) startup succeeded

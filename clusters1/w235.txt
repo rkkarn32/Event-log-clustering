@@ -1,0 +1,2 @@
+8029   ReDate ReTime bastion syslog (** syslogd=13 **) startup succeeded
+8029   ReDate ReTime bastion syslog (** syslogd=13 **) startup succeeded

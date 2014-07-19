@@ -1,0 +1,36 @@
+35223368    ReDate   ReTime   mobileip[1459]: <500511> <DBUG> |mobileip|  Station  ReMAC ,  ReIP : Received  ****  on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name  ReMAC  Group Mazin-Vancouver BSSID  ReMAC , phy g, VLAN ReDigit 
+35223368    ReDate   ReTime   mobileip[1459]: <500511> <DBUG> |mobileip|  Station  ReMAC ,  ReIP : Received  ****  on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name  ReMAC  Group Mazin-Vancouver BSSID  ReMAC , phy g, VLAN ReDigit 
+35223368    ReDate   ReTime   mobileip[1459]: <500511> <DBUG> |mobileip|  Station  ReMAC ,  ReIP : Received  ****  on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name  ReMAC  Group Mazin-Vancouver BSSID  ReMAC , phy g, VLAN ReDigit 
+35223368    ReDate   ReTime   mobileip[1459]: <500511> <DBUG> |mobileip|  Station  ReMAC ,  ReIP : Received  ****  on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name  ReMAC  Group Mazin-Vancouver BSSID  ReMAC , phy g, VLAN ReDigit 
+35223368    ReDate   ReTime   mobileip[1459]: <500511> <DBUG> |mobileip|  Station  ReMAC ,  ReIP : Received  ****  on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name  ReMAC  Group Mazin-Vancouver BSSID  ReMAC , phy g, VLAN ReDigit 
+35223368    ReDate   ReTime   mobileip[1459]: <500511> <DBUG> |mobileip|  Station  ReMAC ,  ReIP : Received  ****  on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name  ReMAC  Group Mazin-Vancouver BSSID  ReMAC , phy g, VLAN ReDigit 
+35223368    ReDate   ReTime   mobileip[1459]: <500511> <DBUG> |mobileip|  Station  ReMAC ,  ReIP : Received  ****  on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name  ReMAC  Group Mazin-Vancouver BSSID  ReMAC , phy g, VLAN ReDigit 
+35223368    ReDate   ReTime   mobileip[1459]: <500511> <DBUG> |mobileip|  Station  ReMAC ,  ReIP : Received  ****  on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name  ReMAC  Group Mazin-Vancouver BSSID  ReMAC , phy g, VLAN ReDigit 
+35223368    ReDate   ReTime   mobileip[1459]: <500511> <DBUG> |mobileip|  Station  ReMAC ,  ReIP : Received  ****  on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name  ReMAC  Group Mazin-Vancouver BSSID  ReMAC , phy g, VLAN ReDigit 
+35223368    ReDate   ReTime   mobileip[1459]: <500511> <DBUG> |mobileip|  Station  ReMAC ,  ReIP : Received  ****  on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name  ReMAC  Group Mazin-Vancouver BSSID  ReMAC , phy g, VLAN ReDigit 
+35223368    ReDate   ReTime   mobileip[1459]: <500511> <DBUG> |mobileip|  Station  ReMAC ,  ReIP : Received  ****  on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name  ReMAC  Group Mazin-Vancouver BSSID  ReMAC , phy g, VLAN ReDigit 
+35223368    ReDate   ReTime   mobileip[1459]: <500511> <DBUG> |mobileip|  Station  ReMAC ,  ReIP : Received  ****  on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name  ReMAC  Group Mazin-Vancouver BSSID  ReMAC , phy g, VLAN ReDigit 
+35223368    ReDate   ReTime   mobileip[1459]: <500511> <DBUG> |mobileip|  Station  ReMAC ,  ReIP : Received  ****  on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name  ReMAC  Group Mazin-Vancouver BSSID  ReMAC , phy g, VLAN ReDigit 
+35223368    ReDate   ReTime   mobileip[1459]: <500511> <DBUG> |mobileip|  Station  ReMAC ,  ReIP : Received  ****  on ESSID: MFIVAN Mobility service ON, HA Discovery on Association Off, Fastroaming Disabled, AP: Name  ReMAC  Group Mazin-Vancouver BSSID  ReMAC , phy g, VLAN ReDigit 
+34944240    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid= ReMAC ,  **** =1, @= **** 
+34944240    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid= ReMAC ,  **** =1, @= **** 
+34944240    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid= ReMAC ,  **** =1, @= **** 
+34944240    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid= ReMAC ,  **** =1, @= **** 
+34944240    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid= ReMAC ,  **** =1, @= **** 
+34944240    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid= ReMAC ,  **** =1, @= **** 
+34944240    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid= ReMAC ,  **** =1, @= **** 
+34944240    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid= ReMAC ,  **** =1, @= **** 
+34944240    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid= ReMAC ,  **** =1, @= **** 
+34944240    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid= ReMAC ,  **** =1, @= **** 
+34944240    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid= ReMAC ,  **** =1, @= **** 
+34944240    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid= ReMAC ,  **** =1, @= **** 
+34944240    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid= ReMAC ,  **** =1, @= **** 
+34944240    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid= ReMAC ,  **** =1, @= **** 
+34944240    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid= ReMAC ,  **** =1, @= **** 
+34944240    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid= ReMAC ,  **** =1, @= **** 
+34944240    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid= ReMAC ,  **** =1, @= **** 
+34944240    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid= ReMAC ,  **** =1, @= **** 
+34944240    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid= ReMAC ,  **** =1, @= **** 
+34944240    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid= ReMAC ,  **** =1, @= **** 
+34944240    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid= ReMAC ,  **** =1, @= **** 
+34944240    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  station  ****   ****  station  ****  bssid= ReMAC ,  **** =1, @= **** 

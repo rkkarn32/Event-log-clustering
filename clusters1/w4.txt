@@ -1,0 +1,11 @@
+30317840    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC   ****  ReDigit  ****   ****  ReDigit  ****  ReDigit  ****  ReDigit 
+30317840    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC   ****  ReDigit  ****   ****  ReDigit  ****  ReDigit  ****  ReDigit 
+30317840    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC   ****  ReDigit  ****   ****  ReDigit  ****  ReDigit  ****  ReDigit 
+30317840    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC   ****  ReDigit  ****   ****  ReDigit  ****  ReDigit  ****  ReDigit 
+30317840    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC   ****  ReDigit  ****   ****  ReDigit  ****  ReDigit  ****  ReDigit 
+30317840    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC   ****  ReDigit  ****   ****  ReDigit  ****  ReDigit  ****  ReDigit 
+30317840    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC   ****  ReDigit  ****   ****  ReDigit  ****  ReDigit  ****  ReDigit 
+30317840    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC   ****  ReDigit  ****   ****  ReDigit  ****  ReDigit  ****  ReDigit 
+30317840    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC   ****  ReDigit  ****   ****  ReDigit  ****  ReDigit  ****  ReDigit 
+30317840    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC   ****  ReDigit  ****   ****  ReDigit  ****  ReDigit  ****  ReDigit 
+30317840    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|  MAC= ReMAC   ****  ReDigit  ****   ****  ReDigit  ****  ReDigit  ****  ReDigit 

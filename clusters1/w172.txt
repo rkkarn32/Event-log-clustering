@@ -1,0 +1,1 @@
+12447   ReDate ReTime bastion syslog syslogd shutdown succeeded

@@ -1,0 +1,2 @@
+6766   ReDate ReTime bastion sshd[**] (** Connection=2 **) closed by ReIP
+6766   ReDate ReTime bastion sshd[**] (** Connection=2 **) closed by ReIP

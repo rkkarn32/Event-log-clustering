@@ -1,0 +1,153 @@
+Oct  4 08:16:01  webui[1278]: USER:admin@192.168.100.205 COMMAND:<wlan ssid-profile "MFI-SSID" > -- command executed successfully 
+Oct  4 08:16:01  webui[1278]: USER:admin@192.168.100.205 COMMAND:<wlan ssid-profile "MFI-SSID" opmode opensystem > -- command executed successfully 
+Oct  4 08:16:25  webui[1278]: USER:admin@192.168.100.205 COMMAND:<wlan ssid-profile "MFI-SSID" > -- command executed successfully 
+Oct  4 08:16:25  webui[1278]: USER:admin@192.168.100.205 COMMAND:<wlan ssid-profile "MFI-SSID" wpa-passphrase  ******  > -- command executed successfully 
+Oct  4 08:16:25  webui[1278]: USER:admin@192.168.100.205 COMMAND:<wlan ssid-profile "MFI-SSID" opmode wpa2-psk-aes > -- command execution failed 
+Oct  4 08:17:17  webui[1278]: USER:admin@192.168.100.205 COMMAND:<aaa profile "MFI-Default-AAA" > -- command executed successfully 
+Oct  4 08:17:17  webui[1278]: USER:admin@192.168.100.205 COMMAND:<aaa profile "MFI-Default-AAA" authentication-dot1x "default-psk" > -- command executed successfully 
+Oct  4 08:18:30  webui[1278]: USER:admin@192.168.100.205 COMMAND:<wlan ssid-profile "MFI-SSID" > -- command executed successfully 
+Oct  4 08:18:30  webui[1278]: USER:admin@192.168.100.205 COMMAND:<wlan ssid-profile "MFI-SSID" wpa-passphrase  ******  > -- command executed successfully 
+Oct  4 08:18:30  webui[1278]: USER:admin@192.168.100.205 COMMAND:<wlan ssid-profile "MFI-SSID" opmode wpa2-psk-aes > -- command executed successfully 
+Oct  4 08:19:39  webui[1278]: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 08:20:23  webui[1278]: USER:admin@192.168.100.205 COMMAND:<ap-group "Mazin-Vancouver" > -- command executed successfully 
+Oct  4 08:20:23  webui[1278]: USER:admin@192.168.100.205 COMMAND:<ap-group "Mazin-Vancouver" virtual-ap "MFI-VAP" > -- command executed successfully 
+Oct  4 08:20:37  webui[1278]: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 10:51:18  fpcli: USER: admin has logged in from 192.168.100.205. 
+Oct  4 11:37:32  fpcli: USER:admin@192.168.100.205 COMMAND:<arp 192.168.2.242 00:23:68:ac:b7:64 > -- command executed successfully 
+Oct  4 11:38:29  fpcli: USER:admin@192.168.100.205 COMMAND:<no arp 192.168.2.242 > -- command executed successfully 
+Oct  4 11:58:44  fpcli: USER:admin@192.168.100.205 COMMAND:<ap-regroup ap-name "00:24:6c:c7:fa:10" "Mazin-Vancouver" > -- command executed successfully 
+Oct  4 11:59:48  fpcli: USER:admin@192.168.100.205 COMMAND:<apboot ip-addr 192.168.1.68 > -- command executed successfully 
+Oct  4 12:42:35  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan virtual-ap "MFI-VAP" > -- command executed successfully 
+Oct  4 12:42:46  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan virtual-ap "test" > -- command executed successfully 
+Oct  4 12:42:56  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan virtual-ap "test" clone "MFI-VAP" > -- command executed successfully 
+Oct  4 12:43:03  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 12:43:08  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan virtual-ap "test" no ssid-profile > -- command executed successfully 
+Oct  4 12:43:25  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan ssid-profile "test" > -- command executed successfully 
+Oct  4 12:43:30  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan ssid-profile "test" essid "test" > -- command executed successfully 
+Oct  4 12:43:43  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan virtual-ap "test" > -- command executed successfully 
+Oct  4 12:43:46  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan virtual-ap "test" ssid-profile "test" > -- command executed successfully 
+Oct  4 12:43:50  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 12:44:22  fpcli: USER:admin@192.168.100.205 COMMAND:<ap-group "Mazin-Vancouver" virtual-ap "test" > -- command executed successfully 
+Oct  4 12:44:25  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 12:55:01  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan ssid-profile "test" > -- command executed successfully 
+Oct  4 12:55:42  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan ssid-profile "test" wpa-passphrase  ******  > -- command executed successfully 
+Oct  4 12:55:51  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan ssid-profile "test" opmode wpa2-psk-aes > -- command executed successfully 
+Oct  4 12:55:55  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 12:58:04  fpcli: USER:admin@192.168.100.205 COMMAND:<aaa profile "MFI-Default-AAA" > -- command executed successfully 
+Oct  4 12:58:16  fpcli: USER:admin@192.168.100.205 COMMAND:<aaa profile "MFI-Default-AAA" no dot1x-server-group > -- command executed successfully 
+Oct  4 12:58:23  fpcli: USER:admin@192.168.100.205 COMMAND:<aaa profile "MFI-Default-AAA" no dot1x-default-role > -- command executed successfully 
+Oct  4 12:58:27  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 13:03:49  fpcli: USER:admin@192.168.100.205 COMMAND:<aaa profile "test" > -- command executed successfully 
+Oct  4 13:04:01  fpcli: USER:admin@192.168.100.205 COMMAND:<aaa profile "test" authentication-dot1x "default-psk" > -- command executed successfully 
+Oct  4 13:04:07  fpcli: USER:admin@192.168.100.205 COMMAND:<aaa profile "test" > -- command executed successfully 
+Oct  4 13:04:13  fpcli: USER:admin@192.168.100.205 COMMAND:<aaa profile "test" initial-role "authenticated" > -- command executed successfully 
+Oct  4 13:04:20  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 13:04:41  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan virtual-ap "test" aaa-profile "test" > -- command executed successfully 
+Oct  4 13:04:45  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 13:08:55  fpcli: USER:admin@192.168.100.205 COMMAND:<vlan 3 > -- command executed successfully 
+Oct  4 13:09:01  fpcli: USER:admin@192.168.100.205 COMMAND:<interface vlan 3 > -- command executed successfully 
+Oct  4 13:09:15  fpcli: USER:admin@192.168.100.205 COMMAND:<interface vlan 3 ip address 192.168.3.254 255.255.255.0 > -- command executed successfully 
+Oct  4 13:09:21  fpcli: USER:admin@192.168.100.205 COMMAND:<interface vlan 3 no shutdown > -- command executed successfully 
+Oct  4 13:09:24  fpcli: USER:admin@192.168.100.205 COMMAND:<interface vlan 3 operstate up > -- command executed successfully 
+Oct  4 13:09:28  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 13:09:35  fpcli: USER:admin@192.168.100.205 COMMAND:<ip dhcp pool "v3" > -- command executed successfully 
+Oct  4 13:09:49  fpcli: USER:admin@192.168.100.205 COMMAND:<ip dhcp pool "v3" network "192.168.3.0" "255.255.255.0" > -- command executed successfully 
+Oct  4 13:10:05  fpcli: USER:admin@192.168.100.205 COMMAND:<ip dhcp pool "v3" default-router 192.168.3.254 > -- command executed successfully 
+Oct  4 13:10:10  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 13:10:44  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan virtual-ap "test" vlan "3" > -- command executed successfully 
+Oct  4 13:10:48  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 13:11:29  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan virtual-ap "MFIV-VAP" vlan "3" > -- command executed successfully 
+Oct  4 13:11:33  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 13:12:09  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan ssid-profile "test" opmode opensystem > -- command executed successfully 
+Oct  4 13:12:12  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 13:12:38  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan ssid-profile "test" no wpa-passphrase  ****** > -- command executed successfully 
+Oct  4 13:12:42  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 13:37:54  fpcli: USER:admin@192.168.100.205 COMMAND:<arp 192.168.3.252 00:23:68:ac:b7:64 > -- command executed successfully 
+Oct  4 13:58:52  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan virtual-ap "MFIV-VAP" > -- command executed successfully 
+Oct  4 13:59:07  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan virtual-ap "MFIV-VAP" no vlan > -- command executed successfully 
+Oct  4 13:59:11  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan virtual-ap "MFIV-VAP" vlan "2" > -- command executed successfully 
+Oct  4 13:59:36  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 14:01:25  fpcli: USER:admin@192.168.100.205 COMMAND:<ap-group "Mazin-8150" > -- command executed successfully 
+Oct  4 14:01:29  fpcli: USER:admin@192.168.100.205 COMMAND:<ap-group "Mazin-8150" virtual-ap "MFIV-VAP" > -- command executed successfully 
+Oct  4 14:01:33  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 14:11:43  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan ssid-profile "MFIVAN-SSID" > -- command executed successfully 
+Oct  4 14:11:49  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan ssid-profile "MFIVAN-SSID" no deny-bcast > -- command executed successfully 
+Oct  4 14:11:55  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan ssid-profile "MFIVAN-SSID" no hide-ssid > -- command executed successfully 
+Oct  4 14:11:59  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 14:43:38  fpcli: USER:admin@192.168.100.205 COMMAND:<ap-group "Mazin-8150" > -- command executed successfully 
+Oct  4 14:43:56  fpcli: USER:admin@192.168.100.205 COMMAND:<ap-group "Mazin-8150" no virtual-ap "MFIV-VAP" > -- command executed successfully 
+Oct  4 14:44:11  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 14:44:46  fpcli: USER:admin@192.168.100.205 COMMAND:<aaa user delete 192.168.2.248 > -- command executed successfully 
+Oct  4 14:48:20  fpcli: USER:admin@192.168.100.205 COMMAND:<logging level debugging user-debug 00:23:68:ac:b8:b7 > -- command executed successfully 
+Oct  4 14:48:43  fpcli: USER:admin@192.168.100.205 COMMAND:<logging level debugging user-debug 00:23:68:ac:b7:64 > -- command executed successfully 
+Oct  4 14:58:15  fpcli: USER:admin@192.168.100.205 COMMAND:<firewall amsdu > -- command executed successfully 
+Oct  4 14:58:20  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 15:02:33  fpcli: USER:admin@192.168.100.205 COMMAND:<no wlan virtual-ap "test" > -- command execution failed 
+Oct  4 15:05:04  fpcli: USER:admin@192.168.100.205 COMMAND:<ap-group "Mazin-Vancouver" > -- command executed successfully 
+Oct  4 15:05:08  fpcli: USER:admin@192.168.100.205 COMMAND:<ap-group "Mazin-Vancouver" no virtual-ap "test" > -- command executed successfully 
+Oct  4 15:05:14  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 15:05:24  fpcli: USER:admin@192.168.100.205 COMMAND:<no wlan virtual-ap "test" > -- command executed successfully 
+Oct  4 15:05:37  fpcli: USER:admin@192.168.100.205 COMMAND:<no wlan ssid-profile "test" > -- command executed successfully 
+Oct  4 15:05:48  fpcli: USER:admin@192.168.100.205 COMMAND:<no aaa profile "test" > -- command executed successfully 
+Oct  4 15:05:53  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 15:06:53  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan virtual-ap "test" > -- command executed successfully 
+Oct  4 15:07:04  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan virtual-ap "test" clone "MFIV-Voice-VAP" > -- command executed successfully 
+Oct  4 15:08:24  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan ssid-profile "test" > -- command executed successfully 
+Oct  4 15:09:01  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan ssid-profile "test" clone "MFIVAN-SSID" > -- command executed successfully 
+Oct  4 15:09:23  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan virtual-ap "test" > -- command executed successfully 
+Oct  4 15:09:27  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan virtual-ap "test" ssid-profile "test" > -- command executed successfully 
+Oct  4 15:15:58  fpcli: USER:admin@192.168.100.205 COMMAND:<aaa profile "test" > -- command executed successfully 
+Oct  4 15:16:02  fpcli: USER:admin@192.168.100.205 COMMAND:<aaa profile "test" initial-role "authenticated" > -- command executed successfully 
+Oct  4 15:16:06  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 15:16:39  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan virtual-ap "test" > -- command executed successfully 
+Oct  4 15:16:44  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan virtual-ap "test" aaa-profile "test" > -- command executed successfully 
+Oct  4 15:16:48  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 15:17:47  fpcli: USER:admin@192.168.100.205 COMMAND:<ap-group "Mazin-8150" > -- command executed successfully 
+Oct  4 15:17:51  fpcli: USER:admin@192.168.100.205 COMMAND:<ap-group "Mazin-8150" virtual-ap "test" > -- command executed successfully 
+Oct  4 15:18:04  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 15:18:27  fpcli: USER:admin@192.168.100.205 COMMAND:<ap-group "Mazin-8150" > -- command executed successfully 
+Oct  4 15:18:31  fpcli: USER:admin@192.168.100.205 COMMAND:<ap-group "Mazin-8150" no virtual-ap "test" > -- command executed successfully 
+Oct  4 15:19:41  fpcli: USER:admin@192.168.100.205 COMMAND:<ap-group "Mazin-Vancouver" > -- command executed successfully 
+Oct  4 15:19:54  fpcli: USER:admin@192.168.100.205 COMMAND:<ap-group "Mazin-Vancouver" no virtual-ap "MFIV-VAP" > -- command executed successfully 
+Oct  4 15:19:59  fpcli: USER:admin@192.168.100.205 COMMAND:<ap-group "Mazin-Vancouver" virtual-ap "test" > -- command executed successfully 
+Oct  4 15:20:02  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 15:20:42  fpcli: USER:admin@192.168.100.205 COMMAND:<rf dot11g-radio-profile "default" > -- command executed successfully 
+Oct  4 15:20:45  fpcli: USER:admin@192.168.100.205 COMMAND:<rf dot11g-radio-profile "default" no high-throughput-enable > -- command executed successfully 
+Oct  4 15:20:52  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 15:27:21  fpcli: USER:admin@192.168.100.205 COMMAND:<no arp 192.168.3.252 > -- command executed successfully 
+Oct  4 15:41:08  fpcli: USER:admin@192.168.100.205 COMMAND:<rf dot11g-radio-profile "default" > -- command executed successfully 
+Oct  4 15:41:10  fpcli: USER:admin@192.168.100.205 COMMAND:<rf dot11g-radio-profile "default" high-throughput-enable > -- command executed successfully 
+Oct  4 15:41:21  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 15:42:14  fpcli: USER:admin@192.168.100.205 COMMAND:<dir > -- command executed successfully 
+Oct  4 16:12:43  fpcli: USER: admin connected from 192.168.100.205 has logged out. 
+Oct  4 16:26:37  webui[1278]: USER:admin@192.168.100.205 COMMAND:<am scan 192.168.1.62 "11" bssid 00:24:6c:ff:a2:90 > -- command executed successfully 
+Oct  4 16:27:10  webui[1278]: USER:admin@192.168.100.205 COMMAND:<am scan 192.168.1.62 "11" bssid 00:24:6c:ff:a2:90 > -- command executed successfully 
+Oct  4 16:28:08  fpcli: USER: admin has logged in from 192.168.100.205. 
+Oct  4 16:29:13  webui[1278]: USER: Error Executing the Command 
+Oct  4 16:29:13  webui[1278]: USER:admin@192.168.100.205 COMMAND:<am scan 192.168.1.62 "11" bssid 00:24:6c:ff:a2:90 > -- command execution failed 
+Oct  4 16:39:42  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan dot11k-profile "default" > -- command executed successfully 
+Oct  4 16:40:04  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan dot11k-profile "default" dot11k-enable > -- command executed successfully 
+Oct  4 16:40:10  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 16:52:37  fpcli: USER:admin@192.168.100.205 COMMAND:<aaa user delete 192.168.1.56 > -- command execution failed 
+Oct  4 16:52:52  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan virtual-ap "test" > -- command executed successfully 
+Oct  4 16:52:57  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan virtual-ap "test" forward-mode tunnel > -- command executed successfully 
+Oct  4 16:53:00  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan virtual-ap "test" no vlan > -- command executed successfully 
+Oct  4 16:53:13  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan virtual-ap "test" vlan "2" > -- command executed successfully 
+Oct  4 16:53:17  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 16:53:33  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan dot11k-profile "default" > -- command executed successfully 
+Oct  4 16:53:59  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan dot11k-profile "default" no dot11k-enable > -- command executed successfully 
+Oct  4 16:54:05  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 17:01:17  fpcli: USER:admin@192.168.100.205 COMMAND:<aaa user delete 192.168.2.247 > -- command executed successfully 
+Oct  4 17:05:13  fpcli: USER:admin@192.168.100.205 COMMAND:<aaa user delete 192.168.100.53 > -- command executed successfully 
+Oct  4 17:16:04  fpcli: USER:admin@192.168.100.205 COMMAND:<aaa user delete 192.168.2.247 > -- command executed successfully 
+Oct  4 17:25:48  fpcli: USER:admin@192.168.100.205 COMMAND:<aaa user delete 192.168.2.242 > -- command executed successfully 
+Oct  4 17:25:56  fpcli: USER:admin@192.168.100.205 COMMAND:<aaa user delete 192.168.2.243 > -- command executed successfully 
+Oct  4 17:26:04  fpcli: USER:admin@192.168.100.205 COMMAND:<aaa user delete 192.168.2.247 > -- command executed successfully 
+Oct  4 17:34:14  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan virtual-ap "test" > -- command executed successfully 
+Oct  4 17:34:17  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan virtual-ap "test" no vlan > -- command executed successfully 
+Oct  4 17:34:27  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan virtual-ap "test" vlan "1" > -- command executed successfully 
+Oct  4 17:34:33  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 17:34:42  fpcli: USER:admin@192.168.100.205 COMMAND:<wlan virtual-ap "test" forward-mode bridge > -- command executed successfully 
+Oct  4 17:34:47  fpcli: USER:admin@192.168.100.205 COMMAND:<write memory > -- command executed successfully 
+Oct  4 17:37:16  fpcli: USER:admin@192.168.100.205 COMMAND:<aaa user delete 169.254.146.109 > -- command execution failed 
+Oct  4 18:15:32  fpcli: USER: admin connected from 192.168.100.205 has logged out. 

@@ -1,0 +1,160 @@
+Oct  4 07:44:17  fpapps[1424]: <315382> <CRIT> |fpapps|  Reboot Cause: User reboot. 
+Oct  4 07:44:21  KERNEL: klogd started: BusyBox v1.01 (2011.03.02-01:03+0000)
+Oct  4 07:44:21  KERNEL: 0:<5>0:
+Oct  4 07:44:21  KERNEL: Aruba Networks
+Oct  4 07:44:21  KERNEL: ArubaOS Version 5.0.3.1 (build 27266 / label #27266) 
+Oct  4 07:44:21  KERNEL: Built by p4build@cyprus on 2011-03-01 at 17:09:29 PST (gcc version 3.4.3)
+Oct  4 07:44:21  KERNEL: 0:Using default Mac address
+Oct  4 07:44:21  KERNEL: 0:prom_init: envp[0] = [BOARD=NEBBIOLO]
+Oct  4 07:44:21  KERNEL: 0:<5>511MB HIGHMEM available.
+Oct  4 07:44:21  KERNEL: 0:<7>On node 0 totalpages: 262112
+Oct  4 07:44:21  KERNEL: 0:<7>  DMA zone: 131072 pages, LIFO batch:31
+Oct  4 07:44:21  KERNEL: 0:<7>  DMA32 zone: 0 pages, LIFO batch:0
+Oct  4 07:44:21  KERNEL: 0:<7>  Normal zone: 0 pages, LIFO batch:0
+Oct  4 07:44:21  KERNEL: 0:<7>  HighMem zone: 131040 pages, LIFO batch:31
+Oct  4 07:44:21  KERNEL: 0:(PROM) CPU present map: f SOS_CPU_MAP: 0xfff0 online CPUs: 0xffff cli_cpu:6
+Oct  4 07:44:21  KERNEL: 0:Phys CPU present map: f, possible map f
+Oct  4 07:44:21  KERNEL: 0:Detected 3 Slave CPU(s)
+Oct  4 07:44:21  KERNEL: 0:<6>LTT : ltt-base init
+Oct  4 07:44:21  KERNEL: 0:Primary instruction cache 32kB, 8-way, linesize 32 bytes.
+Oct  4 07:44:21  KERNEL: 0:Primary data cache 32kB 8-way, linesize 32 bytes.
+Oct  4 07:44:21  KERNEL: 0:mips_hpt_frequency = 800000000
+Oct  4 07:44:21  KERNEL: 0:Using 800.000 MHz high precision timer. cycles_per_jiffy=8000000
+Oct  4 07:44:21  KERNEL: 0:phoenix_timer_setup: non_core_cpus:3 Maxval:3640e mask:e
+Oct  4 07:44:21  KERNEL: 0:phoenix_timer_setup: phoenix_timer_stats = 82798a80, phoenix_timer_diff = 82798b00, 
+Oct  4 07:44:21  KERNEL:     phoenix_timer_count = 82798b80, phoenix_timer_epc = 82798c00, 
+Oct  4 07:44:21  KERNEL:     phoenix_timer_cpu = 82798c80, phoenix_timer_gettimeoffset = 82798d00
+Oct  4 07:44:21  KERNEL:     max_val[0] = a2c2a, max_val[others] = 3640e, 
+Oct  4 07:44:21  KERNEL: 0:<6>Memory: 726280k/252928k available (4333k kernel code, 50084k reserved, 840k data, 34340k init, 524160k highmem)
+Oct  4 07:44:21  KERNEL: 0:<7>Calibrating delay loop... 0:178.58 BogoMIPS (lpj=892928)
+Oct  4 07:44:21  KERNEL: 0:<6>Security Framework v1.0.0 initialized
+Oct  4 07:44:21  KERNEL: 0:<6>Capability LSM initialized
+Oct  4 07:44:21  KERNEL: 0: available.
+Oct  4 07:44:21  KERNEL: 0:(PROM): waking up phys cpu# 1, bucket_1, gp = 8322e000
+Oct  4 07:44:21  KERNEL: 0:(PROM): sent a wakeup message to bucket 1
+Oct  4 07:44:21  KERNEL: 1:Initializing CPU:0 (1), current=83215048, gp = 8322e000
+Oct  4 07:44:21  KERNEL: 1:<7>Calibrating delay loop... 1:185.54 BogoMIPS (lpj=927744)
+Oct  4 07:44:21  KERNEL: 1:<7>Calibrating delay loop... 1:184.32 BogoMIPS (lpj=921600)
+Oct  4 07:44:21  KERNEL: 0:(PROM): waking up phys cpu# 2, bucket_2, gp = 83256000
+Oct  4 07:44:21  KERNEL: 0:(PROM): sent a wakeup message to bucket 2
+Oct  4 07:44:21  KERNEL: 2:Initializing CPU:0 (2), current=8321c028, gp = 83256000
+Oct  4 07:44:21  KERNEL: 2:<7>Calibrating delay loop... 2:263.78 BogoMIPS (lpj=1318912)
+Oct  4 07:44:21  KERNEL: 0:(PROM): waking up phys cpu# 3, bucket_3, gp = 8325e000
+Oct  4 07:44:21  KERNEL: 0:(PROM): sent a wakeup message to bucket 3
+Oct  4 07:44:21  KERNEL: 3:Initializing CPU:0 (3), current=83235048, gp = 8325e000
+Oct  4 07:44:21  KERNEL: 3:<7>Calibrating delay loop... 3:398.95 BogoMIPS (lpj=1994752)
+Oct  4 07:44:21  KERNEL: 0:<6>Brought up 4 CPUs
+Oct  4 07:44:21  KERNEL: 1:migration_cost=1:100001:
+Oct  4 07:44:21  KERNEL: 0:<5>detected lzma initramfs
+Oct  4 07:44:21  KERNEL: 0:<5>initramfs: LZMA lc=3,lp=0,pb=2,dictSize=8388608,origSize=112425984
+Oct  4 07:44:21  KERNEL: 0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.0:.
+Oct  4 07:44:21  KERNEL: 0:[pcibios_init]: IO-Remapped phys=10000000, size=1000000 to vaddr=b0000000
+Oct  4 07:44:21  KERNEL: 0:[pcibios_init]: IO-Remapped phys=15000000, size=100000 to vaddr=b5000000
+Oct  4 07:44:21  KERNEL: 0:Registering XLR/XLS PCIX/PCIE Controller. 
+Oct  4 07:44:21  KERNEL: 0:<6>LTT : ltt-facilities init
+Oct  4 07:44:21  KERNEL: 0:<6>LTT : ltt-heartbeat init
+Oct  4 07:44:21  KERNEL: 0:highmem bounce pool size: 64 pages
+Oct  4 07:44:21  KERNEL: 0:<6>LTT : ltt-facility-core init in kernel
+Oct  4 07:44:21  KERNEL: ity-fs init in kernel
+Oct  4 07:44:21  KERNEL: 0:<6>LTT : ltt-facility-ipc init in kernel
+Oct  4 07:44:21  KERNEL: 0:<6>LTT : ltt-facility-kernel_arch init in kernel
+Oct  4 07:44:21  KERNEL: 0:<6>LTT : ltt-facility-kernel init in kernel
+Oct  4 07:44:21  KERNEL: 0:<6>LTT : ltt-facility-locking init in kernel
+Oct  4 07:44:21  KERNEL: 0:<6>LTT : ltt-facility-memory init in kernel
+Oct  4 07:44:21  KERNEL: 0:<6>LTT : ltt-facility-network init in kernel
+Oct  4 07:44:21  KERNEL: 0:<6>LTT : ltt-facility-process init in kernel
+Oct  4 07:44:21  KERNEL: 0:<6>LTT : ltt-facility-socket init in kernel
+Oct  4 07:44:21  KERNEL: 0:<6>LTT : ltt-facility-timer init in kernel
+Oct  4 07:44:21  KERNEL: 0:<6>LTT : ltt-facility-statedump init in kernel
+Oct  4 07:44:21  KERNEL: 0:<6>LTT : ltt-facility-network_ip_interface init in kernel
+Oct  4 07:44:21  KERNEL: 0:<6>LTT : ltt-core init as module
+Oct  4 07:44:21  KERNEL: 0:<6>ltt-control init
+Oct  4 07:44:21  KERNEL: 0:<6>LTT : ltt-facility-statedump init
+Oct  4 07:44:21  KERNEL: 0:<6>hw_random hardware driver 1.0.0 loaded
+Oct  4 07:44:21  KERNEL: 0:Registered XLR tracebuffer driver with Major No. [0]
+Oct  4 07:44:21  KERNEL: 0:xlrinfo_init: BEGIN RMIINFO_INIT 
+Oct  4 07:44:21  KERNEL: 0:Registered sos console serial driver
+Oct  4 07:44:21  KERNEL: 0:SCCI_MODULE_ID: 0x0
+Oct  4 07:44:21  KERNEL: 0:Running on Dolcetto. Assuming 3
+Oct  4 07:44:21  KERNEL: 0:Function [virtual_uart_init]Loader support not enabled. Returning from virtual_uart_init
+Oct  4 07:44:21  KERNEL: 0:RAMDISK driver initialized: 16 RAM disks of 87040K size 1024 blocksize
+Oct  4 07:44:21  KERNEL: 0:[user_mac_init]: user_mac_data=0x52ed28, psb_shm_size=0x800000
+Oct  4 07:44:21  KERNEL: 0:Registered phoenix user_mac driver: major=0
+Oct  4 07:44:21  KERNEL: 0:Registering sos_msg_driver
+Oct  4 07:44:21  KERNEL: 0:Regsitering for cpus in mask:0xff00 from 1 to 8
+Oct  4 07:44:21  KERNEL: 0:Registered msgring handler for cpu station 2
+Oct  4 07:44:21  KERNEL: 0:Registered msgring handler for cpu station 3
+Oct  4 07:44:21  KERNEL: 0:rtgw_tunnel_init
+Oct  4 07:44:21  KERNEL: 0:<6>PPP generic driver version 2.4.2
+Oct  4 07:44:21  KERNEL: 0:<6>PPP Deflate Compression module registered
+Oct  4 07:44:21  KERNEL: 0:<6>PPP BSD Compression module registered
+Oct  4 07:44:21  KERNEL: 0:<6>Uniform Multi-Platform E-IDE driver Revision: 7.00alpha2
+Oct  4 07:44:21  KERNEL: 0:<6>ide: Assuming 50MHz system bus speed for PIO modes; override with idebus=xx
+Oct  4 07:44:21  KERNEL: 0:Initializing Phoenix PCMCIA IDE...
+Oct  4 07:44:21  KERNEL: 0:Phoenix PCMCIA configured as IDE interface = 0
+Oct  4 07:44:21  KERNEL: 0:<7>Probing IDE interface ide0...
+Oct  4 07:44:21  KERNEL: 0:hda: CF 512MB, 0:CFA DISK drive
+Oct  4 07:44:21  KERNEL: 0:ide0 at 0xbd0001f1-0xbd0001f8,0xbd0003f7 on irq 210:
+Oct  4 07:44:21  KERNEL: 0:<6>hda: max request size: 128KiB
+Oct  4 07:44:21  KERNEL: 0:<6>hda: 1028160 sectors (526 MB)0: w/0KiB Cache0:, CHS=1020/16/630:
+Oct  4 07:44:21  KERNEL: 0:<6> hda:0: hda10: hda20: hda30:
+Oct  4 07:44:21  KERNEL: 0:<5>physmap flash device: 1000000 at 1c000000
+Oct  4 07:44:21  KERNEL: 0:<6>phys_mapped_flash: Found 1 x16 devices at 0x0 in 16-bit bank
+Oct  4 07:44:21  KERNEL: 0: Intel/Sharp Extended Query Table at 0x0031
+Oct  4 07:44:21  KERNEL: 0:<6>Using buffer write method
+Oct  4 07:44:21  KERNEL: 0:<5>cfi_cmdset_0001: Erase suspend on write enabled
+Oct  4 07:44:21  KERNEL: 0:<7>erase region 0: offset=0x0,size=0x20000,blocks=128
+Oct  4 07:44:21  KERNEL: 0:Parsing the partition  info
+Oct  4 07:44:21  KERNEL: 0:<5>cmdlinepart partition parsing not available
+Oct  4 07:44:21  KERNEL: 0:Adding partitions...
+Oct  4 07:44:21  KERNEL: 0:<5>Using physmap partition definition
+Oct  4 07:44:21  KERNEL: 0:<5>Creating 4 MTD partitions on "phys_mapped_flash":
+Oct  4 07:44:21  KERNEL: 0:<5>0x00000000-0x00200000 : "bootROM0"
+Oct  4 07:44:21  KERNEL: 0:<5>0x003c0000-0x003e0000 : "nvram-eeprom"
+Oct  4 07:44:21  KERNEL: 0:<5>0x003e0000-0x00400000 : "eeprom"
+Oct  4 07:44:21  KERNEL: 0:<5>0x00400000-0x00800000 : "pnoimg"
+Oct  4 07:44:21  KERNEL: 0:Intializing BK-3220 I2C Host Adapter...0:done.
+Oct  4 07:44:21  KERNEL: 0:i2c-palm-bk3220: Added I2C Bus 0
+Oct  4 07:44:21  KERNEL: 0:<6>i2c-nebbiolo: using default base 0xbd840000
+Oct  4 07:44:21  KERNEL: 0:Registering I2C based Power Supply driver...
+Oct  4 07:44:21  KERNEL: 0:Registering max6657 I2C based Temperature Sensor driver...
+Oct  4 07:44:21  KERNEL: 0:Registering powr6at6 I2C Power Trim Controller driver
+Oct  4 07:44:21  KERNEL: 0:Found POWR6AT6 on Palm Chip BK3220 Adapter 0
+Oct  4 07:44:21  KERNEL: 0:Registering max6640 I2C based Temperature Sensor driver...
+Oct  4 07:44:21  KERNEL: 0:Found MAX6640 on Palm Chip BK3220 Adapter 0
+Oct  4 07:44:21  KERNEL: 0:Registering Phoenix I2C based RTC driver...
+Oct  4 07:44:21  KERNEL: 0:<6>: Found DS1374 on Palm Chip BK3220 Adapter 0
+Oct  4 07:44:21  KERNEL: 0:Registering Phoenix I2C based TPM driver...
+Oct  4 07:44:21  KERNEL: 0:<6>GRE over IPv4 tunneling driver
+Oct  4 07:44:21  KERNEL: 0:<6>802.1Q VLAN Support v1.8 Ben Greear <greearb@candelatech.com>
+Oct  4 07:44:21  KERNEL: 0:<6>All bugs added by David S. Miller <davem@redhat.com>
+Oct  4 07:44:21  KERNEL: 1: ^H1:<6>kjournald starting.  Commit interval 5 seconds
+Oct  4 07:44:21  KERNEL: 0:<6>EXT3 FS on hda3, 0:internal journal
+Oct  4 07:44:21  KERNEL: 0:<6>EXT3-fs: mounted filesystem with ordered data mode.
+Oct  4 07:44:21  KERNEL: 1:<4>process `syslogd' is using obsolete setsockopt SO_BSDCOMPAT
+Oct  4 07:44:21  KERNEL: 0:!!!!!!!PINOT BYPASS(1)!!!!!!!
+Oct  4 07:44:21  KERNEL: 2:<4>process `soed' is using obsolete setsockopt SO_BSDCOMPAT
+Oct  4 07:44:44  fpapps[1424]: <313256> <WARN> |fpapps| Route resolve returned an Error
+Oct  4 07:44:46  publisher[1348]: <306510> <WARN> |publisher|  Dropping message from 8214 for service 'aaa-idle-user-timeout (service not found)'
+Oct  4 07:44:49  KERNEL: 3:<4>process `snmpd' is using obsolete setsockopt SO_BSDCOMPAT
+Oct  4 07:44:52  KERNEL: 1:<4>process `trapd' is using obsolete setsockopt SO_BSDCOMPAT
+Oct  4 07:45:00  authmgr[1453]: <325022> <ERRS> |authmgr|  Bogus VLAN ID:4095 received.
+Oct  4 07:45:13  stm[1454]: <304001> <ERRS> |stm|  Unexpected stm (Station managment) runtime error at data_path_handler, 649, data_path_handler: recv - Network is down
+Oct  4 07:45:34  isakmpd[1440]: <399801> <ERRS> |ike|  An internal system error has occurred at file ipc.c function ipc_auth_recv_packet line 2805.
+Oct  4 11:59:04  sapd[788]: <311002> <WARN> |AP 00:24:6c:c7:fa:10@192.168.1.68 sapd|  Rebooting: SAPD: Rebooting after provisioning
+Oct  4 11:59:04  nanny[750]: <303086> <ERRS> |AP 00:24:6c:c7:fa:10@192.168.1.68 nanny| Process Manager (nanny) shutting down - AP will reboot!
+Oct  4 12:00:38  nanny[750]: <303022> <WARN> |AP 00:24:6c:c7:fa:10@192.168.1.68 nanny|  Reboot Reason: AP rebooted Tue Oct 4 11:59:04 EST 2011: SAPD: Rebooting after provisioning 
+Oct  4 14:18:23  fpapps[1501]: <313241> <ERRS> |fpapps|  Static ARP: too many entries (ipMapArpStaticEntryAdd)
+Oct  4 14:18:54  fpapps[1501]: <313241> <ERRS> |fpapps|  Static ARP: too many entries (ipMapArpStaticEntryAdd)
+Oct  4 14:24:18  fpapps[1501]: <313241> <ERRS> |fpapps|  Static ARP: too many entries (ipMapArpStaticEntryAdd)
+Oct  4 14:31:13  fpapps[1501]: <313241> <ERRS> |fpapps|  Static ARP: too many entries (ipMapArpStaticEntryAdd)
+Oct  4 14:51:42  fpapps[1501]: <313241> <ERRS> |fpapps|  Static ARP: too many entries (ipMapArpStaticEntryAdd)
+Oct  4 15:20:45  stm[808]: <304001> <ERRS> |AP 00:24:6c:c7:f9:6d@192.168.101.64 stm|  Unexpected stm (Station managment) runtime error at wifi_handle_sta_management, 4191, wifi_handle_sta_management:4191
+Oct  4 17:22:53  nanny[747]: <303022> <WARN> |AP 00:24:6c:c7:fa:31@192.168.1.60 nanny|  Reboot Reason: No reboot message found.
+Oct  4 17:22:54  nanny[747]: <303022> <WARN> |AP 00:24:6c:c7:fa:29@192.168.1.62 nanny|  Reboot Reason: No reboot message found.
+Oct  4 17:22:54  nanny[747]: <303022> <WARN> |AP 00:24:6c:c7:fa:11@192.168.1.61 nanny|  Reboot Reason: No reboot message found.
+Oct  4 17:22:54  nanny[747]: <303022> <WARN> |AP 00:24:6c:c7:fa:0d@192.168.1.63 nanny|  Reboot Reason: No reboot message found.
+Oct  4 17:22:55  nanny[747]: <303022> <WARN> |AP 00:24:6c:c7:fa:0b@192.168.1.64 nanny|  Reboot Reason: No reboot message found.
+Oct  4 17:22:55  nanny[747]: <303022> <WARN> |AP 00:24:6c:c7:fa:0e@192.168.1.66 nanny|  Reboot Reason: No reboot message found.
+Oct  4 17:22:56  nanny[747]: <303022> <WARN> |AP 00:24:6c:c7:fa:34@192.168.1.67 nanny|  Reboot Reason: No reboot message found.
+Oct  4 17:22:57  nanny[747]: <303022> <WARN> |AP 00:24:6c:c7:fa:10@192.168.1.68 nanny|  Reboot Reason: No reboot message found.

@@ -1,0 +1,2 @@
+19269   ReDate ReTime bastion useradd[**] new user: (** name=mysql=2 **) (** uid=2**=1 **) (** gid=2**=2 **) home=RePath shell=RePath
+19269   ReDate ReTime bastion useradd[**] new user: (** name=apache=2 **) (** uid=4**=1 **) (** gid=4**=2 **) home=RePath shell=RePath

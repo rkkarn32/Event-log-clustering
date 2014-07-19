@@ -1,0 +1,1 @@
+8673   ReDate ReTime bastion syslog (** klogd=10 **) shutdown succeeded

@@ -1,0 +1,39 @@
+Oct  4 07:44:16  ike[1345]: <103062> <INFO> |ike|  Starting cryptoPOST
+Oct  4 07:44:18  isakmpd[1440]: <103061> <ERRS> |ike|  udp_make: setsockopt (-1, 65535, 4, 0x7fcb8b40, 4)
+Oct  4 07:44:18  isakmpd[1440]: <103061> <ERRS> |ike|  virtual_bind_ADDR_ANY: could not allocate default IPv6 ISAKMP port(s)
+Oct  4 07:45:28  authmgr[1453]: <132061> <ERRS> |authmgr|  AP 00:24:6c:3a:4d:d0 00:24:6c:cb:a4:dd configured with aaa profile MFI-Default-AAA does not have an associated dot1x profile
+Oct  4 07:45:29  authmgr[1453]: <132061> <ERRS> |authmgr|  AP 00:24:6c:ff:99:80 00:24:6c:c7:f9:98 configured with aaa profile MFI-Default-AAA does not have an associated dot1x profile
+Oct  4 07:45:29  authmgr[1453]: <132061> <ERRS> |authmgr|  AP 00:24:6c:ff:98:70 00:24:6c:c7:f9:87 configured with aaa profile MFI-Default-AAA does not have an associated dot1x profile
+Oct  4 07:45:29  authmgr[1453]: <132061> <ERRS> |authmgr|  AP 00:24:6c:ff:95:f0 00:24:6c:c7:f9:5f configured with aaa profile MFI-Default-AAA does not have an associated dot1x profile
+Oct  4 07:45:29  authmgr[1453]: <132061> <ERRS> |authmgr|  AP 00:24:6c:3a:4f:a0 00:24:6c:cb:a4:fa configured with aaa profile MFI-Default-AAA does not have an associated dot1x profile
+Oct  4 07:45:29  authmgr[1453]: <132061> <ERRS> |authmgr|  AP 00:24:6c:ff:97:40 00:24:6c:c7:f9:74 configured with aaa profile MFI-Default-AAA does not have an associated dot1x profile
+Oct  4 07:45:29  authmgr[1453]: <132061> <ERRS> |authmgr|  AP 00:24:6c:ff:9a:80 TestAP configured with aaa profile MFI-Default-AAA does not have an associated dot1x profile
+Oct  4 07:45:29  authmgr[1453]: <132061> <ERRS> |authmgr|  AP 00:24:6c:3a:50:00 00:24:6c:cb:a5:00 configured with aaa profile MFI-Default-AAA does not have an associated dot1x profile
+Oct  4 07:45:30  authmgr[1453]: <132061> <ERRS> |authmgr|  AP 00:24:6c:ff:98:90 00:24:6c:c7:f9:89 configured with aaa profile MFI-Default-AAA does not have an associated dot1x profile
+Oct  4 07:45:31  authmgr[1453]: <132061> <ERRS> |authmgr|  AP 00:24:6c:3a:4f:00 00:24:6c:cb:a4:f0 configured with aaa profile MFI-Default-AAA does not have an associated dot1x profile
+Oct  4 07:45:32  authmgr[1453]: <132061> <ERRS> |authmgr|  AP 00:24:6c:ff:97:c0 00:24:6c:c7:f9:7c configured with aaa profile MFI-Default-AAA does not have an associated dot1x profile
+Oct  4 07:45:33  authmgr[1453]: <132061> <ERRS> |authmgr|  AP 00:24:6c:3a:46:70 00:24:6c:cb:a4:67 configured with aaa profile MFI-Default-AAA does not have an associated dot1x profile
+Oct  4 07:45:34  authmgr[1453]: <132061> <ERRS> |authmgr|  AP 00:24:6c:3a:4c:90 00:24:6c:cb:a4:c9 configured with aaa profile MFI-Default-AAA does not have an associated dot1x profile
+Oct  4 07:45:34  authmgr[1453]: <132061> <ERRS> |authmgr|  AP 00:24:6c:3a:4c:70 00:24:6c:cb:a4:c7 configured with aaa profile MFI-Default-AAA does not have an associated dot1x profile
+Oct  4 07:45:38  authmgr[1453]: <132061> <ERRS> |authmgr|  AP 00:24:6c:ff:96:d0 00:24:6c:c7:f9:6d configured with aaa profile MFI-Default-AAA does not have an associated dot1x profile
+Oct  4 07:45:40  authmgr[1453]: <132061> <ERRS> |authmgr|  AP 00:24:6c:3a:46:10 00:24:6c:cb:a4:61 configured with aaa profile MFI-Default-AAA does not have an associated dot1x profile
+Oct  4 07:45:41  authmgr[1453]: <132061> <ERRS> |authmgr|  AP 00:24:6c:3a:4f:e0 00:24:6c:cb:a4:fe configured with aaa profile MFI-Default-AAA does not have an associated dot1x profile
+Oct  4 07:45:41  authmgr[1453]: <132061> <ERRS> |authmgr|  AP 00:24:6c:3a:46:20 00:24:6c:cb:a4:62 configured with aaa profile MFI-Default-AAA does not have an associated dot1x profile
+Oct  4 07:52:59  authmgr[1453]: <132094> <WARN> |authmgr|  MIC failed in WPA2 Key Message 2 from Station 00:90:7a:0c:ed:d7 00:24:6c:ff:98:91 00:24:6c:c7:f9:89
+Oct  4 09:40:29  aaa[1379]: <125022> <WARN> |aaa|  Authentication failed for User ADMIN, Logged in from 192.168.100.205 port 38363, Connecting to 192.168.100.241 port 4343 connection type HTTPS
+Oct  4 10:16:27  stm[809]: <132099> <ERRS> |AP 00:24:6c:c7:fa:34@192.168.1.67 stm|  WPA2 Key Messsage 4 from Station 00:90:7a:0c:dd:07 00:24:6c:ff:a3:40 00:24:6c:c7:fa:34 has invalid datalen 24 != 0]
+Oct  4 10:17:05  stm[809]: <132099> <ERRS> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  WPA2 Key Messsage 4 from Station 00:90:7a:0c:dd:07 00:24:6c:ff:a0:e0 00:24:6c:c7:fa:0e has invalid datalen 24 != 0]
+Oct  4 10:17:43  stm[809]: <132093> <ERRS> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  WPA2 Key message 2 from Station 00:90:7a:0c:dd:07 00:24:6c:ff:a0:e0 00:24:6c:c7:fa:0e did not match the replay counter 024 vs 023
+Oct  4 10:17:45  stm[809]: <132093> <ERRS> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  WPA2 Key message 2 from Station 00:90:7a:0c:dd:07 00:24:6c:ff:a0:e0 00:24:6c:c7:fa:0e did not match the replay counter 026 vs 024
+Oct  4 12:08:10  authmgr[1453]: <132094> <WARN> |authmgr|  MIC failed in WPA2 Key Message 2 from Station 00:23:68:bd:66:44 00:24:6c:3a:50:00 00:24:6c:cb:a5:00
+Oct  4 14:01:47  stm[809]: <132099> <ERRS> |AP 00:24:6c:c7:fa:10@192.168.1.68 stm|  WPA2 Key Messsage 4 from Station 00:90:7a:0c:dd:07 00:24:6c:ff:a1:00 00:24:6c:c7:fa:10 has invalid datalen 24 != 0]
+Oct  4 14:01:50  stm[809]: <132093> <ERRS> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  WPA2 Key message 2 from Station 00:90:7a:0c:dd:07 00:24:6c:ff:a0:e0 00:24:6c:c7:fa:0e did not match the replay counter 04 vs 03
+Oct  4 14:01:52  stm[809]: <132093> <ERRS> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  WPA2 Key message 2 from Station 00:90:7a:0c:dd:07 00:24:6c:ff:a0:e0 00:24:6c:c7:fa:0e did not match the replay counter 06 vs 04
+Oct  4 14:30:59  stm[809]: <132093> <ERRS> |AP 00:24:6c:c7:fa:10@192.168.1.68 stm|  WPA2 Key message 2 from Station 00:90:7a:0c:dd:07 00:24:6c:ff:a1:00 00:24:6c:c7:fa:10 did not match the replay counter 02 vs 01
+Oct  4 14:31:01  stm[809]: <132093> <ERRS> |AP 00:24:6c:c7:fa:10@192.168.1.68 stm|  WPA2 Key message 2 from Station 00:90:7a:0c:dd:07 00:24:6c:ff:a1:00 00:24:6c:c7:fa:10 did not match the replay counter 04 vs 02
+Oct  4 14:31:02  stm[809]: <132093> <ERRS> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  WPA2 Key message 2 from Station 00:90:7a:0c:dd:07 00:24:6c:ff:a0:e0 00:24:6c:c7:fa:0e did not match the replay counter 02 vs 01
+Oct  4 14:31:04  stm[809]: <132093> <ERRS> |AP 00:24:6c:c7:fa:0e@192.168.1.66 stm|  WPA2 Key message 2 from Station 00:90:7a:0c:dd:07 00:24:6c:ff:a0:e0 00:24:6c:c7:fa:0e did not match the replay counter 04 vs 02
+Oct  4 15:29:31  stm[809]: <132099> <ERRS> |AP 00:24:6c:c7:fa:10@192.168.1.68 stm|  WPA2 Key Messsage 4 from Station 00:90:7a:0c:dd:07 00:24:6c:ff:a1:00 00:24:6c:c7:fa:10 has invalid datalen 24 != 0]
+Oct  4 16:27:36  aaa[1379]: <125022> <WARN> |aaa|  Authentication failed for User w3!c0m3!, Logged in from 192.168.100.205 port 10902, Connecting to 192.168.100.241 port 22 connection type SSH
+Oct  4 17:00:02  stm[809]: <132099> <ERRS> |AP 00:24:6c:c7:fa:11@192.168.1.61 stm|  WPA2 Key Messsage 4 from Station 00:90:7a:0c:dd:07 00:24:6c:ff:a1:10 00:24:6c:c7:fa:11 has invalid datalen 24 != 0]
+Oct  4 18:27:35  aaa[1379]: <125022> <WARN> |aaa|  Authentication failed for User admin, Logged in from 192.168.100.205 port 17754, Connecting to 192.168.100.241 port 4343 connection type HTTPS

@@ -1,0 +1,1 @@
+6707   ReDate ReTime bastion kernel (** BIOS-provided=1 **) physical RAM (** map:=1 **)

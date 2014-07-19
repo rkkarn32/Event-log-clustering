@@ -1,0 +1,2 @@
+8047   ReDate ReTime bastion rc.sysinit (** Mounting=4 **) (** proc=1 **) (** filesystem:=2 **) succeeded
+8047   ReDate ReTime bastion rc.sysinit (** Enabling=4 **) (** swap=2 **) (** space:=1 **) succeeded

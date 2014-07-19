@@ -1,0 +1,2 @@
+18757   ReDate ReTime bastion kernel usb.c: registered new driver (** hub=2 **)
+18757   ReDate ReTime bastion kernel usb.c: registered new driver (** usbnet=2 **)

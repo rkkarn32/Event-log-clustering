@@ -1,0 +1,1 @@
+17774   ReDate ReTime bastion kernel (** apm:=1 **) BIOS version 1.2 Flags (** 0x**b=1 **) (** (Driver=1 **) version 1.1**)

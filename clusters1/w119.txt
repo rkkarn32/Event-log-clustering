@@ -1,0 +1,4 @@
+17892   ReDate ReTime bridge sshd(**)[**] session (** opened=43 **) for user anton by (** (uid=0)=33 **)
+17892   ReDate ReTime bridge sshd(**)[**] session (** opened=43 **) for user anton by (** (uid=0)=33 **)
+17892   ReDate ReTime bridge sshd(**)[**] session (** opened=43 **) for user anton by (** (uid=0)=33 **)
+17892   ReDate ReTime bridge sshd(**)[**] session (** opened=43 **) for user anton by (** (uid=0)=33 **)

@@ -1,0 +1,2 @@
+10620   ReDate ReTime bastion kernel device (** eth**=22 **) (** entered=22 **) promiscuous mode
+10620   ReDate ReTime bastion kernel device (** eth**=22 **) (** entered=22 **) promiscuous mode

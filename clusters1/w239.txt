@@ -1,0 +1,2 @@
+7974   ReDate ReTime bastion syslog (** klogd=10 **) startup succeeded
+7974   ReDate ReTime bastion syslog (** klogd=10 **) startup succeeded

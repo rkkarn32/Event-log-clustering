@@ -1,0 +1,1 @@
+8918   ReDate ReTime bastion init Entering (** runlevel:=2 **) ReDigit

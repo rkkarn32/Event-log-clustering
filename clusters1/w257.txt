@@ -1,0 +1,1 @@
+6842   ReDate ReTime bastion network (** Bringing=2 **) (** up=2 **) (** loopback=1 **) (** interface:=1 **) succeeded

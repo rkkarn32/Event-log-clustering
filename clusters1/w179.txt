@@ -1,0 +1,2 @@
+11793   ReDate ReTime bastion kernel PCI: (** Sharing=2 **) IRQ ReDigit with (** 0**:0d.0=2 **)
+11793   ReDate ReTime bastion kernel PCI: (** Sharing=2 **) IRQ ReDigit with (** 0**:0c.0=2 **)

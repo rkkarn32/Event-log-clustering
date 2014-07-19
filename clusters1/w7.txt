@@ -1,0 +1,13 @@
+28289440    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ReMAC : station  ****   ****   **** 
+28289440    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****  station  ****  ReMAC  **** 
+28289440    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ReMAC : station  ****   ****   **** 
+28289440    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****  station  ****  ReMAC  **** 
+28289440    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ReMAC : station  ****   ****   **** 
+28289440    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****  station  ****  ReMAC  **** 
+28289440    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ReMAC : station  ****   ****   **** 
+28289440    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ReMAC : station  ****   ****   **** 
+28289440    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ReMAC : station  ****   ****   **** 
+28289440    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****  station  ****  ReMAC  **** 
+28289440    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ReMAC : station  ****   ****   **** 
+28289440    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****  station  ****  ReMAC  **** 
+28289440    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****  station  ****  ReMAC  **** 

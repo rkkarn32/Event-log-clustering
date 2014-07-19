@@ -1,0 +1,2 @@
+8037   ReDate ReTime bastion rc.sysinit (** Loading=3 **) (** default=2 **) (** keymap=1 **) succeeded
+8037   ReDate ReTime bastion rc.sysinit (** Setting=4 **) (** hostname=1 **) (** bastion:=1 **) succeeded

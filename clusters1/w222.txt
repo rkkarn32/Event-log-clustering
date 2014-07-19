@@ -1,0 +1,2 @@
+9019   ReDate ReTime bastion snort Snort (** initialization=2 **) (** completed=2 **) (** successfully=2 **) Snort running
+9019   ReDate ReTime bastion snort Snort (** initialization=2 **) (** completed=2 **) (** successfully=2 **) Snort running

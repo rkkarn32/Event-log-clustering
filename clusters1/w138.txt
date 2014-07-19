@@ -1,0 +1,4 @@
+16082   ReDate ReTime bastion mysql_install_db Preparing (** db=1 **) table
+16082   ReDate ReTime bastion mysql_install_db Preparing (** func=1 **) table
+16082   ReDate ReTime bastion mysql_install_db Preparing (** tables_priv=1 **) table
+16082   ReDate ReTime bastion mysql_install_db Preparing (** columns_priv=1 **) table

@@ -1,0 +1,1 @@
+10668   ReDate ReTime bastion kernel device (** usb**=24 **) (** entered=22 **) promiscuous mode

@@ -1,0 +1,1000 @@
+32509432   ReDate ReTime bastion (** mysql_install_db:=32 **) (** RePath=15 **) (** -u=2 **) (** root=23 **) (** -h=1 **) bastion (** -p=2 **) password (** new-password=2 **)
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+32224032   ReDate ReTime bastion CROND[**]: (**) CMD (** (RePath=75 **) RePath) 
+26661952   ReDate ReTime bastion sshd(**)[**]: session opened for user anton by (uid=0)
+26661952   ReDate ReTime bastion sshd(**)[**]: session opened for user anton by (uid=0)
+26661952   ReDate ReTime bastion sshd(**)[**]: session opened for user anton by (uid=0)
+26661952   ReDate ReTime bastion sshd(**)[**]: session opened for user anton by (uid=0)
+26661952   ReDate ReTime bastion sshd(**)[**]: session opened for user anton by (uid=0)
+26661952   ReDate ReTime bastion sshd(**)[**]: session opened for user anton by (uid=0)
+26661952   ReDate ReTime bastion sshd(**)[**]: session opened for user anton by (uid=0)
+26661952   ReDate ReTime bastion sshd(**)[**]: session opened for user anton by (uid=0)
+26661952   ReDate ReTime bastion sshd(**)[**]: session opened for user anton by (uid=0)
+26661952   ReDate ReTime bastion sshd(**)[**]: session opened for user anton by (uid=0)
+26661952   ReDate ReTime bastion sshd(**)[**]: session opened for user anton by (uid=0)
+26661952   ReDate ReTime bastion sshd(**)[**]: session opened for user anton by (uid=0)
+26661952   ReDate ReTime bastion sshd(**)[**]: session opened for user anton by (uid=0)
+26661952   ReDate ReTime bastion sshd(**)[**]: session opened for user anton by (uid=0)
+26661952   ReDate ReTime bastion sshd(**)[**]: session opened for user anton by (uid=0)
+26661952   ReDate ReTime bastion sshd(**)[**]: session opened for user anton by (uid=0)
+26661952   ReDate ReTime bastion sshd(**)[**]: session opened for user anton by (uid=0)
+26661952   ReDate ReTime bastion sshd(**)[**]: session opened for user anton by (uid=0)
+26661952   ReDate ReTime bastion sshd(**)[**]: session opened for user anton by (uid=0)
+26661952   ReDate ReTime bastion sshd(**)[**]: session opened for user anton by (uid=0)
+26661952   ReDate ReTime bastion sshd(**)[**]: session opened for user anton by (uid=0)
+26661952   ReDate ReTime bastion sshd(**)[**]: session opened for user anton by (uid=0)
+26661952   ReDate ReTime bastion sshd(**)[**]: session opened for user anton by (uid=0)
+26661952   ReDate ReTime bastion sshd(**)[**]: session opened for user anton by (uid=0)
+26661952   ReDate ReTime bastion sshd(**)[**]: session opened for user anton by (uid=0)
+26661952   ReDate ReTime bastion sshd(**)[**]: session opened for user anton by (uid=0)
+26661952   ReDate ReTime bastion sshd(**)[**]: session opened for user anton by (uid=0)
+26661952   ReDate ReTime bastion sshd(**)[**]: session opened for user anton by (uid=0)
+26661952   ReDate ReTime bastion sshd(**)[**]: session opened for user anton by (uid=0)
+26535472   ReDate ReTime bastion kernel: device (** usb**=24 **) (** entered=22 **) promiscuous mode
+26535472   ReDate ReTime bastion kernel: device (** usb**=24 **) (** left=21 **) promiscuous mode
+26535472   ReDate ReTime bastion kernel: device (** eth**=22 **) (** entered=22 **) promiscuous mode
+26535472   ReDate ReTime bastion kernel: device (** eth**=22 **) (** left=21 **) promiscuous mode
+26535472   ReDate ReTime bastion kernel: device (** eth**=22 **) (** entered=22 **) promiscuous mode
+26065912   ReDate ReTime bastion sshd(**)[**]: session closed for user anton
+26065912   ReDate ReTime bastion sshd(**)[**]: session closed for user anton
+26065912   ReDate ReTime bastion sshd(**)[**]: session closed for user anton
+26065912   ReDate ReTime bastion sshd(**)[**]: session closed for user anton
+26065912   ReDate ReTime bastion sshd(**)[**]: session closed for user anton
+26065912   ReDate ReTime bastion sshd(**)[**]: session closed for user anton
+26065912   ReDate ReTime bastion sshd(**)[**]: session closed for user anton
+26065912   ReDate ReTime bastion sshd(**)[**]: session closed for user anton
+26065912   ReDate ReTime bastion sshd(**)[**]: session closed for user anton
+26065912   ReDate ReTime bastion sshd(**)[**]: session closed for user anton
+26065912   ReDate ReTime bastion sshd(**)[**]: session closed for user anton
+26065912   ReDate ReTime bastion sshd(**)[**]: session closed for user anton
+26065912   ReDate ReTime bastion sshd(**)[**]: session closed for user anton
+26065912   ReDate ReTime bastion sshd(**)[**]: session closed for user anton
+26065912   ReDate ReTime bastion sshd(**)[**]: session closed for user anton
+26065912   ReDate ReTime bastion sshd(**)[**]: session closed for user anton
+26065912   ReDate ReTime bastion sshd(**)[**]: session closed for user anton
+26065912   ReDate ReTime bastion sshd(**)[**]: session closed for user anton
+26065912   ReDate ReTime bastion sshd(**)[**]: session closed for user anton
+26065912   ReDate ReTime bastion sshd(**)[**]: session closed for user anton
+26065912   ReDate ReTime bastion sshd(**)[**]: session closed for user anton
+26065912   ReDate ReTime bastion sshd(**)[**]: session closed for user anton
+26065912   ReDate ReTime bastion sshd(**)[**]: session closed for user anton
+26065912   ReDate ReTime bastion sshd(**)[**]: session closed for user anton
+26065912   ReDate ReTime bastion sshd(**)[**]: session closed for user anton
+26065912   ReDate ReTime bastion sshd(**)[**]: session closed for user anton
+26065912   ReDate ReTime bastion sshd(**)[**]: session closed for user anton
+26065912   ReDate ReTime bastion sshd(**)[**]: session closed for user anton
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 4293**=4 **) ssh**
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 4293**=4 **) ssh**
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 4293**=4 **) ssh**
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 4293**=4 **) ssh**
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 3277**=5 **) ssh**
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 3277**=5 **) ssh**
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 4318**=1 **) ssh**
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 4423**=1 **) ssh**
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 4439**=3 **) ssh**
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 4439**=3 **) ssh**
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 4439**=3 **) ssh**
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 4440**=1 **) ssh**
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 4441**=1 **) ssh**
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 4480**=1 **) ssh**
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 4482**=1 **) ssh**
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 4483**=3 **) ssh**
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 4483**=3 **) ssh**
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 4483**=3 **) ssh**
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 4674**=1 **) ssh**
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 4675**=1 **) ssh**
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 4728**=1 **) ssh**
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 4729**=2 **) ssh**
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 4729**=2 **) ssh**
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 4730**=1 **) ssh**
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 5372**=2 **) ssh**
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 5372**=2 **) ssh**
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 5373**=1 **) ssh**
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 5380**=1 **) ssh**
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 5382**=1 **) ssh**
+25162832   ReDate ReTime bastion sshd[**]: Accepted publickey for anton from ReIP port (** 5405**=1 **) ssh**
+24968232   ReDate ReTime bastion crond[**]: (**) STARTUP (** (fork=1 **) (** ok)=1 **) 
+24968232   ReDate ReTime bastion crond[**]: (**) (** RELOAD=2 **) (** (cronRePath)=2 **) 
+24968232   ReDate ReTime bastion crond[**]: (**) (** RELOAD=2 **) (** (cronRePath)=2 **) 
+24606144   ReDate ReTime bastion kernel: (** (** Linux=8 **)=8 **) (** (** version=7 **)=7 **) (** 2.4.1**-3=1 **) (** (bhcompile@daffy.perf.redhat.com)=1 **) (** (gcc=1 **) version (** 2.9**=1 **) (** 2000073**=1 **) (** (Red=1 **) (** Hat=1 **) Linux (** 7.3=1 **) (** 2.9**-11**))=1 **) (** #1=1 **) (** Thu=3 **) ReDate ReTime (** EDT=6 **) (** 200**=7 **)
+24606144   ReDate Re(** Time=8 **) bastion kernel: (** usb-uhci.c:=5 **) (** (** $=2 **)Revision:=2 **) (** 1.27**=1 **) $ time ReTime ReDate (** 200**=7 **)
+24533432   ReDate ReTime bastion kernel: (** PCI:=9 **) Found (** IRQ=7 **) (** 1**=19 **) for device (** 0**:0**.2=1 **)
+24508552   ReDate ReTime basti(** on=22 **) kernel: (** hub.c:=2 **) (** USB=7 **) (** new=19 **) device (** connect=1 **) on (** bus**RePath=1 **), (** assigned=5 **) device (** numberReDigit=2 **)
+23970472   ReDate ReTime bastion (** login(**)[**]:=12 **) session opened for user anton by (** LOGIN(uid=0)=6 **)
+23970472   ReDate ReTime bastion (** login(**)[**]:=12 **) session opened for user anton by (** LOGIN(uid=0)=6 **)
+23970472   ReDate ReTime bastion (** login(**)[**]:=12 **) session opened for user anton by (** LOGIN(uid=0)=6 **)
+23800792   ReDate ReTime bastion (** login(**)[**]:=12 **) session closed for user anton
+23800792   ReDate ReTime bastion (** login(**)[**]:=12 **) session closed for user anton
+23800792   ReDate ReTime bastion (** login(**)[**]:=12 **) session closed for user anton
+23630312   ReDate ReTime bastion kernel: (** isapnp:=2 **) (** Scanning=1 **) for (** PnP=1 **) (** cards...=1 **)
+23630312   ReDate ReTime bastion kernel: (** (** Linux=8 **)=8 **) (** NET**.0=2 **) for Linux (** 2.4=1 **)
+23630312   ReDate ReTime bastion kernel: (** ide:=1 **) (** Assuming=1 **) (** 3**MHz=1 **) (** system=9 **) (** bus=4 **) (** speed=1 **) for (** PIO=1 **) (** modes;=1 **) (** override=1 **) (** with=8 **) (** idebus=xx=1 **)
+23630312   ReDate ReTime bastion kernel: (** NET**:=2 **) (** Linux=8 **) (** TCPRePathIP=1 **) (** 1.0=1 **) for (** NET**.0=2 **)
+23630312   ReDate ReTime bastion kernel: (** NET**:=2 **) (** Unix=1 **) (** domain=6 **) (** sockets=1 **) (** 1.0RePathSMP=1 **) for (** Linux=8 **) (** NET**.0.=1 **)
+23605432   ReDate ReTime bastion kernel: (** isapnp:=2 **) (** No=4 **) (** Plug=1 **) (** &=2 **) (** Play=1 **) device (** found=6 **)
+23605432   ReDate ReTime bastion kernel: (** Journalled=1 **) (** Block=1 **) Device (** driver=15 **) (** loaded=1 **)
+23605432   ReDate ReTime bastion kernel: (** PCI:=9 **) Found (** IRQReDigitfor=2 **) device (** 0**:0c.0=2 **)
+23605432   ReDate ReTime bastion kernel: (** PCI:=9 **) Found (** IRQReDigitfor=2 **) device (** 0**:0d.0=2 **)
+23157272   ReDate ReTime bastion kernel: (** usb-uhci.c:=5 **) (** High=1 **) (** bandwidth=1 **) mode (** enabled=3 **)
+22890992   ReDate ReTime bastion kernel: (** POSIX=1 **) (** conformance=1 **) (** testing=1 **) by (** UNIFIX=1 **)
+22890992   ReDate ReTime bastion kernel: (** usb.c:=5 **) (** USB=7 **) (** deviceReDigit(vendRePath=1 **) (** 0x6**bRePath**)=1 **) (** is=6 **) (** not=45 **) (** claimed=1 **) by (** any=2 **) (** active=1 **) (** driver.=1 **)
+22702312   ReDate ReTime bastion kernel: (** k(** log(** ==9 **)6 **)d=10 **) (** 1.4.1=4 **), log (** source=4 **) = (** RePath=15 **) (** started.=4 **)
+22702312   ReDate ReTime bastion kernel: (** BIOS-provided=1 **) (** physical=3 **) (** RAM=2 **) (** map:=1 **)
+22702312   ReDate ReTime bastion kernel:  (** BIOS(** -=11 **)e82**:=9 **) (** 000000000000000**=1 **) - (** 000000000009fc0**=2 **) (**)
+22702312   ReDate ReTime bastion kernel:  (** BIOS(** -=11 **)e82**:=9 **) (** 000000000009fc0**=2 **) - (** 00000000000a000**=1 **) (**)
+22702312   ReDate ReTime bastion kernel:  (** BIOS(** -=11 **)e82**:=9 **) (** 00000000000e000**=1 **) - (** 000000000010000**=2 **) (**)
+22702312   ReDate ReTime bastion kernel:  (** BIOS(** -=11 **)e82**:=9 **) (** 000000000010000**=2 **) - (** 000000001ffc000**=2 **) (**)
+22702312   ReDate ReTime bastion kernel:  (** BIOS(** -=11 **)e82**:=9 **) (** 000000001ffc000**=2 **) - (** 000000001fff800**=2 **) (** (ACPI=2 **) (** data)=1 **)
+22702312   ReDate ReTime bastion kernel:  (** BIOS(** -=11 **)e82**:=9 **) (** 000000001fff800**=2 **) - (** 000000002000000**=1 **) (** (ACPI=2 **) (** NVS)=1 **)
+22702312   ReDate ReTime bastion kernel:  (** BIOS(** -=11 **)e82**:=9 **) (** 00000000fec0000**=1 **) - (** 00000000fec0100**=1 **) (**)
+22702312   ReDate ReTime bastion kernel:  (** BIOS(** -=11 **)e82**:=9 **) (** 00000000fee0000**=1 **) - (** 00000000fee0100**=1 **) (**)
+22702312   ReDate ReTime bastion kernel:  (** BIOS(** -=11 **)e82**:=9 **) (** 00000000fff0000**=1 **) - (** 000000010000000**=1 **) (**)
+22702312   ReDate ReTime basti(** on=22 **) kernel: On (** nodeReDigittotalpages:=1 **) (** 13100**=1 **)
+22702312   ReDate ReTime bastion kernel: (** zone(**):=2 **) (** 409**=2 **) (** pages.=2 **)
+22702312   ReDate ReTime bastion kernel: (** zone(**):=2 **) (** 12691**=1 **) (** pages.=2 **)
+22702312   ReDate ReTime bastion kernel: (** zone(**):ReDigitpages.=1 **)
+22702312   ReDate ReTime bastion kernel: (** Kernel=13 **) (** command=1 **) (** line:=1 **) (** ro=1 **) (** root=RePath**=1 **)
+22702312   ReDate ReTime bastion kernel: (** Initializing=8 **) (** CPU#0=1 **)
+22702312   ReDate ReTime bastion kernel: Detected (** 85**.95**=1 **) (** MHz=1 **) (** processor.=1 **)
+22702312   ReDate ReTime bastion kernel: (** Console:=1 **) (** colour=1 **) (** VGA+=1 **) (** 80x2**=1 **)
+22702312   ReDate ReTime bastion kernel: (** Calibrating=1 **) (** delay=1 **) (** loop...=1 **) (** 169**.3**=1 **) (** BogoMIPS=1 **)
+22702312   ReDate ReTime bastion kernel: (** Memory:=3 **) (** 51379**kRePath**k=1 **) (** available=2 **) (** (111**k=1 **) kernel (** code=1 **), (** 984**k=1 **) (** reserved=1 **), (** 77**k=1 **) (** data=5 **), (** 28**k=2 **) (** init=3 **), (** 0k=1 **) (** highmem)=1 **)
+22702312   ReDate ReTime bastion kernel: (** Dentry=1 **) (** cache=(** 7=2 **) **) (** hash=7 **) (** table=12 **) (** entries:=5 **) (** 6553**=2 **) (** (order:=5 **) 7, (** 52428**=2 **) (** bytes)=5 **)
+22702312   ReDate ReTime bastion kernel: (** Inode=1 **) (** cache=7 **) (** hash=7 **) (** table=12 **) (** entries:=5 **) (** 327(** 6=1 **)**=3 **) (** (order:=5 **) 6, (** 26214**=1 **) (** bytes)=5 **)
+22702312   ReDate ReTime bastion kernel: (** Mount-cache=1 **) (** hash=7 **) (** table=12 **) (** entries:=5 **) (** 819**=1 **) (** (order:=5 **) (** 4=1 **), (** 6553**=2 **) (** bytes)=5 **)
+22702312   ReDate ReTime bastion kernel: (** Buffer=1 **) (** cache=7 **) (** hash=7 **) (** table=12 **) (** entries:=(** 5=1 **) **) (** 3276**=3 **) (** (order:=5 **) 5, (** 13107**=2 **) (** bytes)=5 **)
+22702312   ReDate ReTime bastion kernel: (** Page-cache=1 **) (** hash=(** 7=2 **) **) (** table=12 **) (** entries:=5 **) (** 13107**=2 **) (** (order:=5 **) 7, (** 52428**=2 **) (** bytes)=5 **)
+22702312   ReDate ReTime bastion kernel: (** CPU:=7 **) (** Before=1 **) (** (** vendor=3 **)=3 **) (** init=3 **), (** caps:=4 **) (** 0383f**ff=4 **) (** (** 0000000**=11 **)=11 **) 0000000**, vendor (** =ReDigit=9 **)
+22702312   Re(** D=1 **)ate ReTime bastion kernel: (** CPU:=7 **) (** (** L**=3 **)=3 **) (** I=1 **) (** (** cache:=3 **)=3 **) (** (** 1**K=2 **)=2 **), L** D cache: 1**K
+22702312   ReDate ReTime bastion kernel: (** CPU:=7 **) (** L**=3 **) (** cache:=3 **) (** 25**K=1 **)
+22702312   ReDate ReTime bastion kernel: (** CPU:=7 **) (** After=2 **) (** vendor=3 **) (** init=3 **), (** caps:=4 **) (** 0383f**ff=4 **) (** (** (** 0000000**=11 **)=11 **)=11 **) 0000000** 0000000**
+22702312   ReDate ReTime bastion kernel: (** Intel=6 **) (** machine=2 **) (** check=2 **) (** architecture=1 **) (** supported.=1 **)
+22702312   ReDate ReTime basti(** on=22 **) kernel: (** Intel=6 **) (** machine=2 **) (** check=2 **) (** reporting=1 **) (** enabled=3 **) on (** CPU#0.=1 **)
+22702312   ReDate ReTime bastion kernel: (** CPU:=7 **)     (** After=2 **) (** generic=1 **), (** caps:=4 **) (** 0383f**ff=4 **) (** (** (** 0000000**=11 **)=11 **)=11 **) 0000000** 0000000**
+22702312   ReDate ReTime bastion kernel: (** CPU:=7 **)             (** Common=1 **) (** caps:=4 **) (** 0383f**ff=4 **) (** (** (** 0000000**=11 **)=11 **)=11 **) 0000000** 0000000**
+22702312   ReDate ReTime bastion kernel: (** CPU:=7 **) (** Intel=6 **) (** Pentium=1 **) (** III=1 **) (**) (** stepping=1 **) (** 0**=2 **)
+22702312   ReDate ReTime bastion kernel: (** Enabling=4 **) (** fast=1 **) (** FPU=2 **) (** save=1 **) (** and=2 **) (** restore...=1 **) (** done.=3 **)
+22702312   ReDate ReTime bastion kernel: (** Enabling=4 **) (** unmasked=1 **) (** SIMD=1 **) (** FPU=2 **) (** exception=1 **) (** support...=1 **) (** done.=3 **)
+22702312   ReDate ReTime bastion kernel: (** Checking=3 **) (** hlt=1 **) (** instruction...=1 **) (** OK.=1 **)
+22702312   ReDate ReTime bastion kernel: (** mtrr:=2 **) (** v**.4**=1 **) (**) (** Richard=1 **) (** Gooch=1 **) (** (rgooch@atnf.csiro.au)=1 **)
+22702312   ReDate ReTime bastion kernel: (** (** mtrr=1 **):=2 **) (** detected=11 **) mtrr (** type:=1 **) (** Intel=6 **)
+22702312   ReD(** at=13 **)e ReTime bastion kernel: (** (** PCI=3 **):=9 **) PCI (** BIOS=5 **) (** revision=1 **) (** 2.1**=1 **) (** entry=1 **) at (** 0xfda9**=1 **), (** last=1 **) (** bus=0=1 **)
+22702312   ReDate ReTime bastion kernel: (** PCI:=9 **) (** Using=7 **) (** configuration=1 **) (** typeReDigit=1 **)
+22702312   ReDate ReTime bastion kernel: (** (** PCI=3 **):=9 **) (** Probing=1 **) PCI (** hardware=1 **)
+22702312   ReD(** at=13 **)e ReTime bastion kernel: (** PCI:=9 **) (** Using=7 **) (** IRQ=7 **) (** router=2 **) (** PIIX=1 **) (** [808**RePath**]=1 **) at (** 0**:0**.0=1 **)
+22702312   ReDate ReTime bastion kernel: (** Limiting=1 **) (** direct=1 **) (** PCIRePathPCI=1 **) (** transfers.=1 **)
+22702312   ReDate ReTime bastion kernel: (** Based=1 **) (** upon=1 **) (** Swansea=1 **) (** University=1 **) (** Computer=1 **) (** Society=1 **) (** NET**.03**=1 **)
+22702312   ReDate ReTime bastion kernel: (** Initializing=8 **) (** RT=1 **) (** netlink=1 **) (** socket=1 **)
+22702312   ReDate ReTime bastion kernel: (** apm:=1 **) (** BIOS=5 **) (** (** version=7 **)=7 **) (** 1.2=2 **) (** Flags=4 **) (** 0x**b=1 **) (** (Driver=1 **) version (** 1.1**)=2 **)
+22702312   ReDate ReTime bastion kernel: (** Starting=4 **) (** kswapd=1 **)
+22702312   ReDate ReTime bastion kernel: (** VFS:=2 **) (** Diskquotas=1 **) (** version=7 **) (** dquot_**.5.0=1 **) (** initialized=4 **)
+22702312   ReDate ReTime bastion kernel: (** pty:=1 **) (** 204**=1 **) (** Unix9**=1 **) (** ptys=1 **) (** configured=2 **)
+22702312   ReDate ReTime bastion kernel: (** Serial=3 **) (** driver=15 **) (** version=7 **) (** 5.0**c=1 **) (** (200**-0**-0**)=1 **) (** with=8 **) (** MANY_PORTS=1 **) (** MULTIPORT=1 **) (** SHARE_IRQ=1 **) (** SERIAL_PCI=1 **) (** ISAPNP=1 **) (** enabled=3 **)
+22702312   ReD(** (** a=4 **)t(** ==9 **)13 **)e ReTime bastion kernel: (** ttyS0**=2 **) at (** 0x03f**=1 **) (** (irq=2 **) = (** 4)=1 **) (** is=6 **) a (** 1655**A=2 **)
+22702312   ReD(** (** a=4 **)t(** ==9 **)13 **)e ReTime bastion kernel: (** ttyS0**=2 **) at (** 0x02f**=1 **) (** (irq=2 **) = (** 3)=2 **) (** is=6 **) a (** 1655**A=2 **)
+22702312   ReDate Re(** Time=8 **) bastion kernel: (** Real=1 **) Time (** Clock=2 **) Driver (** v**.1**e=1 **)
+22702312   ReDate ReTime bastion kernel: (** block:=1 **) (** 99**=1 **) (** slots=1 **) (** per=1 **) (** queue=6 **), (** batch=24**=1 **)
+22702312   ReDate ReTime bastion kernel: (** Uniform=2 **) (** Multi-Platform=1 **) (** E-IDE=1 **) (** driver=15 **) (** Revision:=2 **) (** 6.3**=1 **)
+22702312   ReDate ReTime basti(** on=22 **) kernel: (** PIIX**:=3 **) (** IDE=1 **) (** controller=3 **) on (** PCI=3 **) (** bus=4 **) (** 0**=2 **) (** dev=1 **) (** 3**=1 **)
+22702312   ReDate ReTime bastion kernel: (** PIIX**:=3 **) (** chipset=1 **) (** revisionReDigit=1 **)
+22702312   ReDate ReTime bastion kernel: (** PIIX**:=3 **) (** not=45 **) (** 10**%%=1 **) (** native=1 **) (** mode:=2 **) (** will=1 **) (** probe=1 **) (** irqs=1 **) (** later=1 **)
+22702312   ReD(** at=13 **)e ReTime bastion kernel:     (** ide**:=2 **) (** BM-DMA=2 **) at (** 0xffa**-0xffa**=1 **), (** BIOS=5 **) (** settings:=2 **) (** hda:DMA=1 **), (** hdb:DMA=1 **)
+22702312   ReD(** at=13 **)e ReTime bastion kernel:     (** ide**:=2 **) (** BM-DMA=2 **) at (** 0xffa**-0xffaf=1 **), (** BIOS=5 **) (** settings:=2 **) (** hdc:DMA=1 **), (** hdd:pio=1 **)
+22702312   ReDate ReTime bastion kernel: (** hda:=3 **) (** IC35L020AVER0**-0=2 **), (** ATA=2 **) (** DISK=2 **) (** drive=4 **)
+22702312   ReDate ReTime bastion kernel: (** hdb:=3 **) (** IC35L020AVER0**-0=2 **), (** ATA=2 **) (** DISK=2 **) (** drive=4 **)
+22702312   ReDate ReTime bastion kernel: (** hdc:=3 **) (** CD-22**E=1 **), (** ATAPI=2 **) (** CDRePathDVD-ROM=1 **) (** drive=4 **)
+22702312   ReD(** at=13 **)e ReTime basti(** on=22 **) kernel: (** ide**=2 **) at (** 0x1f**-0x1f**=1 **),(** 0x3f**=1 **) on irq (** 1**=19 **)
+22702312   ReD(** at=13 **)e ReTime basti(** on=22 **) kernel: (** ide**=2 **) at (** 0x17**-0x17**=1 **),(** 0x37**=1 **) on irq (** 1**=19 **)
+22702312   ReDate ReTime bastion kernel: (** blk:=2 **) (** queue=6 **) (** c035e6a**=1 **), (** IRePathO=3 **) (** limit=2 **) (** 409**Mb=2 **) (** (mask=2 **) (** 0xffffffff)=2 **)
+22702312   ReDate ReTime bastion kernel: (** hda:=3 **) (** 3906250**=2 **) (** sectors=2 **) (** (2000**=2 **) (** MB)=2 **) (** wRePath**KiB=2 **) Cache, (** CHS=243**RePath**RePath**=2 **), (** UDMA(**)=2 **)
+22702312   ReDate ReTime bastion kernel: (** blk:=2 **) (** queue=6 **) (** c035e7f**=1 **), (** IRePathO=3 **) (** limit=2 **) (** 409**Mb=2 **) (** (mask=2 **) (** 0xffffffff)=2 **)
+22702312   ReDate ReTime bastion kernel: (** hdb:=3 **) (** 3906250**=2 **) (** sectors=2 **) (** (2000**=2 **) (** MB)=2 **) (** wRePath**KiB=2 **) Cache, (** CHS=243**RePath**RePath**=2 **), (** UDMA(**)=2 **)
+22702312   ReDate ReTime bastion kernel: (** ide-floppy=3 **) (** driver=15 **) (** 0.9**.newide=3 **)
+22702312   ReDate ReTime bastion kernel: (** Partition=1 **) (** check:=1 **)
+22702312   ReDate ReTime bastion kernel:  (** hda:=3 **) (** (** (** hda**=3 **)=3 **)=3 **) hda** hda**
+22702312   ReDate ReTime bastion kernel:  (** hdb:=3 **) (** (** hdb**=2 **)=2 **) hdb**
+22702312   ReDate ReTime bastion kernel: (** Floppy=1 **) (** drive(**):=1 **) (** fd**=1 **) (** is=6 **) (** 1.4**M=1 **)
+22702312   ReD(** a=4 **)te ReTime bastion kernel: (** FDCReDigitis=1 **) a (** post-199**=1 **) (** 8207**=1 **)
+22702312   ReDate ReTime bastion kernel: (** (** RAM=2 **)DISK=1 **) (** driver=15 **) (** initialized:=1 **) (** 1**=19 **) RAM (** disks=1 **) (** of=2 **) (** 409**K=1 **) (** size=1 **) (** 102**=1 **) (** blocksize=1 **)
+22702312   ReDate ReTime bastion kernel: (** ide-floppy=3 **) (** driver=15 **) (** 0.9**.newide=3 **)
+22702312   ReDate ReTime bastion kernel: (** (** md=1 **):=4 **) md (** driver=15 **) (** 0.9**.0=1 **) (** MAX_MD_DEVS=25**=1 **), (** MD_SB_DISKS=2**=1 **)
+22702312   ReDate ReTime bastion kernel: (** md:=4 **) (** Autodetecting=1 **) (** RAID=1 **) (** arrays.=1 **)
+22702312   ReDate ReTime bastion kernel: (** md:=4 **) (** autorun=2 **) (** ...=2 **)
+22702312   ReDate ReTime bastion kernel: (** md:=4 **) (** ...=2 **) (** autorun=2 **) DONE.
+22702312   ReDate ReTime bastion kernel: (** IP=2 **) (** Protocols:=1 **) (** ICMP=1 **), (** UDP=1 **), (** TCP=1 **), (** IGMP=1 **)
+22702312   ReDate ReTime bastion kernel: (** IP:=1 **) (** routing=1 **) (** cache=7 **) (** hash=7 **) (** table=12 **) (** of=2 **) (** 409**=2 **) (** buckets=2 **), (** 3**Kbytes=1 **)
+22702312   ReDate ReTime bastion kernel: (** TCP:=1 **) Hash (** tables=2 **) (** configured=2 **) (** (established=1 **) (** 3276**=3 **) (** bind=1 **) (** 3276**)=1 **)
+22702312   ReDate ReTime bastion kernel: (** Linux=8 **) (** IP=2 **) (** multicast=1 **) (** router=2 **) (** 0.0**=1 **) (** plus=1 **) (** PIM-SM=1 **)
+22702312   ReD(** at=13 **)e ReTime bastion kernel: (** RAMDISK:=1 **) (** Compressed=1 **) (** image=1 **) (** found=6 **) at (** blockReDigit=1 **)
+22702312   ReDate ReTime bastion kernel: (** Freeing=2 **) (** initrd=1 **) memory: (** 11**k=1 **) (** freed=2 **)
+22702312   ReDate ReTime bastion kernel: (** VFS:=2 **) (** Mounted=5 **) (** root=23 **) (** (ext**=1 **) (** filesystem).=1 **)
+22702312   ReDate ReTime bastion kernel: (** kjournald=4 **) (** starting.=4 **)  (** Commit=4 **) (** intervalReDigitseconds=4 **)
+22702312   ReDate ReTime bastion kernel: (** EXT**-fs:=4 **) mounted (** filesystem=7 **) (** with=8 **) (** ordered=4 **) (** data=5 **) (** mode.=4 **)
+22702312   ReDate ReTime bastion kernel: (** Freeing=2 **) (** unused=1 **) kernel memory: (** 28**k=2 **) (** freed=2 **)
+22702312   ReDate ReTime bastion kernel: (** Adding=1 **) (** Swap:=1 **) (** 102812**k=1 **) (** swap-space=1 **) (** (priority=1 **) (** -1)=1 **)
+22702312   ReDate ReTime bastion kernel: (** usb.c:=5 **) (** registered=4 **) (** new=19 **) (** driver=15 **) (** usbdevfs=1 **)
+22702312   ReDate ReTime bastion kernel: (** usb.c:=5 **) (** registered=4 **) (** new=19 **) (** driver=15 **) (** hub=2 **)
+22702312   ReD(** at=13 **)e ReTime bastion kernel: (** usb-uhci.c:=5 **) (** USB=7 **) (** UHCI=1 **) at (** IRePathO=3 **) (** 0xef8**=1 **), (** IRQ=7 **) (** 1**=19 **)
+22702312   ReDate ReTime bastion kernel: (** usb-uhci.c:=5 **) (** DetectedReDigitports=1 **)
+22702312   ReDate ReTime bastion kernel: (** usb.c:=5 **) (** new=19 **) (** USB=7 **) (** (** bus=4 **)=4 **) (** registered=4 **), (** assigned=5 **) bus (** numberReDigit=2 **)
+22702312   ReDate ReTime bastion kernel: (** (** hub=2 **).c:=2 **) (** USB=7 **) hub (** found=6 **)
+22702312   ReDate ReTime bastion kernel: (** hub.c:ReDigitports=1 **) (** detected=11 **)
+22702312   ReDate ReTime bastion kernel: (** usb-uhci.c:=5 **) (** v**.27**:USB=1 **) (** Universal=1 **) (** Host=4 **) Controller (** Interface=4 **) (** driver=15 **)
+22702312   ReDate ReTime bastion kernel: (** usb.c:=5 **) (** registered=4 **) (** new=19 **) (** driver=15 **) (** usbnet=2 **)
+22702312   ReDate ReTime bastion kernel: (** usb**:=1 **) (** register=1 **) (** usbnet=2 **) (** 00**RePath**=1 **), (** Prolific=1 **) (** PL-230**RePathPL-230**=1 **)
+22702312   ReDate ReTime basti(** on=22 **) kernel: (** EXT**=4 **) (** FS=4 **) (** 2.4-0.9.(** 1**=19 **)=4 **), 1** (** ReDate0**=4 **) on (** ide**(3=4 **),(** 1)=1 **), (** internal=6 **) (** journal=4 **)
+22702312   ReDate ReTime bastion kernel: (** kjournald=4 **) (** starting.=4 **)  (** Commit=4 **) (** intervalReDigitseconds=4 **)
+22702312   ReDate ReTime basti(** on=22 **) kernel: (** EXT**=4 **) (** FS=4 **) (** 2.4-0.9.(** 1**=19 **)=4 **), 1** (** ReDate0**=4 **) on (** ide**(3=4 **),(** 3)=2 **), (** internal=6 **) (** journal=4 **)
+22702312   ReDate ReTime bastion kernel: (** EXT**-fs:=4 **) mounted (** filesystem=7 **) (** with=8 **) (** ordered=4 **) (** data=5 **) (** mode.=4 **)
+22702312   ReDate ReTime bastion kernel: (** kjournald=4 **) (** starting.=4 **)  (** Commit=4 **) (** intervalReDigitseconds=4 **)
+22702312   ReDate ReTime basti(** on=22 **) kernel: (** EXT**=4 **) (** FS=4 **) (** 2.4-0.9.(** 1**=19 **)=4 **), 1** (** ReDate0**=4 **) on (** ide**(3=4 **),(** 6**)=1 **), (** internal=6 **) (** journal=4 **)
+22702312   ReDate ReTime bastion kernel: (** EXT**-fs:=4 **) mounted (** filesystem=7 **) (** with=8 **) (** ordered=4 **) (** data=5 **) (** mode.=4 **)
+22702312   ReDate ReTime bastion kernel: (** kjournald=4 **) (** starting.=4 **)  (** Commit=4 **) (** intervalReDigitseconds=4 **)
+22702312   ReDate ReTime basti(** on=22 **) kernel: (** EXT**=4 **) (** FS=4 **) (** 2.4-0.9.(** 1**=19 **)=4 **), 1** (** ReDate0**=4 **) on (** ide**(3=4 **),(** 2)=1 **), (** internal=6 **) (** journal=4 **)
+22702312   ReDate ReTime bastion kernel: (** EXT**-fs:=4 **) mounted (** filesystem=7 **) (** with=8 **) (** ordered=4 **) (** data=5 **) (** mode.=4 **)
+22702312   ReDate ReTime bastion kernel: (** ide-floppy=3 **) (** driver=15 **) (** 0.9**.newide=3 **)
+22702312   ReDate ReTime bastion kernel: (** hdc:=3 **) (** ATAPI=2 **) (** 2**X=1 **) (** CD-ROM=2 **) (** drive=4 **), (** 12**kB=1 **) Cache, (** DMA=2 **)
+22702312   ReDate ReTime bastion kernel: (** Uniform=2 **) (** CD-ROM=2 **) (** driver=15 **) (** Revision:=2 **) (** 3.1**=1 **)
+22702312   ReDate ReTime bastion kernel: (** hdc:=3 **) (** DMA=2 **) (** disabled=9 **)
+22702312   ReDate ReTime bastion kernel: (** eepro10**.c:v**.0**j-t=1 **) (** 9RePath**RePath**=1 **) (** Donald=1 **) (** Becker=1 **) (** http:RePath.comRePath**.html=1 **)
+22702312   ReDate ReTime bastion kernel: (** eepro10**.c:=1 **) (** (** $=2 **)Revision:=2 **) (** 1.3**=1 **) $ (** 200**RePath**RePath**=1 **) (** Modified=1 **) (** by=53 **) (** Andrey=1 **) (** V.=1 **) (** Savochkin=1 **) (** <saw@saw.sw.com.sg>=1 **) (** and=2 **) (** others=1 **)
+22702312   ReDate ReTime bastion kernel: (** PCI:=9 **) (** Sharing=2 **) (** IRQReDigitwith=2 **) (** 0**:0d.0=2 **)
+22702312   ReDate ReTime bastion kernel: (** eth**:=3 **) (** Intel=6 **) (** Corp.=2 **) (** 8255**=2 **) (** [Ethernet=2 **) (** Pro=2 **) (** 10**]=2 **), (** ReTime:A**:BF:9B=1 **), (** IRQ=7 **) (** 5.=2 **)
+22702312   ReDate ReTime bastion kernel:   (** Board=2 **) (** assembly=2 **) (** 00000**-00**=2 **), Physical (** connectors=2 **) (** present:=2 **) (** RJ4**=2 **)
+22702312   ReDate ReTime bastion kernel:   (** Primary=2 **) interface (** chip=2 **) (** i8255**=2 **) (** PHY=2 **) (** #1.=2 **)
+22702312   ReDate ReTime bastion kernel:   (** General=2 **) (** self-test:=8 **) (** passed.=6 **)
+22702312   ReDate ReTime bastion kernel:   (** Serial=3 **) (** sub-system=2 **) (** self-test:=8 **) (** passed.=6 **)
+22702312   ReDate ReTime bastion kernel:   Internal (** registers=2 **) (** self-test:=8 **) (** passed.=6 **)
+22702312   ReDate ReTime bastion kernel:   (** ROM=2 **) (** checksum=2 **) (** self-test:=8 **) (** passed=2 **) (** (**).=2 **)
+22702312   ReDate ReTime bastion kernel: (** PCI:=9 **) (** Sharing=2 **) (** IRQReDigitwith=2 **) (** 0**:0c.0=2 **)
+22702312   ReDate ReTime bastion kernel: (** eth**:=3 **) (** Intel=6 **) (** Corp.=2 **) (** 8255**=2 **) (** [Ethernet=2 **) (** Pro=2 **) (** 10**]=2 **) (** (#2)=1 **), (** ReTime:A**:BF:9C=1 **), (** IRQ=7 **) (** 5.=2 **)
+22702312   ReDate ReTime bastion kernel:   (** Board=2 **) (** assembly=2 **) (** 00000**-00**=2 **), Physical (** connectors=2 **) (** present:=2 **) (** RJ4**=2 **)
+22702312   ReDate ReTime bastion kernel:   (** Primary=2 **) interface (** chip=2 **) (** i8255**=2 **) (** PHY=2 **) (** #1.=2 **)
+22702312   ReDate ReTime bastion kernel:   (** General=2 **) (** self-test:=8 **) (** passed.=6 **)
+22702312   ReDate ReTime bastion kernel:   (** Serial=3 **) (** sub-system=2 **) (** self-test:=8 **) (** passed.=6 **)
+22702312   ReDate ReTime bastion kernel:   Internal (** registers=2 **) (** self-test:=8 **) (** passed.=6 **)
+22702312   ReDate ReTime bastion kernel:   (** ROM=2 **) (** checksum=2 **) (** self-test:=8 **) (** passed=2 **) (** (**).=2 **)
+22702312   ReDate ReTime bastion kernel: (** ip_tables:=1 **) (**) (** 200**-200**=1 **) (** Netfilter=1 **) (** core=1 **) (** team=1 **)
+22702312   ReDate ReTime bastion kernel: (** ip_conntrack=1 **) (** (409**=1 **) (** buckets=2 **), (** 3275**=1 **) (** max)=1 **)
+22702312   ReDate ReTime bastion kernel: (** Kernel=13 **) (** logging=2 **) (**) (** stopped.=2 **)
+22702312   ReDate ReTime bastion kernel: (** Kernel=13 **) (** log=6 **) (** daemon=7 **) (** terminating.=3 **)
+22702312   ReDate ReTime bastion kernel: (** k(** log(** ==9 **)6 **)d=10 **) (** 1.4.1=4 **), log (** source=4 **) = (** RePath=15 **) (** started.=4 **)
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath) 
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22429072   ReDate ReTime bridge CROND[**]: (**) CMD (** (run-parts=186 **) RePath)  
+22420912   ReDate ReTime bastion (** login(**)[**]:=12 **) session opened for user (** root=23 **) by (** LOGIN(uid=0)=6 **)
+22420912   ReDate ReTime bastion (** login(**)[**]:=12 **) session opened for user (** root=23 **) by (** LOGIN(uid=0)=6 **)
+22420912   ReDate ReTime bastion (** su(**)[**]:=9 **) session opened for user (** root=23 **) by (** anton(uid=50**)=3 **)
+22420912   ReDate ReTime bastion (** su(**)[**]:=9 **) session opened for user (** root=23 **) by (** anton(uid=50**)=3 **)
+22420912   ReDate ReTime bastion (** su(**)[**]:=9 **) session opened for user (** root=23 **) by (** anton(uid=50**)=3 **)
+22420912   ReDate ReTime bastion (** login(**)[**]:=12 **) session opened for user (** root=23 **) by (** LOGIN(uid=0)=6 **)
+22251232   ReDate ReTime bastion (** login(**)[**]:=12 **) session closed for user (** root=23 **)
+22251232   ReDate ReTime bastion (** login(**)[**]:=12 **) session closed for user (** root=23 **)
+22251232   ReDate ReTime bastion (** su(**)[**]:=9 **) session closed for user (** root=23 **)
+22251232   ReDate ReTime bastion (** su(**)[**]:=9 **) session closed for user (** root=23 **)
+22251232   ReDate ReTime bastion (** login(**)[**]:=12 **) session closed for user (** root=23 **)
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+22242032   ReDate ReTime bastion sshd[**]: Could not reverse map address ReIP.
+21672464   ReDate ReTime bastion (** ntpd=8 **)[**]: ntpd (** 4.1.1@1.78**=3 **) (** Mon=3 **) ReDate ReTime (** EDT=6 **) (** 200**=7 **) (**)
+20179832   ReDate ReTime bastion ntpd[**]: (** frequency=3 **) (** initialized=4 **) 0.00** from (** RePath=15 **)
+20038464   ReDate ReTime bastion (** (** httpd:=21 **)=21 **) (** [Mon=3 **) ReDate ReTime (** 200**]=3 **) (** [alert]=3 **) httpd: (** Could=39 **) (** not=45 **) (** determine=3 **) (** the=13 **) (** servers=3 **) (** fully=3 **) (** qualified=3 **) (** domain=6 **) (** name=9 **), using (** ReIP=40 **) for (** ServerName=3 **)
+20038464   ReDate ReTime bastion (** (** httpd:=21 **)=21 **) (** [Mon=3 **) ReDate ReTime (** 200**]=3 **) (** [alert]=3 **) httpd: (** Could=39 **) (** not=45 **) (** determine=3 **) (** the=13 **) (** servers=3 **) (** fully=3 **) (** qualified=3 **) (** domain=6 **) (** name=9 **), using (** ReIP=40 **) for (** ServerName=3 **)
+20038464   ReDate ReTime bastion (** (** httpd:=21 **)=21 **) (** [Mon=3 **) ReDate ReTime (** 200**]=3 **) (** [alert]=3 **) httpd: (** Could=39 **) (** not=45 **) (** determine=3 **) (** the=13 **) (** servers=3 **) (** fully=3 **) (** qualified=3 **) (** domain=6 **) (** name=9 **), using (** ReIP=40 **) for (** ServerName=3 **)
+20004832   ReDate ReTime bastion sshd[**]: (** Connection=2 **) closed by ReIP
+20004832   ReDate ReTime bastion sshd[**]: (** Connection=2 **) closed by ReIP
+19768632   ReDate ReTime bastion ntpd[**]: (** (** signal=8 **)_no_reset:=3 **) signal (** 1**=19 **) (** had=3 **) flags (** 400000**=3 **)
+19768632   ReDate ReTime bastion ntpd[**]: (** precision(** ==9 **)3 **) = (** 2**=1 **) (** usec=3 **)
+19768632   ReDate Re(** Time=8 **) bastion ntpd[**]: kernel time (** discipline=5 **) (** status=12 **) (** 004**=3 **)
+19768632   ReDate ReTime b(** as=3 **)tion ntpd[**]: (** running=5 **) as (** uid(**)RePath(**)=3 **) (** euid(**)RePath(**).=3 **)
+19768632   ReDate Re(** Time=8 **) bastion ntpd[**]: kernel time (** discipline=5 **) (** status=12 **) (** change=10 **) (** 4**=3 **)
+19764632   ReDate ReTime basti(** on=22 **) sshd[**]: (** Server=1 **) (** listening=9 **) on (** ReIP=40 **) port (** 2**.=1 **)
+19500712   ReDate ReTime bastion (** syslog:=13 **) (** syslogd=13 **) (** startup=26 **) succeeded
+19500712   ReDate ReTime bastion (** syslog:=13 **) (** klogd=10 **) (** startup=26 **) succeeded
+19500712   ReDate ReTime bastion (** keytable:=2 **) (** Loading=3 **) (** keymap:=1 **)  succeeded
+19500712   ReDate ReTime bastion (** keytable:=2 **) (** Loading=3 **) (** system=9 **) (** font:=1 **)  succeeded
+19500712   ReDate ReTime bastion (** netfs:=1 **) (** Mounting=4 **) (** other=1 **) (** filesystems:=2 **)  succeeded
+19500712   ReDate ReTime bastion (** (** apmd=2 **):=2 **) apmd (** startup=26 **) succeeded
+19500712   ReDate ReTime bastion (** sshd:=6 **)  succeeded
+19500712   ReDate ReTime bastion (** rc:=1 **) (** Starting=4 **) (** sshd:=6 **)  succeeded
+19500712   ReDate ReTime bastion (** (** gpm=2 **):=2 **) gpm (** startup=26 **) succeeded
+19500712   ReDate ReTime bastion (** rc.sysinit:=17 **) (** Mounting=4 **) (** proc=1 **) (** filesystem:=2 **)  succeeded 
+19500712   ReDate ReTime bastion (** rc.sysinit:=17 **) (** Unmounting=1 **) (** initrd:=1 **)  succeeded 
+19500712   ReDate ReTime bastion (** rc.sysinit:=17 **) (** Configuring=1 **) kernel (** parameters:=2 **)  succeeded 
+19500712   ReDate ReTime bastion (** rc.sysinit:=17 **) (** Loading=3 **) (** default=2 **) (** keymap=1 **) succeeded 
+19500712   ReDate ReTime bastion (** rc.sysinit:=17 **) (** Setting=4 **) (** default=2 **) (** font=1 **) (** (lat**-sun1**):=1 **)  succeeded 
+19500712   ReDate ReTime bastion (** rc.sysinit:=17 **) (** Activating=1 **) (** swap=2 **) (** partitions:=1 **)  succeeded 
+19500712   ReDate ReTime bastion (** rc.sysinit:=17 **) (** Setting=4 **) (** hostname=1 **) (** bastion:=1 **)  succeeded 
+19500712   ReDate ReTime bastion (** rc.sysinit:=17 **) (** Mounting=4 **) (** USB=7 **) (** filesystem:=2 **)  succeeded 
+19500712   ReDate ReTime bastion (** rc.sysinit:=17 **) (** Initializing=8 **) (** USB=7 **) (** controller=3 **) (** (usb-uhci):=1 **)  succeeded 
+19500712   ReDate ReTime bastion (** rc.sysinit:=17 **) (** Checking=3 **) (** root=23 **) (** filesystem=7 **) succeeded 
+19500712   ReDate ReTime bastion (** rc.sys(** in=3 **)it:=17 **) (** Remounting=1 **) (** root=23 **) (** filesystem=7 **) in (** read-write=1 **) (** mode:=2 **)  succeeded 
+19500712   ReDate ReTime bastion (** rc.sysinit:=17 **) (** Finding=1 **) (** module=2 **) (** dependencies:=1 **)  succeeded 
+19500712   ReDate ReTime bastion (** rc.sysinit:=17 **) (** Checking=3 **) (** filesystems=1 **) succeeded 
+19500712   ReDate ReTime bastion (** rc.sysinit:=17 **) (** Mounting=4 **) (** local=2 **) (** filesystems:=2 **)  succeeded 
+19500712   ReDate ReTime bastion (** rc.sysinit:=17 **) (** Enabling=4 **) (** local=2 **) (** filesystem=7 **) (** quotas:=1 **)  succeeded 
+19500712   ReDate ReTime bastion (** rc.sysinit:=17 **) (** Enabling=4 **) (** swap=2 **) (** space:=1 **)  succeeded 
+19500712   ReDate ReTime bastion (** (** network=4 **):=3 **) (** Setting=4 **) network (** parameters:=2 **)  succeeded 
+19500712   ReDate ReTime bastion (** (** crond=2 **):=2 **) crond (** startup=26 **) succeeded
+19500712   ReDate ReTime bastion (** anacron:=1 **) anacron (** startup=26 **) succeeded
+19500712   ReDate ReTime bastion (** (** atd=2 **):=2 **) atd (** startup=26 **) succeeded
+19500712   ReDate ReTime bastion (** syslog:=13 **) (** klogd=10 **) (** shutdown=18 **) succeeded
+19500712   ReDate ReTime bastion (** syslog:=13 **) (** syslogd=13 **) (** startup=26 **) succeeded
+19500712   ReDate ReTime bastion (** syslog:=13 **) (** klogd=10 **) (** startup=26 **) succeeded
+19500712   ReDate ReTime bastion (** syslog:=13 **) (** syslogd=13 **) (** shutdown=18 **) succeeded 
+19500712   ReDate ReTime bastion (** (** ntpd=8 **):=4 **) ntpd (** startup=26 **) succeeded
+19500712   ReDate ReTime bastion (** mysqld:=2 **) (** Initializing=8 **) (** MySQL=6 **) (** database:=1 **)  succeeded
+19500712   ReDate ReTime bastion (** mysqld:=2 **) (** Starting=4 **) (** MySQL:=1 **)  succeeded
+19500712   ReDate ReTime bastion (** (** snort=9 **)d:=4 **) snort (** startup=26 **) succeeded
+19500712   ReDate ReTime bastion (** (** snort=9 **)d:=4 **) snort (** startup=26 **) succeeded
+19500712   ReDate ReTime bastion (** (** snort=9 **)d:=4 **) snort (** shutdown=18 **) succeeded
+19500712   ReDate ReTime bastion (** (** snort=9 **)d:=4 **) snort (** startup=26 **) succeeded
+19500712   ReDate ReTime bastion (** (** httpd=12 **):=21 **) httpd (** startup=26 **) succeeded
+19500712   ReDate ReTime bastion (** (** httpd=12 **):=21 **) httpd (** shutdown=18 **) succeeded
+19500712   ReDate ReTime bastion (** (** httpd=12 **):=21 **) httpd (** startup=26 **) succeeded
+19500712   ReDate ReTime bastion (** (** httpd=12 **):=21 **) httpd (** startup=26 **) succeeded
+19500712   ReDate ReTime bastion (** (** httpd=12 **):=21 **) httpd (** startup=26 **) succeeded
+19500712   ReDate ReTime bastion (** (** httpd=12 **):=21 **) httpd (** startup=26 **) succeeded
+19500712   ReDate ReTime bastion (** (** httpd=12 **):=21 **) httpd (** startup=26 **) succeeded
+19163472   ReD(** a=4 **)te ReTime bastion (** mysql_install_db:=32 **) (** PLEASE=2 **) (** REMEMBER=1 **) TO (** SET=4 **) A (** PASSWORD=3 **) FOR THE (** MySQL=6 **) (** root=23 **) USER (** !=1 **)
+19110464   ReDate ReTime bastion (** date:=1 **) (** Thu=3 **) ReDate ReTime (** EDT=6 **) (** 200**=7 **) 
+19110464   ReDate ReTime bastion (** rc.sysinit:=17 **) (** Setting=4 **) clock  (** (**):=1 **) (** Thu=3 **) ReDate ReTime (** EDT=6 **) (** 200**=7 **) (** succeeded=67 **) 
+18944872   ReDate ReTime basti(** on=22 **)  (** --=8 **) (** anton[**]:=3 **) (** LOGIN=6 **) ON (** tty**=6 **) BY anton
+18944872   ReDate ReTime basti(** on=22 **)  (** --=8 **) (** anton[**]:=3 **) (** LOGIN=6 **) ON (** tty**=6 **) BY anton
+18944872   ReDate ReTime basti(** on=22 **)  (** --=8 **) (** anton[**]:=3 **) (** LOGIN=6 **) ON (** tty**=6 **) BY anton
+18340552   ReDate ReTime bastion (** snort:=16 **) (** FATAL=1 **) (** ERROR:=1 **) ERROR (** RePath(**)=1 **) (** =>=1 **) (** Unknown=1 **) (** argument=3 **) (** to=26 **) (** http_decode=1 **) (** preprocessor:=1 **) (** "unicode"=1 **) 
+18235472   ReDate ReTime bastion (** mysql_install_db:=32 **) (** Preparing=6 **) user (** table=12 **)
+18209544   ReDate ReTime bastion (** mysql_install_db:=32 **) (** 02093**=1 **) ReTime  
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18139592   ReDate ReTime bridge ntpd[**]: offset 0.00000** sec freq 0.00** ppm error 0.00001** pollReDigit
+18134632   ReDate ReTime bastion (** anacron[**]:=11 **) (** Updated=9 **) (** timestamp=9 **) for (** job=9 **) (** `cron.daily=7 **) (** to=26 **) (** 200**-0**-2**=8 **)
+18134632   ReDate ReTime bastion (** anacron[**]:=11 **) (** Updated=9 **) (** timestamp=9 **) for (** job=9 **) (** `cron.daily=7 **) (** to=26 **) (** 200**-0**-2**=8 **)
+18134632   ReDate ReTime bastion (** anacron[**]:=11 **) (** Updated=9 **) (** timestamp=9 **) for (** job=9 **) (** `cron.daily=7 **) (** to=26 **) (** 200**-0**-2**=8 **)
+18134632   ReDate ReTime bastion (** anacron[**]:=11 **) (** Updated=9 **) (** timestamp=9 **) for (** job=9 **) (** `cron.weekly=2 **) (** to=26 **) (** 200**-0**-2**=8 **)
+18134632   ReDate ReTime bastion (** anacron[**]:=11 **) (** Updated=9 **) (** timestamp=9 **) for (** job=9 **) (** `cron.daily=7 **) (** to=26 **) (** 200**-0**-3**=2 **)
+18134632   ReDate ReTime bastion (** mysql_install_db:=32 **) (** to=26 **) (** the=13 **) (** right=1 **) (** place=1 **) for (** your=1 **) (** system=9 **)
+18134632   ReDate ReTime bastion (** mysql_install_db:=32 **) (** See=1 **) (** the=13 **) (** manual=1 **) for (** more=1 **) (** instructions.=1 **)
+18134632   ReDate ReTime bastion (** sendmail[**]:=8 **) (** My=4 **) (** unqualified=2 **) host (** name=9 **) (**) (** unknown;=2 **) (** sleeping=2 **) for (** retry=2 **)
+18134632   ReDate ReTime bastion (** sendmail[**]:=8 **) (** My=4 **) (** unqualified=2 **) host (** name=9 **) (**) (** unknown;=2 **) (** sleeping=2 **) for (** retry=2 **)
+17524432   ReDate ReTime bridge kernel: device usb** entered promiscuous mode
+17524432   ReDate ReTime bridge kernel: device usb** entered promiscuous mode
+17524432   ReDate ReTime bridge kernel: device usb** entered promiscuous mode
+17524432   ReDate ReTime bridge kernel: device usb** entered promiscuous mode
+17524432   ReDate ReTime bridge kernel: device usb** entered promiscuous mode
+17524432   ReDate ReTime bridge kernel: device usb** entered promiscuous mode
+17524432   ReDate ReTime bridge kernel: device usb** entered promiscuous mode
+17524432   ReDate ReTime bridge kernel: device usb** entered promiscuous mode
+17524432   ReDate ReTime bridge kernel: device usb** entered promiscuous mode
+17524432   ReDate ReTime bridge kernel: device usb** entered promiscuous mode
+17524432   ReDate ReTime bridge kernel: device usb** entered promiscuous mode
+17472672   ReDate ReTime bridge kernel: device eth** entered promiscuous mode
+17472672   ReDate ReTime bridge kernel: device eth** entered promiscuous mode
+17472672   ReDate ReTime bridge kernel: device eth** entered promiscuous mode
+17472672   ReDate ReTime bridge kernel: device eth** entered promiscuous mode
+17472672   ReDate ReTime bridge kernel: device eth** entered promiscuous mode
+17472672   ReDate ReTime bridge kernel: device eth** entered promiscuous mode
+17472672   ReDate ReTime bridge kernel: device eth** entered promiscuous mode 
+17472672   ReDate ReTime bridge kernel: device eth** entered promiscuous mode 
+17213072   ReDate ReTime bridge kernel: device usb** left promiscuous mode
+17213072   ReDate ReTime bridge kernel: device usb** left promiscuous mode
+17213072   ReDate ReTime bridge kernel: device usb** left promiscuous mode
+17213072   ReDate ReTime bridge kernel: device usb** left promiscuous mode
+17213072   ReDate ReTime bridge kernel: device usb** left promiscuous mode
+17213072   ReDate ReTime bridge kernel: device usb** left promiscuous mode
+17213072   ReDate ReTime bridge kernel: device usb** left promiscuous mode
+17213072   ReDate ReTime bridge kernel: device usb** left promiscuous mode
+17213072   ReDate ReTime bridge kernel: device usb** left promiscuous mode
+17213072   ReDate ReTime bridge kernel: device usb** left promiscuous mode
+17213072   ReDate ReTime bridge kernel: device usb** left promiscuous mode
+17206632   ReDate ReTime bastion (** syslogd=13 **) (** 1.4.1:=6 **) (** restart.=4 **)
+17206632   ReDate ReTime bastion (** (** random=2 **):=2 **) (** Initializing=8 **) random (** number=1 **) (** generator:=1 **)  (** succeeded=67 **)
+17206632   ReDate ReTime bastion (** apmd[**]:=5 **) Version (** 3.0.2=1 **) (** (APM=1 **) (** BIOS=5 **) (** 1.2=2 **), (** Linux=8 **) (** driver=15 **) (** 1.1**)=2 **)
+17206632   ReDate ReTime bastion (** apmd[**]:=5 **) (** apmd_call_proxy:=2 **) (** executing:=2 **) (** RePath-scriptsRePath=2 **) (** start=3 **)
+17206632   ReDate ReTime bastion (** (** sshd:=6 **)=6 **) (** Starting=4 **) sshd:
+17206632   ReDate ReTime bastion (** sshd:=6 **) 
+17206632   ReDate ReTime bastion ((((** *=3 **)* *=3 **)* *=3 **)* apmd[**]:=5 **) (** Charge:=1 **) * * * (** (-1%=1 **) (** unknown)=1 **)
+17206632   ReDate ReTime bastion (** sysctl:=8 **) (** net.ipv**.ip_forward=2 **) (** =ReDigit=9 **)
+17206632   ReDate ReTime bastion (** sysctl:=8 **) (** net.ipv**.conf.default.rp_filter=2 **) (** =ReDigit=9 **)
+17206632   ReDate ReTime bastion (** sysctl:=8 **) (** kernel.sysrq=2 **) (** =ReDigit=9 **)
+17206632   ReDate ReTime bastion (** sysctl:=8 **) (** kernel.core_uses_pid=2 **) (** =ReDigit=9 **)
+17206632   ReDate ReTime bastion (** fsck:=4 **) (** RePath:=14 **) (** clean=4 **), (** 5490**RePath**=1 **) (** files=4 **), (** 18230**RePath**=1 **) (** blocks=4 **) 
+17206632   ReDate ReTime bastion (** fsck:=4 **) (** RePath:=14 **) (** clean=4 **), (** 337**RePath**=1 **) (** files=4 **), (** 42693**RePath**=1 **) (** blocks=4 **) 
+17206632   ReDate ReTime bastion (** fsck:=4 **) (** RePath:=14 **) (** clean=4 **), (** 2281**RePath**=1 **) (** files=4 **), (** 265751**RePath**=1 **) (** blocks=4 **) 
+17206632   ReDate ReTime bastion (** fsck:=4 **) (** RePath:=14 **) (** clean=4 **), (** 13**RePath**=1 **) (** files=4 **), (** 3253**RePath**=1 **) (** blocks=4 **) 
+17206632   ReDate ReTime bastion (** init:=2 **) Entering (** runlevel:ReDigit=2 **)
+17206632   ReDate ReTime bastion (** sysctl:=8 **) (** net.ipv**.ip_forward=2 **) (** =ReDigit=9 **)
+17206632   ReDate ReTime bastion (** sysctl:=8 **) (** net.ipv**.conf.default.rp_filter=2 **) (** =ReDigit=9 **)
+17206632   ReDate ReTime bastion (** sysctl:=8 **) (** kernel.sysrq=2 **) (** =ReDigit=9 **)
+17206632   ReDate ReTime bastion (** sysctl:=8 **) (** kernel.core_uses_pid=2 **) (** =ReDigit=9 **)
+17206632   ReDate ReTime bastion (** network:=3 **) (** Bringing=2 **) (** up=2 **) (** loopback=1 **) (** interface:=1 **)  (** succeeded=67 **) 
+17206632   ReDate ReTime bastion (** network:=3 **) (** Bringing=2 **) (** up=2 **) interface (** eth**:=3 **)  (** succeeded=67 **) 
+17206632   ReDate ReTime basti(** on=22 **) (** anacron[**]:=11 **) (** Anacron=2 **) (** 2.3=1 **) (** started=1 **) on (** 200**-0**-2**=8 **)
+17206632   ReDate ReTime bastion (** anacron[**]:=11 **) (** Normal=1 **) (** exit=1 **) (** (0=1 **) (** jobs=1 **) (** run)=1 **)
+17206632   ReDate ReTime basti(** on=22 **)  (** --=8 **) (** (** root=23 **)[**]:=3 **) ROOT (** LOGIN=6 **) ON (** tty**=6 **)
+17206632   ReDate ReTime basti(** on=22 **)  (** --=8 **) (** (** root=23 **)[**]:=3 **) ROOT (** LOGIN=6 **) ON (** tty**=6 **)
+17206632   ReDate ReTime basti(** on=22 **) exiting on (** signal=8 **) (** 1**=19 **)
+17206632   ReDate ReTime bastion (** syslogd=13 **) (** 1.4.1:=6 **) (** restart=2 **) (** (remote=2 **) (** reception).=2 **)
+17206632   ReDate ReTime bastion (** (** modprobe:=2 **)=2 **) modprobe: (** Cant=1 **) (** locate=1 **) (** module=2 **) 
+17206632   ReDate ReTime bastion (** groupadd[**]:=3 **) (** new=19 **) (** group:=7 **) (** name=ntp=4 **), (** gid=3**=4 **) 
+17206632   ReDate ReTime bastion (** useradd[**]:=7 **) (** new=19 **) (** user:=7 **) (** name=ntp=4 **), (** uid=3**=2 **), (** gid=3**=4 **), (** home=RePath=7 **), (** shell=RePath=7 **) 
+17206632   ReDate ReTime bastion (** crontab[**]:=15 **) (**) (** BEGIN=6 **) (** EDIT=12 **) (**) 
+17206632   ReDate ReTime bastion (** crontab[**]:=15 **) (**) (** REPLACE=3 **) (**) 
+17206632   ReDate ReTime bastion (** crontab[**]:=15 **) (**) (** END=6 **) (** EDIT=12 **) (**) 
+17206632   ReDate ReTime basti(** on=22 **)  (** --=8 **) (** (** root=23 **)[**]:=3 **) ROOT (** LOGIN=6 **) ON (** tty**=6 **)
+17206632   ReDate ReTime bastion (** useradd[**]:=7 **) (** new=19 **) (** group:=7 **) (** name=mysql=2 **), (** gid=2**=2 **) 
+17206632   ReDate ReTime bastion (** useradd[**]:=7 **) (** new=19 **) (** user:=7 **) (** name=mysql=2 **), (** uid=2**=1 **), (** gid=2**=2 **), (** home=RePath=7 **), (** shell=RePath=7 **) 
+17206632   ReDate ReTime bastion (** syslogd=13 **) (** 1.4.1:=6 **) (** restart=2 **) (** (remote=2 **) (** reception).=2 **)
+17206632   ReDate ReTime bastion (** mysql_install_(** db=1 **):=32 **) (** Preparing=6 **) db (** table=12 **)
+17206632   ReDate ReTime bastion (** mysql_install_db:=32 **) (** Preparing=6 **) host (** table=12 **)
+17206632   ReDate ReTime bastion (** mysql_install_db:=32 **) (** Preparing=6 **) (** func=1 **) (** table=12 **)
+17206632   ReDate ReTime bastion (** mysql_install_db:=32 **) (** Preparing=6 **) (** (** table=12 **)s_priv=1 **) table
+17206632   ReDate ReTime bastion (** mysql_install_db:=32 **) (** Preparing=6 **) (** columns_priv=1 **) (** table=12 **)
+17206632   ReDate ReTime bastion (** mysql_inst(** all=1 **)_db:=32 **) (** Installing=1 **) all (** prepared=1 **) (** tables=2 **)
+17206632   ReDate ReTime bastion (** mysql_install_db:=32 **) 
+17206632   ReD(** at=13 **)e Re(** Time=8 **) bastion (** mysql_install_db:=32 **) To (** start=3 **) (** mysqld=1 **) at (** boot=1 **) time (** you=3 **) (** have=1 **) (** (** to=26 **)=26 **) (** copy=1 **) (** support-filesRePath=1 **)
+17206632   ReDate ReTime bastion (** mysql_install_db:=32 **) 
+17206632   ReDate ReTime bastion (** mysql_install_db:=32 **) (** Th(** is=6 **)=1 **) is (** done=1 **) (** with:=2 **)
+17206632   ReDate ReTime bastion (** mysql_install_db:=32 **) (** RePath=15 **) (** -u=2 **) (** root=23 **) (** -p=2 **) password (** new-password=2 **)
+17206632   ReDate ReTime bastion (** mysql_install_db:=32 **) 
+17206632   ReDate ReTime bastion (** mysql_install_db:=32 **) You (** can=2 **) (** start=3 **) (** the=13 **) (** MySQL=6 **) (** daemon=7 **) (** with:=2 **)
+17206632   ReDate ReTime bastion (** mysql_install_db:=32 **) (** cd=2 **) (** RePath=15 **) (** ;=2 **) (** RePath_mysqld=1 **) (** &=2 **)
+17206632   ReDate ReTime bastion (** mysql_install_db:=32 **) 
+17206632   ReDate ReTime bastion (** mysql_(** in=3 **)stall_db:=32 **) You (** can=2 **) (** test=1 **) (** (** (** the=13 **)=13 **)=13 **) (** MySQL=6 **) (** daemon=7 **) (** with=8 **) the (** benchmarks=1 **) in the (** sql-bench=2 **) (** directory:=1 **)
+17206632   ReDate ReTime bastion (** mysql_install_db:=32 **) (** cd=2 **) (** sql-bench=2 **) (** ;=2 **) (** run-all-tests=1 **)
+17206632   ReDate ReTime bastion (** mysql_install_db:=32 **) 
+17206632   ReDate ReTime bastion (** mysql_install_db:=32 **) Please (** report=1 **) (** any=2 **) (** problems=1 **) (** with=8 **) (** the=13 **) (** RePath=15 **) (** script!=1 **)
+17206632   ReDate ReTime bastion (** mysql_install_db:=32 **) 
+17206632   ReD(** at=13 **)e ReTime basti(** on=22 **) (** mysql_install_db:=32 **) The (** latest=1 **) (** information=1 **) (** about=1 **) (** MySQL=6 **) (** is=6 **) (** available=2 **) on (** (** the=13 **)=13 **) (** web=1 **) at
+17206632   ReDate ReTime bastion (** mysql_install_db:=32 **) (** http:RePath.com=1 **)
+17206632   ReD(** at=13 **)e ReTime bastion (** mysql_install_db:=32 **) (** Support=1 **) (** MySQL=6 **) (** by=53 **) (** buying=1 **) (** supportRePath=1 **) at (** https:RePath.com=1 **)
+17206632   ReDate ReTime bastion (** mysql_install_db:=32 **) 
+17206632   ReDate ReTime bastion (** mysql_install_db:=32 **) (** RePath:=14 **) Shutdown (** Complete=1 **)
+17206632   ReDate ReTime bastion (** mysql_install_db:=32 **) 
+17206632   ReDate ReTime bastion (** adduser[**]:=4 **) (** new=19 **) (** group:=7 **) (** name=snort=2 **), (** gid=50**=4 **) 
+17206632   ReDate ReTime bastion (** adduser[**]:=4 **) (** new=19 **) (** user:=7 **) (** name=snort=2 **), (** uid=50**=2 **), (** gid=50**=4 **), (** home=RePath=7 **), (** shell=RePath=7 **) 
+17206632   ReDate ReTime bastion (** snort:=16 **) (** WARNING:=3 **) (** OpenPcap()=3 **) (** device=53 **) (** eth**=22 **) (** network=4 **) (** lookup:=3 **)  (** ^Ieth**:=3 **) no (** IPv**=3 **) (** address=39 **) (** assigned=5 **) 
+17206632   ReDate ReTime bastion (** snort:=16 **) (** Initializing=8 **) (** daemon=7 **) (** mode=47 **) 
+17206632   ReDate ReTime bastion (** snort:=16 **) PID (** stat=3 **) (** checked=3 **) (** out=4 **) (** ok=3 **), PID set (** to=26 **) (** RePath=15 **) 
+17206632   ReDate ReTime bastion (** snort:=16 **) (** Writing=3 **) PID (** file=3 **) (** to=26 **) (** "RePath"=3 **) 
+17206632   ReDate ReTime bastion (** snort:=16 **) (** WARNING:=3 **) (** OpenPcap()=3 **) (** device=53 **) (** eth**=22 **) (** network=4 **) (** lookup:=3 **)  (** ^Ieth**:=3 **) no (** IPv**=3 **) (** address=39 **) (** assigned=5 **) 
+17206632   ReDate ReTime bastion (** snort:=16 **) (** Initializing=8 **) (** daemon=7 **) (** mode=47 **) 
+17206632   ReDate ReTime bastion (** snort:=16 **) PID (** stat=3 **) (** checked=3 **) (** out=4 **) (** ok=3 **), PID set (** to=26 **) (** RePath=15 **) 
+17206632   ReDate ReTime bastion (** snort:=16 **) (** Writing=3 **) PID (** file=3 **) (** to=26 **) (** "RePath"=3 **) 
+17206632   ReDate ReTime bastion (** (** (** snort=9 **)=9 **):=16 **) Snort (** initialization=2 **) (** completed=2 **) (** successfully=2 **), Snort (** running=5 **)
+17206632   ReDate ReTime bastion (** (** snort=9 **):=16 **) Snort received (** signal=8 **) (** 1**=19 **), exiting 
+17206632   ReDate ReTime bastion (** snort:=16 **) (** WARNING:=3 **) (** OpenPcap()=3 **) (** device=53 **) (** eth**=22 **) (** network=4 **) (** lookup:=3 **)  (** ^Ieth**:=3 **) no (** IPv**=3 **) (** address=39 **) (** assigned=5 **) 
+17206632   ReDate ReTime bastion (** snort:=16 **) (** Initializing=8 **) (** daemon=7 **) (** mode=47 **) 
+17206632   ReDate ReTime bastion (** snort:=16 **) PID (** stat=3 **) (** checked=3 **) (** out=4 **) (** ok=3 **), PID set (** to=26 **) (** RePath=15 **) 
+17206632   ReDate ReTime bastion (** snort:=16 **) (** Writing=3 **) PID (** file=3 **) (** to=26 **) (** "RePath"=3 **) 
+17206632   ReDate ReTime bastion (** (** (** snort=9 **)=9 **):=16 **) Snort (** initialization=2 **) (** completed=2 **) (** successfully=2 **), Snort (** running=5 **)
+17206632   ReDate ReTime bastion (** useradd[**]:=7 **) (** new=19 **) (** group:=7 **) (** name=apache=2 **), (** gid=4**=2 **) 
+17206632   ReDate ReTime bastion (** useradd[**]:=7 **) (** new=19 **) (** user:=7 **) (** name=apache=2 **), (** uid=4**=1 **), (** gid=4**=2 **), (** home=RePath=7 **), (** shell=RePath=7 **) 
+17206632   ReDate ReTime bastion (** crontab[**]:=15 **) (**) (** BEGIN=6 **) (** EDIT=12 **) (**) 
+17206632   ReDate ReTime bastion (** crontab[**]:=15 **) (**) (** END=6 **) (** EDIT=12 **) (**) 
+17206632   ReDate ReTime bastion (** crontab[**]:=15 **) (**) (** BEGIN=6 **) (** EDIT=12 **) (**) 
+17206632   ReDate ReTime bastion (** crontab[**]:=15 **) (**) (** REPLACE=3 **) (**) 
+17206632   ReDate ReTime bastion (** crontab[**]:=15 **) (**) (** END=6 **) (** EDIT=12 **) (**) 
+17206632   ReDate ReTime bastion (** crontab[**]:=15 **) (**) (** BEGIN=6 **) (** EDIT=12 **) (**) 
+17206632   ReDate ReTime bastion (** crontab[**]:=15 **) (**) (** REPLACE=3 **) (**) 
+17206632   ReDate ReTime bastion (** crontab[**]:=15 **) (**) (** END=6 **) (** EDIT=12 **) (**) 
+17206632   ReDate ReTime bastion (** crontab[**]:=15 **) (**) (** BEGIN=6 **) (** EDIT=12 **) (**) 
+17206632   ReDate ReTime bastion (** crontab[**]:=15 **) (**) (** END=6 **) (** EDIT=12 **) (**) 
+17206632   ReDate ReTime bastion (** crontab[**]:=15 **) (**) (** BEGIN=6 **) (** EDIT=12 **) (**) 
+17206632   ReDate ReTime bastion (** crontab[**]:=15 **) (**) (** END=6 **) (** EDIT=12 **) (**) 
+17206632   ReDate ReTime bastion (** sendmail[**]:=8 **) (** unable=2 **) (** to=26 **) (** qualify=2 **) my (** own=2 **) (** domain=6 **) (** (** name=9 **)=9 **) (**) (** --=8 **) using (** short=2 **) name
+17206632   ReDate ReTime bastion (** sendmail[**]:=8 **) (** alias=1 **) (** database=1 **) (** RePath=15 **) (** rebuilt=1 **) (** by=53 **) (** root=23 **)
+17206632   ReDate ReTime bastion (** sendmail[**]:=8 **) (** RePath:=14 **) (** 4**=3 **) (** aliases=1 **), (** longest=1 **) (** 1**=19 **) (** (** bytes=2 **)=2 **), (** 39**=1 **) bytes (** total=1 **)
+17206632   ReDate ReTime bastion (** adduser[**]:=4 **) (** new=19 **) (** group:=7 **) (** name=acid=2 **), (** gid=50**=4 **) 
+17206632   ReDate ReTime bastion (** adduser[**]:=4 **) (** new=19 **) (** user:=7 **) (** name=acid=2 **), (** uid=50**=2 **), (** gid=50**=4 **), (** home=RePath=7 **), (** shell=RePath=7 **) 
+17206632   ReDate ReTime bastion (** sendmail[**]:=8 **) (** unable=2 **) (** to=26 **) (** qualify=2 **) my (** own=2 **) (** domain=6 **) (** (** name=9 **)=9 **) (**) (** --=8 **) using (** short=2 **) name
+17206632   ReDate ReTime bastion (** sendmail[**]:=8 **) (** g8UJ30J1109**:=2 **) (** from=root=1 **), (** size=734**=1 **), (** class=0=1 **), (** nrcpts=1=1 **), (** msgid=<20020930190**.g8UJ30J1109**@bastion>=1 **), (** relay=root@localhost=1 **)
+17206632   ReDate ReTime bastion (** sendmail[**]:=8 **) (** g8UJ30J1109**:=2 **) (** to=anton=1 **), (** ctladdr=root=1 **) (** (0RePath)=1 **), (** delay=ReTime=1 **), (** xdelay=ReTime=1 **), (** mailer=local=1 **), (** pri=3734**=1 **), (** dsn=2.0.0=1 **), (** stat=Sent=1 **)
+17206632   ReDate ReTime bastion (** httpd:=21 **) 
+17206632   ReDate ReTime bastion (** httpd:=21 **) 
+17206632   ReDate ReTime bastion (** (** httpd=12 **):=21 **) httpd (** shutdown=18 **) (** failed=5 **)
+17206632   ReDate ReTime bastion (** httpd:=21 **) 
+17206632   ReDate ReTime bastion (** (** httpd=12 **):=21 **) httpd (** shutdown=18 **) (** failed=5 **)
+17206632   ReDate ReTime bastion (** (** httpd=12 **):=21 **) httpd (** shutdown=18 **) (** failed=5 **)
+17206632   ReDate ReTime bastion (** (** httpd=12 **):=21 **) httpd (** shutdown=18 **) (** failed=5 **)
+17206632   ReDate ReTime bastion (** (** httpd=12 **):=21 **) httpd (** shutdown=18 **) (** failed=5 **)
+17161312   ReDate ReTime bridge kernel: device eth** left promiscuous mode
+17161312   ReDate ReTime bridge kernel: device eth** left promiscuous mode
+17161312   ReDate ReTime bridge kernel: device eth** left promiscuous mode
+17161312   ReDate ReTime bridge kernel: device eth** left promiscuous mode
+17161312   ReDate ReTime bridge kernel: device eth** left promiscuous mode
+17161312   ReDate ReTime bridge kernel: device eth** left promiscuous mode
+17161312   ReDate ReTime bridge kernel: device eth** left promiscuous mode 
+17161312   ReDate ReTime bridge kernel: device eth** left promiscuous mode 
+16440632   ReDate ReTime bridge sshd(**)[**]: session opened for user anton by (** (uid=0)=33 **)
+16440632   ReDate ReTime bridge sshd(**)[**]: session opened for user anton by (** (uid=0)=33 **)
+16440632   ReDate ReTime bridge sshd(**)[**]: session opened for user anton by (** (uid=0)=33 **)
+16440632   ReDate ReTime bridge sshd(**)[**]: session opened for user anton by (** (uid=0)=33 **)
+15481952   ReDate ReTime bridge kernel: br**: port (** 2(**)=16 **) entering (** disabled=9 **) state
+15481952   ReDate ReTime bridge kernel: br**: port (** 1(**)=16 **) entering (** disabled=9 **) state
+15481952   ReDate ReTime bridge kernel: br**: port (** 2(**)=16 **) entering (** listening=9 **) state
+15481952   ReDate ReTime bridge kernel: br**: port (** 1(**)=16 **) entering (** listening=9 **) state
+15481952   ReDate ReTime bridge kernel: br**: port (** 2(**)=16 **) entering (** learning=8 **) state
+15481952   ReDate ReTime bridge kernel: br**: port (** 1(**)=16 **) entering (** learning=8 **) state
+15481952   ReDate ReTime bridge kernel: br**: port (** 2(**)=16 **) entering (** forwarding=8 **) state
+15481952   ReDate ReTime bridge kernel: br**: port (** 1(**)=16 **) entering (** forwarding=8 **) state
+15481952   ReDate ReTime bridge kernel: br**: port (** 2(**)=16 **) entering (** disabled=9 **) state
+15481952   ReDate ReTime bridge kernel: br**: port (** 1(**)=16 **) entering (** disabled=9 **) state
+15481952   ReDate ReTime bridge kernel: br**: port (** 2(**)=16 **) entering (** listening=9 **) state
+15481952   ReDate ReTime bridge kernel: br**: port (** 1(**)=16 **) entering (** listening=9 **) state
+15481952   ReDate ReTime bridge kernel: br**: port (** 2(**)=16 **) entering (** learning=8 **) state
+15481952   ReDate ReTime bridge kernel: br**: port (** 1(**)=16 **) entering (** learning=8 **) state
+15481952   ReDate ReTime bridge kernel: br**: port (** 2(**)=16 **) entering (** forwarding=8 **) state
+15481952   ReDate ReTime bridge kernel: br**: port (** 1(**)=16 **) entering (** forwarding=8 **) state
+15481952   ReDate ReTime bridge kernel: br**: port (** 2(**)=16 **) entering (** disabled=9 **) state
+15481952   ReDate ReTime bridge kernel: br**: port (** 1(**)=16 **) entering (** disabled=9 **) state
+15481952   ReDate ReTime bridge kernel: br**: port (** 2(**)=16 **) entering (** listening=9 **) state
+15481952   ReDate ReTime bridge kernel: br**: port (** 1(**)=16 **) entering (** listening=9 **) state
+15481952   ReDate ReTime bridge kernel: br**: port (** 2(**)=16 **) entering (** learning=8 **) state
+15481952   ReDate ReTime bridge kernel: br**: port (** 1(**)=16 **) entering (** learning=8 **) state
+15481952   ReDate ReTime bridge kernel: br**: port (** 2(**)=16 **) entering (** forwarding=8 **) state
+15481952   ReDate ReTime bridge kernel: br**: port (** 1(**)=16 **) entering (** forwarding=8 **) state
+15481952   ReDate ReTime bridge kernel: br**: port (** 2(**)=16 **) entering (** disabled=9 **) state 
+15481952   ReDate ReTime bridge kernel: br**: port (** 1(**)=16 **) entering (** disabled=9 **) state 
+15481952   ReDate ReTime bridge kernel: br**: port (** 2(**)=16 **) entering (** listening=9 **) state 
+15481952   ReDate ReTime bridge kernel: br**: port (** 1(**)=16 **) entering (** listening=9 **) state 
+15481952   ReDate ReTime bridge kernel: br**: port (** 2(**)=16 **) entering (** learning=8 **) state 
+15481952   ReDate ReTime bridge kernel: br**: port (** 1(**)=16 **) entering (** learning=8 **) state 
+15481952   ReDate ReTime bridge kernel: br**: port (** 2(**)=16 **) entering (** forwarding=8 **) state 
+15481952   ReDate ReTime bridge kernel: br**: port (** 1(**)=16 **) entering (** forwarding=8 **) state 
+15452152   ReDate ReTime bridge sshd(**)[**]: session (** closed=46 **) for user anton
+15452152   ReDate ReTime bridge sshd(**)[**]: session (** closed=46 **) for user anton
+15452152   ReDate ReTime bridge sshd(**)[**]: session (** closed=46 **) for user anton
+15452152   ReDate ReTime bridge sshd(**)[**]: session (** closed=46 **) for user anton
+15452152   ReDate ReTime bridge sshd(**)[**]: session (** closed=46 **) for user anton 
+15367872   ReDate ReTime bridge sshd[**]: Accepted publickey for anton from ReIP port (** 4283**=1 **) ssh**
+15367872   ReDate ReTime bridge sshd[**]: Accepted publickey for anton from ReIP port (** 3277**=5 **) ssh**
+15367872   ReDate ReTime bridge sshd[**]: Accepted publickey for anton from ReIP port (** 3277**=5 **) ssh**
+15367872   ReDate ReTime bridge sshd[**]: Accepted publickey for anton from ReIP port (** 3277**=5 **) ssh**
+14175512   ReDate ReTime bridge (** su(**)[**]:=9 **) session opened for user anton by (** anton(uid=0)=1 **) 
+14005832   ReDate ReTime bridge (** su(**)[**]:=9 **) session closed for user anton 
+13438152   ReDate ReTime bridge kernel: (** ip_(** queue=6 **):=3 **) (** peer=5 **) (** pid=12 **) (** changed=3 **) from (** (** 265**=6 **)=6 **) to 265**, (** flushing=3 **) queue
+13438152   ReDate ReTime bridge kernel: (** ip_(** queue=6 **):=3 **) (** peer=5 **) (** pid=12 **) (** changed=3 **) from (** (** 265**=6 **)=6 **) to 265**, (** flushing=3 **) queue
+13438152   ReDate ReTime bridge kernel: (** ip_(** queue=6 **):=3 **) (** peer=5 **) (** pid=12 **) (** changed=3 **) from (** (** 265**=6 **)=6 **) to 265**, (** flushing=3 **) queue
+13195352   ReDate ReTime bridge kernel: br**: (** topology=8 **) (** change=10 **) (** detected=11 **), (** propagating=8 **)
+13195352   ReDate ReTime bridge kernel: br**: (** topology=8 **) (** change=10 **) (** detected=11 **), (** propagating=8 **)
+13195352   ReDate ReTime bridge kernel: br**: (** topology=8 **) (** change=10 **) (** detected=11 **), (** propagating=8 **)
+13195352   ReDate ReTime bridge kernel: br**: (** topology=8 **) (** change=10 **) (** detected=11 **), (** propagating=8 **)
+13195352   ReDate ReTime bridge kernel: br**: (** topology=8 **) (** change=10 **) (** detected=11 **), (** propagating=8 **)
+13195352   ReDate ReTime bridge kernel: br**: (** topology=8 **) (** change=10 **) (** detected=11 **), (** propagating=8 **)
+13195352   ReDate ReTime bridge kernel: br**: (** topology=8 **) (** change=10 **) (** detected=11 **), (** propagating=8 **) 
+13195352   ReDate ReTime bridge kernel: br**: (** topology=8 **) (** change=10 **) (** detected=11 **), (** propagating=8 **) 
+12907352   ReDate ReTime bridge kernel: (** k(** log(** ==9 **)6 **)d=10 **) (** 1.4.1=4 **), log (** source=4 **) = (** RePath=15 **) (** started.=4 **)
+12907352   ReDate ReTime bridge kernel: (** Kernel=13 **) (** logging=2 **) (**) (** stopped.=2 **)
+12907352   ReDate ReTime bridge kernel: (** Kernel=13 **) (** log=6 **) (** daemon=7 **) (** terminating.=3 **)
+12907352   ReDate ReTime bridge kernel: (** k(** log(** ==9 **)6 **)d=10 **) (** 1.4.1=4 **), log (** source=4 **) = (** RePath=15 **) (** started.=4 **) 
+12907352   ReDate ReTime bridge kernel: (** SPOOFED=1 **) (** SOURCE:=1 **) (** IN=br**=1 **) (** PHYSIN=eth**=1 **) (** OUT=br**=1 **) (** PHYSOUT=eth**=1 **) (** SRC=ReIP=1 **) (** DST=ReIP=1 **) (** LEN=3**=1 **) (** TOS=0x0**=1 **) (** PREC=0x0**=1 **) (** TTL=1=1 **) (** ID=0=1 **) (** DF=1 **) (** PROTO=2=1 **)  
+12456272   ReDate ReTime bridge (** su(**)[**]:=9 **) session closed for user (** root=23 **)
+12456272   ReDate ReTime bridge (** su(**)[**]:=9 **) session closed for user (** root=23 **) 
+12447072   ReDate ReTime bridge sshd[**]: Could not reverse map address ReIP.
+12447072   ReDate ReTime bridge sshd[**]: Could not reverse map address ReIP.
+12447072   ReDate ReTime bridge sshd[**]: Could not reverse map address ReIP.
+12447072   ReDate ReTime bridge sshd[**]: Could not reverse map address ReIP.
+11877504   ReDate ReTime bridge (** ntpd=8 **)[**]: ntpd (** 4.1.1@1.78**=3 **) (** Mon=3 **) ReDate ReTime (** EDT=6 **) (** 200**=7 **) (**) 
+11877504   ReDate ReTime bridge (** ntpd=8 **)[**]: ntpd (** 4.1.1@1.78**=3 **) (** Mon=3 **) ReDate ReTime (** EDT=6 **) (** 200**=7 **) (**) 
+10424392   ReDate ReTime bridge (** syslog:=13 **) (** syslogd=13 **) startup succeeded
+10424392   ReDate ReTime bridge (** syslog:=13 **) (** klogd=10 **) startup succeeded
+10424392   ReDate ReTime bridge (** syslog:=13 **) (** syslogd=13 **) startup succeeded 
+10424392   ReDate ReTime bridge (** syslog:=13 **) (** klogd=10 **) startup succeeded 
+10424392   ReDate ReTime bridge (** (** ntpd=8 **):=4 **) ntpd startup succeeded 
+10424392   ReDate ReTime bridge (** (** ntpd=8 **):=4 **) ntpd startup succeeded 
+10384872   ReDate ReTime bridge ntpd[**]: (** frequency=3 **) (** initialized=4 **) 0.00** from (** RePath=15 **) 
+10384872   ReDate ReTime bridge ntpd[**]: (** frequency=3 **) (** initialized=4 **) 0.00** from (** RePath=15 **) 
+10319912   ReDate ReTime bridge (** syslog:=13 **) (** syslogd=13 **) shutdown succeeded 
+10319912   ReDate ReTime bridge (** (** atd=2 **):=2 **) atd shutdown succeeded
+10319912   ReDate ReTime bridge (** (** gpm=2 **):=2 **) gpm shutdown succeeded
+10319912   ReDate ReTime bridge (** (** crond=2 **):=2 **) crond shutdown succeeded
+10319912   ReDate ReTime bridge (** (** apmd=2 **):=2 **) apmd shutdown succeeded
+10319912   ReDate ReTime bridge (** syslog:=13 **) (** klogd=10 **) shutdown succeeded
+10319912   ReDate ReTime bridge (** syslog:=13 **) (** syslogd=13 **) shutdown succeeded  
+10319912   ReDate ReTime bridge (** (** ntpd=8 **):=4 **) ntpd shutdown succeeded 
+10066712   ReDate ReTime bridge (** ntpd=8 **)[**]: ntpd exiting on (** signal=8 **) 1** 
+9975192   ReDate ReTime bridge ntpd[**]: (** precision(** ==9 **)3 **) = 1** (** usec=3 **) 
+9975192   ReDate ReTime bridge ntpd[**]: (** precision(** ==9 **)3 **) = 1** (** usec=3 **) 
+9973672   ReDate ReTime bridge ntpd[**]: (** (** signal=8 **)_no_reset:=3 **) signal (** 1**=19 **) (** had=3 **) flags (** 400000**=3 **) 
+9973672   ReDate Re(** Time=8 **) bridge ntpd[**]: kernel time (** discipline=5 **) (** status=12 **) (** 004**=3 **) 
+9973672   ReDate ReTime bridge ntpd[**]: (** logconfig:=2 **) (** illegal=2 **) (** argument=3 **)  (** -=11 **) (** ignored=2 **) 
+9973672   ReDate ReTime bridge ntpd[**]: (** running=5 **) (** as=3 **) (** uid(**)RePath(**)=3 **) (** euid(**)RePath(**).=3 **) 
+9973672   ReDate ReTime bridge ntpd[**]: (** system=9 **) (** event=11 **) (** event_restart=3 **) (**) (** status=12 **) (** sync_alarm=3 **), (** sync_unspec=2 **),(** ReDigitevent=4 **), (** event_unspec=2 **) (**) 
+9973672   ReDate ReTime bridge ntpd[**]: (** peer=5 **) (** LOCAL(**)=2 **) (** event=11 **) (** (** event_reach=4 **)=4 **) (**) (** status=12 **) (** unreach=2 **), (** conf=2 **),(** ReDigitevent=4 **), event_reach (**) 
+9973672   ReDate ReTime bridge ntpd[**]: (** (** signal=8 **)_no_reset:=3 **) signal (** 1**=19 **) (** had=3 **) flags (** 400000**=3 **) 
+9973672   ReDate Re(** Time=8 **) bridge ntpd[**]: kernel time (** discipline=5 **) (** status=12 **) (** 004**=3 **) 
+9973672   ReDate ReTime bridge ntpd[**]: (** logconfig:=2 **) (** illegal=2 **) (** argument=3 **)  (** -=11 **) (** ignored=2 **) 
+9973672   ReDate ReTime bridge ntpd[**]: (** running=5 **) (** as=3 **) (** uid(**)RePath(**)=3 **) (** euid(**)RePath(**).=3 **) 
+9973672   ReDate ReTime bridge ntpd[**]: (** system=9 **) (** event=11 **) (** event_restart=3 **) (**) (** status=12 **) (** sync_alarm=3 **), (** sync_unspec=2 **),(** ReDigitevent=4 **), (** event_unspec=2 **) (**) 
+9973672   ReDate ReTime bridge ntpd[**]: (** peer=5 **) (** LOCAL(**)=2 **) (** event=11 **) (** (** event_reach=4 **)=4 **) (**) (** status=12 **) (** unreach=2 **), (** conf=2 **),(** ReDigitevent=4 **), event_reach (**) 
+9973672   ReDate ReTime bridge ntpd[**]: (** system=9 **) (** event=11 **) (** event_peerRePath_chg=3 **) (**) (** status=12 **) (** sync_alarm=3 **), (** sync_local_proto=3 **),(** ReDigitevents=3 **), (** event_restart=3 **) (**) 
+9973672   ReDate Re(** Time=8 **) bridge ntpd[**]: kernel time (** discipline=5 **) (** status=12 **) (** change=10 **) (** 4**=3 **) 
+9973672   ReDate ReTime bridge ntpd[**]: (** system=9 **) (** event=11 **) (** event_sync_chg=2 **) (**) (** status=12 **) (** leap_none=2 **), (** sync_local_proto=3 **),(** ReDigitevents=3 **), (** event_peerRePath_chg=3 **) (**) 
+9973672   ReDate ReTime bridge ntpd[**]: (** system=9 **) (** event=11 **) (** event_peerRePath_chg=3 **) (**) (** status=12 **) (** leap_none=2 **), (** sync_local_proto=3 **),(** ReDigitevents=3 **), (** event_sync_chg=2 **) (**) 
+9705752   ReDate ReTime bridge (** (** sshd=1 **):=6 **) sshd (** -TERM=1 **) succeeded
+9705752   ReDate ReTime bridge (** (** random=2 **):=2 **) (** Saving=1 **) random (** seed:=1 **)  succeeded
+9181752   ReDate ReTime bridge sshd[**]: (** Received=2 **) (** signal=8 **) (** 1**;=1 **) (** terminating.=3 **)
+8459272   ReDate ReTime bridge (** anacron[**]:=11 **) (** Updated=9 **) (** timestamp=9 **) for (** job=9 **) (** `cron.daily=7 **) to (** 200**-0**-2**=8 **) 
+8459272   ReDate ReTime bridge (** anacron[**]:=11 **) (** Updated=9 **) (** timestamp=9 **) for (** job=9 **) (** `cron.daily=7 **) to (** 200**-0**-2**=8 **) 
+8459272   ReDate ReTime bridge (** anacron[**]:=11 **) (** Updated=9 **) (** timestamp=9 **) for (** job=9 **) (** `cron.weekly=2 **) to (** 200**-0**-2**=8 **) 
+8459272   ReDate ReTime bridge (** anacron[**]:=11 **) (** Updated=9 **) (** timestamp=9 **) for (** job=9 **) (** `cron.daily=7 **) to (** 200**-0**-3**=2 **) 
+8339672   ReDate ReTime bridge (** shut(** down=1 **):=1 **) (** shutting=1 **) down for (** system=9 **) (** reboot=1 **)
+7732072   ReDate ReTime bridge (** RePath:=14 **) (** NET=4 **) (** unregister=4 **) (** event=11 **) not (** supported=4 **)
+7732072   ReDate ReTime bridge (** RePath:=14 **) (** NET=4 **) (** unregister=4 **) (** event=11 **) not (** supported=4 **)
+7732072   ReDate ReTime bridge (** RePath:=14 **) (** NET=4 **) (** unregister=4 **) (** event=11 **) not (** supported=4 **)
+7732072   ReDate ReTime bridge (** RePath:=14 **) (** NET=4 **) (** unregister=4 **) (** event=11 **) not (** supported=4 **) 
+7411672   ReDate ReTime bridge (** syslogd=13 **) (** 1.4.1:=6 **) (** restart.=4 **)
+7411672   ReDate ReTime bridge (** RePath:=14 **) (** invoke=4 **) (** ifup=4 **) (** br**=4 **)
+7411672   ReDate ReTime bridge (** groupadd[**]:=3 **) (** new=19 **) (** group:=7 **) (** name=pcap=2 **), (** gid=7**=2 **) 
+7411672   ReDate ReTime bridge (** useradd[**]:=7 **) (** new=19 **) (** user:=7 **) (** name=pcap=2 **), (** uid=7**=1 **), (** gid=7**=2 **), (** home=RePath=7 **), (** shell=RePath=7 **) 
+7411672   ReDate ReTime bridge (** RePath:=14 **) (** invoke=4 **) (** ifup=4 **) (** br**=4 **)
+7411672   ReDate ReTime bridge (** RePath:=14 **) (** invoke=4 **) (** ifup=4 **) (** br**=4 **)
+7411672   ReDate ReTime bridge (** init:=2 **) (** Switching=1 **) (** to=26 **) (** runlevel:ReDigit=2 **)
+7411672   ReDate ReTime bridge (** apmd[**]:=5 **) (** Exiting=5 **)
+7411672   ReDate ReTime bridge (** apmd[**]:=5 **) (** apmd_call_proxy:=2 **) (** executing:=2 **) (** RePath-scriptsRePath=2 **) (** stop=1 **)
+7411672   ReDate ReTime bridge (** dd:=2 **) (** 1+0=2 **) (** records=2 **) (** in=3 **)
+7411672   ReDate ReTime bridge (** dd:=2 **) (** 1+0=2 **) (** records=2 **) (** out=4 **)
+7411672   ReDate ReTime bridge exiting (** on=22 **) (** signal=8 **) (** 1**=19 **)
+7411672   ReDate ReTime bridge (** syslogd=13 **) (** 1.4.1:=6 **) (** restart.=4 **) 
+7411672   ReDate ReTime bridge (** groupadd[**]:=3 **) (** new=19 **) (** group:=7 **) (** name=ntp=4 **), (** gid=3**=4 **)  
+7411672   ReDate ReTime bridge (** useradd[**]:=7 **) (** new=19 **) (** user:=7 **) (** name=ntp=4 **), (** uid=3**=2 **), (** gid=3**=4 **), (** home=RePath=7 **), (** shell=RePath=7 **)  
+7411672   ReDate ReTime bridge (** RePath:=14 **) (** invoke=4 **) (** ifup=4 **) (** br**=4 **) 
+7411672   ReDate ReTime bridge (** syslogd=13 **) (** 1.4.1:=6 **) (** restart.=4 **) 

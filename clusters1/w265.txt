@@ -1,0 +1,1 @@
+6680   ReDate ReTime bastion ntpd (** ntpd=12 **) startup succeeded

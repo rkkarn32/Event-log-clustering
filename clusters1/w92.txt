@@ -1,0 +1,2 @@
+20292   ReDate ReTime bridge ntpd[**] precision = ReDigit usec
+20292   ReDate ReTime bridge ntpd[**] precision = ReDigit usec

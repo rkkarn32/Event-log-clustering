@@ -1,0 +1,11 @@
+17797056    ReDate   ReTime   mobileip[1459]:  ****  <NOTI> |mobileip|  Station  ReMAC ,  ReIP : Mobility  **** , on  ****   ReIP , VLAN 1, AP  ReMAC ,  ****  ReMAC  **** 
+17797056    ReDate   ReTime   mobileip[1459]:  ****  <NOTI> |mobileip|  Station  ReMAC ,  ReIP : Mobility  **** , on  ****   ReIP , VLAN 1, AP  ReMAC ,  ****  ReMAC  **** 
+17797056    ReDate   ReTime   mobileip[1459]:  ****  <NOTI> |mobileip|  Station  ReMAC ,  ReIP : Mobility  **** , on  ****   ReIP , VLAN 1, AP  ReMAC ,  ****  ReMAC  **** 
+17797056    ReDate   ReTime   mobileip[1459]:  ****  <NOTI> |mobileip|  Station  ReMAC ,  ReIP : Mobility  **** , on  ****   ReIP , VLAN 1, AP  ReMAC ,  ****  ReMAC  **** 
+17791536    ReDate   ReTime   mobileip[1459]:  ****  <NOTI> |mobileip|  Station  ReMAC ,  ReIP : Mobility  **** , on  ****   ReIP , VLAN  **** , AP  ReMAC ,  ****  ReMAC  **** 
+17791536    ReDate   ReTime   mobileip[1459]:  ****  <NOTI> |mobileip|  Station  ReMAC ,  ReIP : Mobility  **** , on  ****   ReIP , VLAN  **** , AP  ReMAC ,  ****  ReMAC  **** 
+17791536    ReDate   ReTime   mobileip[1459]:  ****  <NOTI> |mobileip|  Station  ReMAC ,  ReIP : Mobility  **** , on  ****   ReIP , VLAN  **** , AP  ReMAC ,  ****  ReMAC  **** 
+17791536    ReDate   ReTime   mobileip[1459]:  ****  <NOTI> |mobileip|  Station  ReMAC ,  ReIP : Mobility  **** , on  ****   ReIP , VLAN  **** , AP  ReMAC ,  ****  ReMAC  **** 
+17791536    ReDate   ReTime   mobileip[1459]:  ****  <NOTI> |mobileip|  Station  ReMAC ,  ReIP : Mobility  **** , on  ****   ReIP , VLAN  **** , AP  ReMAC ,  ****  ReMAC  **** 
+17791536    ReDate   ReTime   mobileip[1459]:  ****  <NOTI> |mobileip|  Station  ReMAC ,  ReIP : Mobility  **** , on  ****   ReIP , VLAN  **** , AP  ReMAC ,  ****  ReMAC  **** 
+17791536    ReDate   ReTime   mobileip[1459]:  ****  <NOTI> |mobileip|  Station  ReMAC ,  ReIP : Mobility  **** , on  ****   ReIP , VLAN  **** , AP  ReMAC ,  ****  ReMAC  **** 

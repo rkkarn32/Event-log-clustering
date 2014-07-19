@@ -1,0 +1,11 @@
+24412568    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****  ip= ReIP   **** = ****  role=authenticated,  **** =0,  **** =0  **** =0x10bd,  **** =0, HA=1,  **** =0,  **** =0
+24412568    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****  ip= ReIP   **** = ****  role=authenticated,  **** =0,  **** =0  **** =0x10bd,  **** =0, HA=1,  **** =0,  **** =0
+24342088    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****   ****  IP= ReIP  role=authenticated,  **** =  **** ,  **** = ****  role
+24342088    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****   ****  IP= ReIP  role=authenticated,  **** =  **** ,  **** = ****  role
+24342088    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****   ****  IP= ReIP  role=authenticated,  **** =  **** ,  **** = ****  role
+24342088    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****   ****  IP= ReIP  role=authenticated,  **** =  **** ,  **** = ****  role
+24297968    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****   ****   ****  user  ReIP   ****  to AP : ,  ****  Bssid:  ReMAC 
+24297968    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****   ****   ****  user  ReIP   ****  to AP : ,  ****  Bssid:  ReMAC 
+24297968    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****   ****   ****   ****  user  ReIP   ****  to AP : ,  ****  Bssid:  ReMAC 
+24274528    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****  ip= ReIP   **** = ****  role=authenticated,  **** =0,  **** =0  **** = **** ,  **** =0, HA=1,  **** =0,  **** =0
+24274528    ReDate   ReTime   authmgr[1453]: <522004> <DBUG> |authmgr|   ****  ip= ReIP   **** = ****  role=authenticated,  **** =0,  **** =0  **** = **** ,  **** =0, HA=1,  **** =0,  **** =0
